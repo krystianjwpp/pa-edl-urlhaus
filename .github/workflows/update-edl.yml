@@ -1,8 +1,8 @@
-name: Update PA URL EDL
+name: Update PA Threat Feeds
 on:
   schedule:
     - cron: '0 * * * *' # Runs automatically every single hour
-  workflow_dispatch: # Allows you to manually trigger it with a button click
+  workflow_dispatch: # Allows manual executions via button click
 
 jobs:
   build:
@@ -11,15 +11,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: Fetch Raw Feeds via Native System Curl
+        run: |
+          # Download using standard enterprise browser parameters to drop tracking walls
+          curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "https://abuse.ch" -o raw_urlhaus.txt
+          curl -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "https://emergingthreats.net" -o raw_et.txt
+
+      - name: Set up Python Engine
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies
-        run: pip install requests
-
-      - name: Run Parsing Script
+      - name: Execute Local Parsing Script
         run: python parse_domains.py
 
       - name: Commit and Push Clean Lists
@@ -27,5 +30,4 @@ jobs:
           git config --global user.name "edl-bot"
           git config --global user.email "edl-bot@github.com"
           git add pa-clean-urls.txt pa-clean-domains.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update of clean PA threat feeds" && git push)
-
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated deployment of clean PA threat feeds" && git push)
