@@ -1,50 +1,68 @@
 import requests
 
-# 1. Add standard browser headers to securely bypass Cloudflare bot mitigation
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
 }
 
-# Fetch the raw URLHaus text list
-source_url = "https://urlhaus.abuse.ch/downloads/text/"
-response = requests.get(source_url, headers=headers)
-lines = response.text.splitlines()
-
+# ==========================================
+# 1. PROCESS URLHAUS (FOR YOUR URL EDL)
+# ==========================================
+urlhaus_source = "https://abuse.ch"
 clean_urls = set()
 
-for line in lines:
-    line = line.strip()
-    
-    # 2. Skip comment headers and empty lines
-    if not line or line.startswith('#'):
-        continue
+try:
+    response = requests.get(urlhaus_source, headers=headers)
+    lines = response.text.splitlines()
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith('#'):
+            continue
+        if line.startswith('http://'): line = line[7:]
+        elif line.startswith('https://'): line = line[8:]
         
-    # 3. Strip protocols if they exist
-    if line.startswith('http://'):
-        line = line[7:]
-    elif line.startswith('https://'):
-        line = line[8:]
-        
-    try:
-        # 4. Extract the hostname to filter out raw IP addresses
+        # IP Verification
         if '/' in line:
             host_string = line.split('/', 1)[0]
         else:
             host_string = line
-            
-        # Strip out port numbers if present (e.g., domain.com:8080 -> domain.com)
         if ':' in host_string:
             host_string = host_string.split(':')[0]
             
-        # 5. Filter out raw IP addresses so Palo Alto URL lists accept it seamlessly
         clean_host_check = host_string.replace('.', '')
         if not clean_host_check.isdigit() and line:
             clean_urls.add(line)
-            
-    except Exception:
-        continue
+except Exception as e:
+    print(f"Error processing URLHaus: {e}")
 
-# Save the sorted, clean URLs to the flat file
+# ==========================================
+# 2. PROCESS EMERGING THREATS (FOR YOUR DOMAIN EDL)
+# ==========================================
+et_source = "https://emergingthreats.net"
+clean_domains = set()
+
+try:
+    response = requests.get(et_source, headers=headers)
+    lines = response.text.splitlines()
+    for line in lines:
+        line = line.strip()
+        # Skip comments, blank lines, or generic placeholders
+        if not line or line.startswith('#') or "localhost" in line:
+            continue
+            
+        # Ensure it's not a raw IP address
+        clean_host_check = line.replace('.', '')
+        if not clean_host_check.isdigit():
+            clean_domains.add(line.lower())
+except Exception as e:
+    print(f"Error processing Emerging Threats: {e}")
+
+# ==========================================
+# 3. WRITE BOTH FILES TO YOUR REPOSITORY
+# ==========================================
 with open("pa-clean-urls.txt", "w") as f:
     for url_path in sorted(clean_urls):
         f.write(f"{url_path}\n")
+
+with open("pa-clean-domains.txt", "w") as f:
+    for domain in sorted(clean_domains):
+        f.write(f"{domain}\n")
