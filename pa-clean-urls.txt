@@ -53,7 +53,7 @@
 <a href="https://abuse.ch/terms-of-use/" class="nav-link-w">Terms of Use</a>
 <a href="https://bazaar.abuse.ch/" target="_blank" title="MalwareBazaar">
 <a href="https://bsky.app/profile/abuse-ch.bsky.social">@abuse-ch.bsky.social</a>
-<a href="https://community.abuse.ch" target="_blank">Go to the Community Hub â</a>
+<a href="https://community.abuse.ch" target="_blank">Go to the Community Hub →</a>
 <a href="https://feodotracker.abuse.ch/" target="_blank" title="Feodo Tracker">
 <a href="https://hunting.abuse.ch/" target="_blank" title="Hunting">
 <a href="https://ioc.exchange/@abuse_ch" rel="noopener" target="_blank">
@@ -104,14 +104,13 @@
 <h3 class="mt-5 blogarchivewhite"><a href="/blog/community-first/" target="_parent" class="text-white">Community First - new authentication, new data, and new functionality</a></h3>
 <h3 class="mt-5 blogarchivewhite"><a href="/blog/creating-sustainability-for-abuse-ch-and-its-community/" target="_parent" class="text-white">Creating sustainability for abuse.ch and its community</a></h3>
 <h3 class="mt-5 blogarchivewhite"><a href="/blog/introducing-abuse-ch-community-hub/" target="_parent" class="text-white">Introducing the abuse.ch Community Hub: recognition matters</a></h3>
-<h3 class="mt-5 blogarchivewhite"><a href="/blog/introducing-abuse-ch-hunting-platform/" target="_parent" class="text-white">Introducing: abuse.châs Hunting Platform</a></h3>
+<h3 class="mt-5 blogarchivewhite"><a href="/blog/introducing-abuse-ch-hunting-platform/" target="_parent" class="text-white">Introducing: abuse.ch’s Hunting Platform</a></h3>
 <h3 class="mt-5 blogarchivewhite"><a href="/blog/introducing-yaraify/" target="_parent" class="text-white">Introducing YARAify</a></h3>
 <h3 class="statistic">Analysed File Types</h3>
 <h3 class="statistic">Most seen Malware</h3>
 <h3 class="statistic">Processed Malware Samples per Day</h3>
 <h3 class="statistic">Spam Statistics</h3>
 <head>
-<html lang="en">
 <img src="/images/bluesky.svg" alt="Bluesky logo" height="32">
 <img src="/images/linkedin.svg" alt="LinkedIn logo" height="32">
 <img src="/images/mastodon.svg" alt="Mastodon logo" height="28">
@@ -158,10 +157,10 @@
 <p style="color: #A6ACAF">Published on 29th July 2025, 13:30:00 UTC</p>
 <p style="color: #A6ACAF">Published on 8th Aug 2022, 13:00:00 UTC</p>
 <p style="color:#ffffff;">About a year ago, we have launched ThreatFox - a community driven platform to share indicators of compromise (IOCs). Today, I'm very excited to announce the launch of our most recent project: <a href="https://yaraify.abuse.ch/" target="_parent" title="YARAify">YARAify</a>! YARAify is your central hub for scanning and hunting files using YARA.</p>
-<p style="color:#ffffff;">Community lies at the heart of everything we do. For over 15 years, we have provided actionable cyber threat intelligence through community-driven platforms - completely free of charge. Weâre truly committed to putting the community first. Over time, the number of platforms we operate has grown, to seven distinct platforms, each providing unique benefits in the fight against cyber threats. However, the challenge of searching through each platform for comprehensive threat information has always remained. But that's about to change...</p>
+<p style="color:#ffffff;">Community lies at the heart of everything we do. For over 15 years, we have provided actionable cyber threat intelligence through community-driven platforms - completely free of charge. We’re truly committed to putting the community first. Over time, the number of platforms we operate has grown, to seven distinct platforms, each providing unique benefits in the fight against cyber threats. However, the challenge of searching through each platform for comprehensive threat information has always remained. But that's about to change...</p>
 <p style="color:#ffffff;">For years, the abuse.ch community has been quietly doing some of the most important work on the internet. Researchers and analysts around the world share malicious threat intelligence all with one mission: to make the internet safer for everyone. Today, we're giving that community the recognition it deserves, with a dedicated space to celebrate your efforts and track your impact.</p>
-<p style="color:#ffffff;">If youâre contributing to any of the abuse.ch platforms, have you ever wondered about the impact that youâre making? We strongly believe that âsharing is caringâ and so are shedding more light on how your contributions are making the internet a safer place - for everyone! Your contributions have more impact than you think.</p>
-<p style="color:#ffffff;">On Monday, August 1st, 2022, Spamhaus Technology became the primary licensee of data produced by abuse.ch. Here's an outline of why this partnership was conceived and what it hopes to achieve in the future. In 2008, a sole researcher founded abuse.ch â a project committed to fighting abuse on the internet.</p>
+<p style="color:#ffffff;">If you’re contributing to any of the abuse.ch platforms, have you ever wondered about the impact that you’re making? We strongly believe that “sharing is caring” and so are shedding more light on how your contributions are making the internet a safer place - for everyone! Your contributions have more impact than you think.</p>
+<p style="color:#ffffff;">On Monday, August 1st, 2022, Spamhaus Technology became the primary licensee of data produced by abuse.ch. Here's an outline of why this partnership was conceived and what it hopes to achieve in the future. In 2008, a sole researcher founded abuse.ch – a project committed to fighting abuse on the internet.</p>
 <p style="color:#ffffff;">The saying "there is nothing so constant as change" rings true, yet embracing change can be challenging. We humans are creatures of habit, and shifts in established, trusted systems can understandably lead to unease. We recognize that abuse.ch is currently undergoing significant changes, and while we've been communicating some of these since 2022, the strengthened alliance between abuse.ch and Spamhaus is now becoming more apparent.</p>
 <p style="color:#ffffff;">abuse.ch has an unwavering commitment: to sustain and support its cyber security community. All internet users owe thanks to this force of threat hunters who consistently make a positive and lasting impacton Internet safety. To further empower this collective, with assistance from Spamhaus, developments are coming to all the abuse.ch platforms. Discover what and why in this blog post.</p>
 <p style="margin-bottom: 0 !important; text-align: center">
@@ -175,7 +174,7 @@
 <p>The abuse.ch community, anti-virus vendors and threat intelligence providers can contribute and consume from the following platforms:</p>
 <p>Together with <a href="https://spamhaus.com/" target="_parent" title="Spamhaus Technology" rel="noopener">Spamhaus</a>, we provide the largest, independently crowdsourced intelligence of tracked malware and botnets to the industry. We develop and operate specialized platforms, built for IT security experts, to share and access relevant threat intel data.</p>
 <p>Using data from our various threat intelligence platforms, below you will find high-level numbers relating to malware signals shared with abuse.ch. This data is updated every 24 hours.</p>
-<p>abuse.ch has been effecting change on cybercrime for almost twenty years, owing to global recognition of our identified and tracked cyber threat signals. Supported by a community of 15,000 specialist researchers, abuse.châs independent intelligence is relied on by security researchers, network operators and law enforcement agencies.</p>
+<p>abuse.ch has been effecting change on cybercrime for almost twenty years, owing to global recognition of our identified and tracked cyber threat signals. Supported by a community of 15,000 specialist researchers, abuse.ch’s independent intelligence is relied on by security researchers, network operators and law enforcement agencies.</p>
 <p>abuse.ch is an established, trusted, and dedicated space for cyber threat intelligence experts.</p>
 <p>abuse.ch maintains six public platforms, all supported by our partnership with Spamhaus, to aid cybersecurity researchers and practitioners in their day-to-day roles. Varying in focus areas, all platforms are designed to help identify, track, and mitigate against malware and botnet-related cyber threats.</p>
 <path
@@ -332,7 +331,6 @@ data.addRows([
 drawSandnetChart();
 drawSpamStats();
 fill="white"
-for the malware intelligence you share, climb the leaderboards ð, and connect with like-minded contributors who share your hunting focus ð¤. Ready to unlock your profile?
 function drawSandnetChart() {
 function drawSpamStats() {
 function gtag(){dataLayer.push(arguments);}
@@ -367,4 +365,4 @@ xmlns="http://www.w3.org/2000/svg"
 }
 },
 };
-ð¤²ð¼ <strong>NEW</strong> | abuse.ch Community Hub! Earn recognition ð
+🤲🏼 <strong>NEW</strong> | abuse.ch Community Hub! Earn recognition 🏅 for the malware intelligence you share, climb the leaderboards 📈, and connect with like-minded contributors who share your hunting focus 🤝. Ready to unlock your profile?
