@@ -1,7 +1,7 @@
 import requests
 
 # Fetch the raw URLHaus text list
-source_url = "https://urlhaus.abuse.ch/downloads/text/"
+source_url = "https://abuse.ch"
 response = requests.get(source_url)
 lines = response.text.splitlines()
 
@@ -21,17 +21,18 @@ for line in lines:
         line = line[8:]
         
     try:
-        # 3. Isolate the host part to inspect it for raw IPs
-        # Example line: tradingengineers.in/path/file.php
-        host_part = line.split('/')[0]
+        # 3. Extract the hostname component to verify if it's an IP address
+        # Split on the first forward slash to separate host from path
+        parts = line.split('/', 1)
+        host_string = parts[0]
         
-        # Strip out port numbers if present (e.g., 59.96.140.224:60418 -> 59.96.140.224)
-        if ':' in host_part:
-            host_part = host_part.split(':')[0]
+        # Strip out the port numbers safely if they exist in the host string
+        if ':' in host_string:
+            host_string = host_string.split(':')[0]
             
-        # 4. Filter out raw IP addresses (so it's purely a clean text URL list for PA)
-        clean_host = host_part.replace('.', '')
-        if not clean_host.isdigit() and line:
+        # 4. Filter out raw IP addresses (Palo Alto URL EDLs strictly reject raw IPs)
+        clean_host_check = host_string.replace('.', '')
+        if not clean_host_check.isdigit() and line:
             clean_urls.add(line)
             
     except Exception:
