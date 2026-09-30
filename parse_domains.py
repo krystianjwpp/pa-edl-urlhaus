@@ -1,20 +1,26 @@
-import os
+import requests
+
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+}
 
 # ==========================================
-# 1. PROCESS LOCAL URLHAUS DATA
+# 1. PROCESS URLHAUS (VIA DUAL-SCRIBED MIRROR)
 # ==========================================
+# Using the clean text mirror hosted on GitHub to completely bypass Cloudflare blocks
+urlhaus_source = "https://githubusercontent.com"
 clean_urls = set()
 
-if os.path.exists("raw_urlhaus.txt"):
-    with open("raw_urlhaus.txt", "r", encoding="utf-8", errors="ignore") as f:
-        lines = f.read().splitlines()
-        
+try:
+    response = requests.get(urlhaus_source, headers=headers)
+    lines = response.text.splitlines()
     for line in lines:
         line = line.strip()
-        # Skip HTML structural lines or comments
-        if not line or line.startswith('#') or '<html' in line.lower() or '<doctype' in line.lower():
+        # Skip comments or HTML components if any exist
+        if not line or line.startswith('#') or '<html' in line.lower() or '{' in line:
             continue
             
+        # Strip protocols
         if line.startswith('http://'): line = line[7:]
         elif line.startswith('https://'): line = line[8:]
         
@@ -30,25 +36,33 @@ if os.path.exists("raw_urlhaus.txt"):
         clean_host_check = host_string.replace('.', '')
         if not clean_host_check.isdigit() and line:
             clean_urls.add(line)
+except Exception as e:
+    print(f"Error processing URLHaus: {e}")
 
 # ==========================================
-# 2. PROCESS LOCAL EMERGING THREATS DATA
+# 2. PROCESS EMERGING THREATS (VIA SCRUBBED MIRROR)
 # ==========================================
+# Using a clean raw domain mirror instead of the Proofpoint tracker portal
+et_source = "https://githubusercontent.com" 
+# Alternative fallback option if you prefer a strict OSINT domain compiler:
+et_source_alt = "https://githubusercontent.com"
+
 clean_domains = set()
 
-if os.path.exists("raw_et.txt"):
-    with open("raw_et.txt", "r", encoding="utf-8", errors="ignore") as f:
-        lines = f.read().splitlines()
-        
+try:
+    response = requests.get(et_source_alt, headers=headers)
+    lines = response.text.splitlines()
     for line in lines:
         line = line.strip()
-        # Skip tracking objects, JSON structures, or comments
+        # Skip comments or invalid data structures
         if not line or line.startswith('#') or '{' in line or '"' in line or 'localhost' in line:
             continue
             
         clean_host_check = line.replace('.', '')
         if not clean_host_check.isdigit():
             clean_domains.add(line.lower())
+except Exception as e:
+    print(f"Error processing Domain Feed: {e}")
 
 # ==========================================
 # 3. WRITE THE CLEAN PA-COMPATIBLE LISTS
