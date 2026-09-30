@@ -1,63 +1,57 @@
-import requests
-
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-}
+import os
 
 # ==========================================
-# 1. PROCESS URLHAUS (FOR YOUR URL EDL)
+# 1. PROCESS LOCAL URLHAUS DATA
 # ==========================================
-urlhaus_source = "https://abuse.ch"
 clean_urls = set()
 
-try:
-    response = requests.get(urlhaus_source, headers=headers)
-    lines = response.text.splitlines()
+if os.path.exists("raw_urlhaus.txt"):
+    with open("raw_urlhaus.txt", "r", encoding="utf-8", errors="ignore") as f:
+        lines = f.read().splitlines()
+        
     for line in lines:
         line = line.strip()
-        if not line or line.startswith('#'):
+        # Skip HTML structural lines or comments
+        if not line or line.startswith('#') or '<html' in line.lower() or '<doctype' in line.lower():
             continue
+            
         if line.startswith('http://'): line = line[7:]
         elif line.startswith('https://'): line = line[8:]
         
-        # IP Verification
+        # Isolate the host structure to filter out direct IP links
         if '/' in line:
             host_string = line.split('/', 1)[0]
         else:
             host_string = line
+            
         if ':' in host_string:
             host_string = host_string.split(':')[0]
             
         clean_host_check = host_string.replace('.', '')
         if not clean_host_check.isdigit() and line:
             clean_urls.add(line)
-except Exception as e:
-    print(f"Error processing URLHaus: {e}")
 
 # ==========================================
-# 2. PROCESS EMERGING THREATS (FOR YOUR DOMAIN EDL)
+# 2. PROCESS LOCAL EMERGING THREATS DATA
 # ==========================================
-et_source = "https://emergingthreats.net"
 clean_domains = set()
 
-try:
-    response = requests.get(et_source, headers=headers)
-    lines = response.text.splitlines()
+if os.path.exists("raw_et.txt"):
+    with open("raw_et.txt", "r", encoding="utf-8", errors="ignore") as f:
+        lines = f.read().splitlines()
+        
     for line in lines:
         line = line.strip()
-        # Skip comments, blank lines, or generic placeholders
-        if not line or line.startswith('#') or "localhost" in line:
+        # Skip tracking objects, JSON structures, or comments
+        if not line or line.startswith('#') or '{' in line or '"' in line or 'localhost' in line:
             continue
             
-        # Ensure it's not a raw IP address
         clean_host_check = line.replace('.', '')
         if not clean_host_check.isdigit():
             clean_domains.add(line.lower())
-except Exception as e:
-    print(f"Error processing Emerging Threats: {e}")
 
 # ==========================================
-# 3. WRITE BOTH FILES TO YOUR REPOSITORY
+# 3. WRITE THE CLEAN PA-COMPATIBLE LISTS
 # ==========================================
 with open("pa-clean-urls.txt", "w") as f:
     for url_path in sorted(clean_urls):
