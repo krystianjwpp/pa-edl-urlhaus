@@ -1,8 +1,7 @@
-import urllib.parse
 import requests
 
 # Fetch the raw URLHaus text list
-source_url = "https://abuse.ch"
+source_url = "https://urlhaus.abuse.ch/downloads/text/"
 response = requests.get(source_url)
 lines = response.text.splitlines()
 
@@ -10,38 +9,35 @@ clean_urls = set()
 
 for line in lines:
     line = line.strip()
-    # 1. Skip comment headers
+    
+    # 1. Skip comment headers and empty lines
     if not line or line.startswith('#'):
         continue
         
+    # 2. Strip protocols if they somehow exist (handling edge cases)
+    if line.startswith('http://'):
+        line = line[7:]
+    elif line.startswith('https://'):
+        line = line[8:]
+        
     try:
-        # 2. Check if the line has a protocol schema
-        if not line.startswith(('http://', 'https://')):
-            continue
+        # 3. Isolate the host part to inspect it for raw IPs
+        # Example line: tradingengineers.in/path/file.php
+        host_part = line.split('/')[0]
+        
+        # Strip out port numbers if present (e.g., 59.96.140.224:60418 -> 59.96.140.224)
+        if ':' in host_part:
+            host_part = host_part.split(':')[0]
             
-        # 3. Parse the URL
-        parsed = urllib.parse.urlparse(line)
-        hostname = parsed.netloc
-        
-        # Strip out port numbers from host assessment if present (e.g., 59.96.140.224:60418 -> 59.96.140.224)
-        host_only = hostname.split(':')[0] if ':' in hostname else hostname
-        
-        # 4. Filter out raw IP addresses (Palo Alto URL EDLs reject raw IPs)
-        clean_host = host_only.replace('.', '')
-        if not clean_host.isdigit():
-            # 5. Reconstruct the URL WITHOUT the http:// or https:// prefix
-            # Palo Alto URL lists expect formats like: ://domain.com
-            path_and_query = parsed.path
-            if parsed.query:
-                path_and_query += '?' + parsed.query
-                
-            pa_url_format = f"{hostname}{path_and_query}"
-            clean_urls.add(pa_url_format)
+        # 4. Filter out raw IP addresses (so it's purely a clean text URL list for PA)
+        clean_host = host_part.replace('.', '')
+        if not clean_host.isdigit() and line:
+            clean_urls.add(line)
             
     except Exception:
         continue
 
-# Save the sorted, clean URLs to a flat file
+# Save the sorted, clean URLs to the flat file
 with open("pa-clean-urls.txt", "w") as f:
     for url_path in sorted(clean_urls):
         f.write(f"{url_path}\n")
