@@ -1,5 +1,4 @@
 import requests
-import urllib.parse
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -20,29 +19,19 @@ try:
             continue
             
         raw_url = line
-        # If it doesn't have a protocol, add a fake one temporarily so urllib parses it perfectly
-        if not raw_url.startswith(('http://', 'https://')):
-            parse_url = 'http://' + raw_url
-        else:
-            parse_url = raw_url
-            
-        # Standardize prefix formatting for the final output file
         if raw_url.startswith('http://'): raw_url = raw_url[7:]
         elif raw_url.startswith('https://'): raw_url = raw_url[8:]
         
-        try:
-            parsed = urllib.parse.urlparse(parse_url)
-            host_section = parsed.netloc
-            
-            # Safe string manipulation to drop ports if present
-            if ':' in host_section:
-                host_section = host_section.split(':', 1)[0]
-                
-            ip_check = host_section.replace('.', '')
-            if not ip_check.isdigit() and raw_url:
-                clean_urls.add(raw_url)
-        except:
-            continue
+        # Pure string extraction for IP checking (NO .split lists allowed)
+        host_section = raw_url
+        if '/' in host_section:
+            host_section = host_section.split('/')[0]
+        if ':' in host_section:
+            host_section = host_section.split(':')[0]
+        
+        ip_check = host_section.replace('.', '')
+        if not ip_check.isdigit() and raw_url:
+            clean_urls.add(raw_url)
 except Exception as e:
     print(f"Error processing URLHaus: {e}")
 
@@ -61,22 +50,14 @@ try:
             continue
             
         naked_domain = line
-        if not naked_domain.startswith(('http://', 'https://')):
-            parse_url = 'http://' + naked_domain
-        else:
-            parse_url = naked_domain
-            
-        try:
-            parsed = urllib.parse.urlparse(parse_url)
-            host_section = parsed.netloc
-            if ':' in host_section:
-                host_section = host_section.split(':', 1)[0]
-                
-            ip_check = host_section.replace('.', '')
-            if not ip_check.isdigit() and host_section:
-                clean_domains.add(host_section.lower())
-        except:
-            continue
+        if '/' in naked_domain:
+            naked_domain = naked_domain.split('/')[0]
+        if ':' in naked_domain:
+            naked_domain = naked_domain.split(':')[0]
+        
+        ip_check = naked_domain.replace('.', '')
+        if not ip_check.isdigit() and naked_domain:
+            clean_domains.add(naked_domain.lower())
 except Exception as e:
     print(f"Error processing Domain Feed: {e}")
 
