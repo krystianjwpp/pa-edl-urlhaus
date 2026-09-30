@@ -2,7 +2,7 @@ name: Update PA URL EDL
 on:
   schedule:
     - cron: '0 * * * *' # Runs automatically every single hour
-  workflow_dispatch: # Allows manual executions via button click
+  workflow_dispatch: # Allows you to manually trigger it with a button click
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Set up Python Engine
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
