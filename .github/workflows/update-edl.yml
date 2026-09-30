@@ -1,4 +1,4 @@
-name: Update PA Threat Feeds
+name: Update PA URL EDL
 on:
   schedule:
     - cron: '0 * * * *' # Runs automatically every single hour
@@ -19,12 +19,12 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
-      - name: Execute Local Parsing Script
+      - name: Run Parsing Script
         run: python parse_domains.py
 
-      - name: Commit and Push Clean Lists
+      - name: Commit and Push Clean List
         run: |
           git config --global user.name "edl-bot"
           git config --global user.email "edl-bot@github.com"
-          git add pa-clean-urls.txt pa-clean-domains.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated deployment of clean PA threat feeds" && git push)
+          git add pa-clean-urls.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated update of clean PA URLs" && git push)
