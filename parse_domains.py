@@ -5,9 +5,8 @@ headers = {
 }
 
 # ==========================================
-# 1. PROCESS URLHAUS (VIA DUAL-SCRIBED MIRROR)
+# 1. PROCESS URLHAUS (FOR YOUR URL EDL)
 # ==========================================
-# Using the clean text mirror hosted on GitHub to completely bypass Cloudflare blocks
 urlhaus_source = "https://githubusercontent.com"
 clean_urls = set()
 
@@ -16,22 +15,15 @@ try:
     lines = response.text.splitlines()
     for line in lines:
         line = line.strip()
-        # Skip comments or HTML components if any exist
         if not line or line.startswith('#') or '<html' in line.lower() or '{' in line:
             continue
             
-        # Strip protocols
         if line.startswith('http://'): line = line[7:]
         elif line.startswith('https://'): line = line[8:]
         
-        # Isolate the host structure to filter out direct IP links
-        if '/' in line:
-            host_string = line.split('/', 1)[0]
-        else:
-            host_string = line
-            
-        if ':' in host_string:
-            host_string = host_string.split(':')[0]
+        # Safe string splitting to isolate the domain/host
+        host_string = line.split('/')[0] if '/' in line else line
+        host_string = host_string.split(':')[0] if ':' in host_string else host_string
             
         clean_host_check = host_string.replace('.', '')
         if not clean_host_check.isdigit() and line:
@@ -40,13 +32,9 @@ except Exception as e:
     print(f"Error processing URLHaus: {e}")
 
 # ==========================================
-# 2. PROCESS EMERGING THREATS (VIA SCRUBBED MIRROR)
+# 2. PROCESS DOMAINS (FOR YOUR DOMAIN EDL)
 # ==========================================
-# Using a clean raw domain mirror instead of the Proofpoint tracker portal
-et_source = "https://githubusercontent.com" 
-# Alternative fallback option if you prefer a strict OSINT domain compiler:
 et_source_alt = "https://githubusercontent.com"
-
 clean_domains = set()
 
 try:
@@ -54,11 +42,14 @@ try:
     lines = response.text.splitlines()
     for line in lines:
         line = line.strip()
-        # Skip comments or invalid data structures
         if not line or line.startswith('#') or '{' in line or '"' in line or 'localhost' in line:
             continue
             
-        clean_host_check = line.replace('.', '')
+        # Safe string splitting for edge cases
+        host_string = line.split('/')[0] if '/' in line else line
+        host_string = host_string.split(':')[0] if ':' in host_string else host_string
+            
+        clean_host_check = host_string.replace('.', '')
         if not clean_host_check.isdigit():
             clean_domains.add(line.lower())
 except Exception as e:
