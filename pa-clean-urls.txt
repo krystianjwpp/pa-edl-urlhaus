@@ -33,6 +33,7 @@
 132.red-81-42-249.staticip.rima-tde.net:5000/Video.lnk
 132.red-81-42-249.staticip.rima-tde.net:5000/Video.scr
 13d3c8zt.kick1bet.com/?ublib=7eb1968a-6eea-4e6f-92c6-7486b3aefec0
+14-0-204-188.static.pccw-hkt.com/sshd
 1717.1000uc.com/Updates1/up.exe
 172-104-49-49.ip.linodeusercontent.com/bot.mips
 176.65.148.145.ptr.pfcloud.network/n2/armv5l
@@ -43,7 +44,6 @@
 176.65.148.145.ptr.pfcloud.network/n2/x86
 176.65.149.168.ptr.pfcloud.network/bins/kaizen.mpsl
 178-83-121-204.cprapid.com/ssi_statement_2026.msi
-178.248.3.202.ll.sta.mana.pf/sshd
 179.248.3.202.ll.sta.mana.pf/sshd
 17eqwy30.takhtenard.app/?ublib=93e9125e-0384-44f9-b638-0a32e5108951
 198-144-179-82-host.colocrossing.com/1.sh
@@ -200,7 +200,6 @@
 6leriop4.littleitalypizzafortwashington.com/?ublib=87e11ab2-4ab7-4e0a-a2eb-6905af906f9c
 6lphdepl.sibbet90iran.com/?ublib=d202105e-e3d8-4000-9015-6dcdfe6b3d8d
 6mhijma6.tampabayspin.com/?ublib=58bc177a-ec4c-4834-8058-48b1c8880d42
-6pyrumd5.ace90.casino/?ublib=e40838e9-5c60-4244-8abf-af4f60368c0c
 6tu2zzl7q5wtdm6icmutlb6ifr7zz3z2svxvieaz7u4pqxrbblc7ltid.onion:8080/s/agent.sh
 6ytetbzh.quickandcleanfetish.com/?ublib=27e9ffa7-2d67-404a-b350-c49a89faf8c2
 74ock8ke.mahbetiran.com/?ublib=5f1b585d-9443-4cd4-a33d-c443c5ca8ef3
@@ -237,7 +236,6 @@
 9h5e0vbd.jadoou.club/?ublib=8c7d8c1b-d43a-4676-baac-132ed6648164
 9nqbrnn7.farsibeenglish.ir/?ublib=a9895d4c-9f4a-4fab-868a-a356fc99e611
 9qdbp5gv.bet90forward.win/?ublib=9492ee16-2ec3-48da-b29d-0c8aa0ecd312
-9sltd81l.ace90.games/?ublib=2a504a01-7233-49b4-8168-a04274668e0d
 9t8bbts2.winston.bet/?ublib=cf714ffb-cd20-41f0-8b96-44baf201026f
 9zzh7dnw.coop-fresh.com/?ublib=702cc10c-3f54-4334-b30d-73804b4e20b5
 Cn.devglobal.biz/bins.sh
@@ -271,7 +269,7 @@ acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 acms.saleseos.com/src/js/scripts/gallery/photo-swipe/retraction.php
 acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
 acnuzqcgq.daddybetiran.live/5d40ffb8-636e-4e5c-9da4-864240ae0c13
-acrilicoporto.pt/backoffice/themes/new-theme/js/app/precluded.php
+acrilicoporto.pt/backoffice/themes/new-theme/js/app/rubbing.php
 acrobat.proposal.name.ng/Adobe_package_installer.zip
 acslkqpil.easternartmuseum.com/e8991979-98bd-465b-8632-7f82a934718a
 acthktpb.betropol.bet/3f0258fa-a6ca-4dd4-b331-36ff6971fdea
@@ -587,6 +585,9 @@ aspenriver6.com/curl/epf215dtv0l/2otso19m8v27gj0d381.dat
 asset.tasisathosseini.shop/bf1f72a0-1c71-4660-b1b1-40aa61cce93d/pf.ch
 astraia.co.za/kizzy/5.jpg
 astraluxclient.com/downloads/Astralux-1.21-26.2.jar
+astroliper.ac/pack/agent/nodewatchd-linux-amd64
+astroliper.ac/pack/agent/nodewatchd-linux-arm
+astroliper.ac/pack/agent/nodewatchd-linux-arm64
 asynchronouswatering-system.garden/75aa3eb1-b155-444d-b5c4-d470f2b0c78e/google.cl
 atasapka.com.tr/images/bot.jpg
 atibr.gamehazarat.bet/339874c6-81c4-4391-a60a-41bb98dcae81
@@ -649,6 +650,7 @@ avfzq.maia-bentley.com/0020bcd1-6a71-46a9-870e-d085f887b423
 awarenessexhibition.com/img_092444.png
 awarenessexhibition.com/img_125529.png
 aweubyemm.boroo.bet/e825a402-4c35-47d5-96ef-fa527eb1df5f
+aws-v2-cdn.token.im/downloads/imToken-v2.apk
 awvz.backgammon.download/dafd8919-d9f8-4b8a-a841-8b79f9f62e29
 axoo.colg1.org/63b36ad3-1c67-4418-ad17-e73c334f5600
 ayehtlgp.systemcompass.top/768b92fd-8947-4051-a609-c97b1c206c0c
@@ -942,6 +944,7 @@ bujybzpn.site-shartbandi-takhtenard.com/7623f534-9e81-43ee-a26f-dc6d6d15774a
 bulkdevices.com/blog/Chrome.exe
 bumcoinc.site/binsir/img_sir035737.png
 bun-pullz.b-cdn.net/img_083453.png
+bundle.kpzip.com/n/tui/ciqinmishi/6/cqms.exe
 bunnyview.b-cdn.net/img_093703.png
 burp-flung-pilot.xyz/avast_update
 businesseconomics.in/uploads/sp.png
@@ -960,7 +963,6 @@ byte-stream-encryption-standard-base.wiki/c64d4fb9-ead4-41fb-9029-6664aaef4b24/g
 bzd7mk6q.parsalip.bio/?ublib=05713f42-f9d4-42b0-b12b-b214ee3822f9
 bzeg.bikertlane.com/34a038b6-b6ed-454b-817e-22730ead4dbc
 bzki.jetbet.download/92838afa-d142-4d89-a1ae-0c1cf0db6662
-bzmkmgt.rayegan.net/281dc1ed-6344-49b3-9b80-bac1f28cb31c
 c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 c1.dstatbots.win/dstat/
 c2.11179669.cloud/ChromeReal.exe
@@ -1031,14 +1033,10 @@ cdn-10049480.file.myqcloud.com/jd/jd124.exe
 cdn-10049480.file.myqcloud.com/jd/jd127.exe
 cdn-10049480.file.myqcloud.com/jd/jd136.exe
 cdn-10049480.file.myqcloud.com/jd/jd137.exe
-cdn-10049480.file.myqcloud.com/jd/jd144.exe
-cdn-10049480.file.myqcloud.com/jd/jd145.exe
 cdn-10049480.file.myqcloud.com/jd/jd156.exe
-cdn-10049480.file.myqcloud.com/qcoin/qcoin130.exe
 cdn-10049480.file.myqcloud.com/qcoin/qcoin133.exe
 cdn-10049480.file.myqcloud.com/qcoin/qcoin139.exe
 cdn-10049480.file.myqcloud.com/qcoin/qcoin141.exe
-cdn-10049480.file.myqcloud.com/qcoin/qcoin142.exe
 cdn.anzho06.xyz/Telegram.apk
 cdn.defenders.workers.dev/p/1
 cdn.discordapp.com/attachments/1298616021669773397/1555599712193617980/bundle.zip?ex=6ac11ca1&is=6abfcb21&hm=31fffac8b6682f01a319aafe97f2517105c394975ec324877db5a03bd59373bb&
@@ -1063,6 +1061,7 @@ cdn.discordapp.com/attachments/1554855040743637152/1554855122318917662/bundle.zi
 cdn.discordapp.com/attachments/1554902011189796984/1554902119771934871/bundle.zip?ex=6abe92f2&is=6abd4172&hm=efeef3756683c9e9a5cb09a4fd335e4af64111e4a046bd1706f14484befbda73&
 cdn.discordapp.com/attachments/1555672813413732352/1555673509751951361/bundle.zip?ex=6ac1615b&is=6ac00fdb&hm=7fa01976e030509c4017d9478904258c81d5c0e0aadee2e32b2df9c7cfa81d1f&
 cdn.discordapp.com/attachments/586400531312934913/1555171552734085201/bundle.zip?ex=6abf8ddf&is=6abe3c5f&hm=1af2de5aa606082d72d65a9b2146d14d8cc379d2ba66a1527da0638e01fb992f&
+cdn.file6.goodid.com/28758658/2018/04/28/c4284a2a6c1b60247944a03cbaf930c5.exe
 cdn.gomlab.com/gretech/promotion_sw/gomplayer/fastping_silent_v4.exe
 cdn.jsdelivr.net/gh/19875567137/FCCC8F-62-3C-61D48-4E/80-7314
 cdn.jsdelivr.net/gh/34-19-44r/B8-F6-52-48-95-90203C-B2-29-4A-A9/B0-FF-E3-4F-63-6
@@ -1076,6 +1075,7 @@ cdn.xiaoduoai.com/cvd/dist/fileUpload/1571723382710/9.915787746614242.jpg
 cdnorigin.net/api/agent/loader?k=n4d-2ff16c75b1d2
 ceayo90m.jadoou.xyz/?ublib=36675b49-9aef-464d-b4ef-fe27adb7c757
 cehamilton.com/when-ill-start-earn-money.exe
+celebratingseniors.net/oste.zip
 celebratingseniors.net/rate.zip
 celebratingseniors.net/rats.zip
 centrodolce.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
@@ -1160,6 +1160,7 @@ cloudstorage-hub.com/launches/RSNJBHKR333FRHP/6cba58b5b78c74a05647653c1b3200a3e9
 cloudstorage-hub.com/launches/S2CIBV53LXNGESC/12657712f87d167084c83305765023c250c76dc7.exe
 cloudstorage-hub.com/launches/YOZP2U7WF8FVFJ3/7c199dfe5733e8f59769b1b1cc9b4f5add04089e.exe
 cloudstorage-hub.com/launches/ZW4A8RJ2SNE6KF7/1feaad524f604230d4cf9803e9050a8fd1fe0358.exe
+clownguard.us/clickfix.exe
 clubdetiroelpicarcho.com/ourzz.wav
 cn.unionlever.com/uploads/soft/111210/1_0048481261.rar
 cnc.strikec2.wtf/update.sh
@@ -1278,6 +1279,7 @@ cosmeticapampa.com.ar/ptk.exe
 counterscale.jean-r-mi-larcelet-prost.workers.dev/
 cozysigh-nick.xyz/avast_update
 cpc188.day/apps/cpc188.apk
+cpofficial.com/kusaka.php?call=av
 cppqqgxg.betlivo90.bet/6e25354a-10d9-4ca7-a5af-3bfe80141fbd
 cpvt.bet120.games/f21bac70-6953-4cdf-9be0-7b54ca5c0e3b
 cqintzfep6rw6jc9.public.blob.vercel-storage.com/2.bat
@@ -1586,7 +1588,6 @@ dl.dropboxusercontent.com/scl/fi/fokz7nq2fsq5eno3me0kr/update.bin?rlkey=ew1j6qqw
 dl.dropboxusercontent.com/scl/fi/rtn5r2ig6gqvsv2vasqbx/krypton-1.21.1-v15.jar?rlkey=q48p4pfjgt1ygsmd0moc6ihnv&st=qlzqzgsy
 dl.dzqzd.com/wj1bsetup.exe
 dl.faster-cdn-hk.click/Telegram_v12.8.3.apk
-dl.ijinshan.com/safe/setup_smart.exe
 dl.myresult.co.za:8071/10y8r8/ac.xor
 dl.myresult.co.za:8071/10y8r8/as.xor
 dl.myresult.co.za:8071/10y8r8/go_b3.bat
@@ -1602,6 +1603,7 @@ dl1.claudflare-gateway.net/captchafix.exe
 dlied6.bytes.tcdnos.com/invc/xfspeed/qqpcmgr/module_update/fid1747209335_RunQMhunt.exe.zip
 dlied6.bytes.tcdnos.com/invc/xfspeed/qqpcmgr/module_update/fid1747308966_RunQMhunt.exe.zip
 dlied6.bytes.tcdnos.com/invc/xfspeed/qqpcmgr/module_update/fid1747640975_RunQMhunt.exe.zip
+dlied6.bytes.tcdnos.com/invc/xfspeed/qqpcmgr/module_update/fid1747732120_RunQMhunt.exe.zip
 dlied6.yz.tcdnos.com/invc/xfspeed/qqpcmgr/module_update/fid1746669868_RunQMhunt.exe.zip
 dlvk.nextbahis.one/ad2e4456-58e2-49b0-844a-b6ffccd6b59a
 dlylkjaji.jetboro.fun/510aa0a0-d2cb-44e8-9f88-ff17a8893c33
@@ -1904,7 +1906,7 @@ dove-void-pave.xyz/avast_update
 dovepact-gist.xyz/avast_update
 down-loanleap.xyz/avast_update
 down.54nb.com/%D3%B2%BC%FE%D0%C5%CF%A2%B2%E9%BF%B4%C6%F7.exe
-down.ftp21.cc/445.jpg
+down.ftp21.cc/TQ.jpg
 down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
 down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
 down.fwqlt.com/1_DXL_WindowsPort.zip
@@ -1914,6 +1916,7 @@ down.pcclear.com/active/PCclear_Eng_mini.exe
 down.qqfarmer.com.cn/QQHelper_1540.exe
 down.ruanmei.com/mytime/files/3.3.7.0/mytime.exe
 down.unicron-cdn.click/Telegram_v12.8.3.apk
+down10d.zol.com.cn/zoldownload/
 down10d.zol.com.cn/zoldownload/foobar2000_v1.6.7_beta_17@1704_129472.exe
 downali.game.uc.cn/s/6/6/20180724185728_PetK_UC_1.4.0.apk
 download-files.wixmp.com/ugd/09c1d5_535e18f9f54e47a8a4f9587ce3e9a710.txt
@@ -1923,21 +1926,19 @@ download.caihong.com/gamewd/yhdl.exe
 download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 download.doumaibiji.cn/doumai/news2/v1.0.7.01/news2_01.exe
 download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
-download.haozip.com/haozip.100021.exe
 download.haozip.com/haozip.convertimg.exe
 download.haozip.com/uniondown/haozip_tiny.201805.exe
 download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
-download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 download.kbcard.com/security/wizvera/delfino-g3/delfino-g3.exe
 download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
-download.pdf00.com/pc/pdfconvert/
+download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
+download.pdf00.com/pc/pdfconvert/PDFConverter_P2W154-zx-666.exe
 download.pocketbitcoindesktop.com/PocketSetupBundle.zip
 download.tfyxzai.com/donwnload/prortonvpn_x64.zip
 download.ubua.online/agenthype.exe
 download.youlovemybiba.com/stage1.hta
 download1351.mediafire.com/0tz8pd0mhgwg1M2UvU-kJ4S8ELTf17VG3VuDHq5DgiAYqXsUVCzkM9HtiD40dv8t8xAHghbpcCcIuqIEv6b3H5CRaa06lYGRpTsVyGRJuSRMEYgZp2ABxNl3PBkz6kyTnn7NndbCW1xDLuF4AMbe0dH_5_73CWgZ7ucVsO_6XGzTptwn/y9u21ia88zth6h1/bundle.zip
 download1532.mediafire.com/21oatf109angbYHS_5E13zp2tv1nrhFnvJ0gg1xu8cNiNYmpQsqQwVIBDhtgZbv502QKPRty_f7v0Q1YDIezAPki058YoTyUvQlPPV9imHcjinAmWK9TX8k4_hyBIdy1VXZlUYZsvrAIT9T28Ci2sqpYM_8WaPe4Cldt3koHikpZbNg/efqgjl6i8zrh9vw/x86
-download2.huduntech.com/application/workspace/15/15d4031688cbb71def72a06cf15d7fa1/Installer_%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E5%AE%98_r1.7.9.exe
 download2292.mediafire.com/sko69h7rx9hgMcteJMpEpK_0WPxPexjc1f8qrRgYcuDNs9MCHaD5EpmIE-zls9qb7ina3Moh-KyDhF0t1mwNpFEuxJRkX8Hc0laPcXWQtJAQsvupnhB0tobS_9uzVava7ocBqGHuoOG_2LVcCXhkibSqkbfhkhGr8yXUuAzu2OM/gl5lvgixp12jloa/MurderMysteryScript.zip
 download2296.mediafire.com/uk2y6ehlocrgk-Wgx1Lfst0OxHSfaF6lXSKb1OxOhWWbBIJbmmgHPaxnSw3bE1mHQfH2jFdl4mV4V0qbFgJQmj2-3T371R26mMrGg4rAkYKNxEI4NXn-8BM2uDWLbJGcIBlostKoPHOo96LFCZy36G1H5Y-rv-KZ2CN7HwTQ7W0/q1pcfiniu93mzb3/FortniteHack.zip
 download2360.mediafire.com/p5boz5a1oa1gz8-OL_FPEX2HxF7fMvjvj8EOS1Ii7tQs3FcWq61yO-D00-Td1I-R3bPmDK_RqUBULBzAhbCG9LfXMLyc35dFr3lx14RoPXUCS5YMGdbPPMsfE6BUo7hk643KUu22es-6ulAvM6LmdBn2zTxP1bsJg_-xUujYWUc/gpu44k59uccr9ev/DeltaExecutor.zip
@@ -2401,7 +2402,6 @@ edhabqne.taktikkbet.com/53d38096-d3a3-4bbb-b872-723d7ae93876
 edisonmanotas.free.nf/img_083253.png
 edisonmanotas.free.nf/img_095914.png
 edtbi.jetbet.download/b442ea02-b255-4ea4-ba1c-bd62b55f54b4
-edvdafc.prozhe.vip/cd18ebe8-8e1c-4cb1-b73b-20830d64bec3
 efdnssea.honaribash.ir/b8a924ae-32de-4294-bc0f-31a926d14e9b
 effectively32.infinityfree.me/img_072806.png
 eikgcqyt.onjabet1.com/0fa92f57-53da-4834-9435-39a98ef9ef36
@@ -2417,6 +2417,7 @@ elrneba.com/nc_assets/img/env.zip
 eluk.hazzaratbet.com/66b34559-2dd8-472a-b900-17481638eb05
 elxxvvx.xyz/i
 embalageral.hospedagemdesites.ws/wp-snapshots/sites/gxagnw43b99/
+embedone.com/scarica/
 embvx.hazaratbet.bet/e9367ec9-7763-439e-8ab3-92f6e1f3ca5d
 emeraldstonegc.blog/dl.sh
 emeraldstonegc.blog/flutter.arm
@@ -2518,6 +2519,8 @@ excited-wagner-demonstrates-showing.trycloudflare.com/rec.bat
 executorhub.space/Solara.zip
 exlt.behtarin-site-shartbandi.com/8fdf126b-4719-4113-924f-640e934e5c20
 expert-trading-academy.courses/65efc533-b83e-453a-b077-40dc11bfc29b/google.cl
+expirience.icu/api/file-share/883e3cde-f663-4e50-bc61-84dca8916960/download
+expirience.icu/assets/pytrim.zip
 export.kesug.com/img_212250.png
 exptersed.com/debug/loader.sh
 exptersed.com/debug/payload.applescript
@@ -2655,7 +2658,6 @@ file.tugou.com.co/files/Adobe%20Acrobat%20Reader.exe
 file.tugou.com.co/files/msdt.exe
 file.tugou.com.co/files/powershell.exe
 file.tugou.com.co/files/route.exe
-file.uhsea.com/2508/9e3363f017c60726bf610a2a472040144T.
 filecon.sbs//bk.jpg
 filecon.sbs//driver.jpg
 filecon.sbs//pas.jpg
@@ -2720,7 +2722,6 @@ floppaclient.com/FloppaClient-26.3.jar
 floppaclient.org/FloppaClient-26.2.jar
 flora-monitoring-core.garden/ca2b3a34-e3eb-4101-9b45-77579341b4df/google.ct
 floraresourcecontroller.garden/cfd2548e-d215-4117-8ece-17c3ee97e0ec/google.cl
-flpquwu.enfejar-site.bet/3dc077db-8acc-47da-af5b-6a6ffd21b031
 flux-heldsham.xyz/avast_update
 flwhdzos.1xbetmag.com/b07c151e-b14b-4d22-9f78-352b9ca3c9c1/pf.ch
 flyi.jadoou.lat/d5b93ded-0a17-45fc-9966-6503327b5c0d
@@ -2877,6 +2878,7 @@ geo.estimator-undermostshelving.in.net/jquery.min.js
 geoxsecurity.ro/images/xxwealthnow.exe
 gerenland.click/api/stale.msi
 gerenland.click/flask/whales.msi
+gestroom.it/
 get.acitvated.win/
 get.acitvated.win/Update.zip
 get.acivated.win/
@@ -3358,6 +3360,7 @@ github.com/charlieallen16/vibeshell/raw/refs/heads/master/src/components/EditSer
 github.com/chester1900/RMISimpleBankSystem/raw/refs/heads/master/src/Bank-System-RMI-Simple-2.8.zip
 github.com/chester1900/TXT-TO-VIDEO-LEECH-UPLOADER/raw/refs/heads/main/dodecahydrated/T_TX_VIDE_LEEC_UPLOADER_3.7.zip
 github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v1.0/Software.zip
+github.com/cistelsa/Predictive-Sentiment-Analysis-of-Twitter-for-BTC/releases/download/v2.0/Software.zip
 github.com/clearretent/valley9/releases/download/latest/Chrome.exe
 github.com/clearretent/valley9/releases/download/latest/ChromeSetup.exe
 github.com/clearretent/valley9/releases/download/latest/google.exe
@@ -3480,6 +3483,7 @@ github.com/iampriam-dev/invenstock/releases/download/v1.0/Software.zip
 github.com/iampriam-dev/invenstock/releases/download/v2.0/Software.zip
 github.com/iampriam-dev/new/releases/download/v1.0/Software.zip
 github.com/iampriam-dev/new/releases/download/v2.0/Software.zip
+github.com/iamsujalarora/githubMeter/raw/refs/heads/main/src/styles/github_Meter_v2.5.zip
 github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v1.0/Application.zip
 github.com/ilovedoo/Ted-Lasso-GPT/releases/download/v2.0/Software.zip
 github.com/indirect-syscall/test/releases/download/1/oxide-stub.exe
@@ -3499,6 +3503,7 @@ github.com/irfanr-source/SynthTweet/releases/download/v1.0/Software.zip
 github.com/irfanr-source/SynthTweet/releases/download/v2.0/Software.zip
 github.com/isaacww/var-lighter-auto-tool/raw/refs/heads/main/turbinatoglobose/tool-lighter-var-auto-v3.6-beta.3.zip
 github.com/ishu-276/adoptmescript/raw/refs/heads/main/archduchy/Software_v3.0.zip
+github.com/janchuk/VoidRAT/raw/master/VoidRAT.exe
 github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v1.0/Program.zip
 github.com/jaylnjohnart/vertex-ai-chat-prompting-tablular-data-bq/releases/download/v2.0/Software.zip
 github.com/jazzman08/Adopt-Me-Script/raw/refs/heads/main/cornification/Me_Adopt_Script_2.0.zip
@@ -3739,6 +3744,7 @@ github.com/tekin441/urban_company_clone/releases/download/v1.0/Program.zip
 github.com/tekin441/urban_company_clone/releases/download/v2.0/Software.zip
 github.com/thomson101/XHP/releases/download/Release/Steanings.exe
 github.com/thuhangn562727-del/maqueo/raw/refs/heads/main/mko1.exe
+github.com/thuhangn562727-del/maqueo/raw/refs/heads/main/mko2.exe
 github.com/tianlanyb/Gemini-in-Chrome/raw/refs/heads/master/eighteen/in_Gemini_Chrome_preadherent.zip
 github.com/toanminh2004/Fixing-Error-0x80070424-Specified-Service/releases/download/v2.0/Software.zip
 github.com/toanminh2004/duan1/releases/download/v2.0/Software.zip
@@ -3791,7 +3797,6 @@ github.com/wer812/bbgy555555551/raw/refs/heads/main/ntladlklthawd.exe
 github.com/wer812/bhh666666666666/raw/refs/heads/main/Service.exe
 github.com/wer812/vbvgghjjio999000/raw/refs/heads/main/bnoaprihjatuasss.exe
 github.com/wfeifefeifef/Pokemon-CRUD/releases/download/v1.1/Soft.zip
-github.com/wfeifefeifef/Pokemon-CRUD/releases/download/v1.2/Soft.zip
 github.com/whathedogding/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto/releases/download/v1.0/Release.zip
 github.com/whathedogding/BitPay-Crypto-Signal-Trading-Bot-Analysis-Signal-Masters-Trading-Crypto/releases/download/v2.0/Software.zip
 github.com/wjeflhqwbf/clients2/blob/main/4eclient-1.21.11.jar
@@ -3817,6 +3822,7 @@ github.com/xmanykwim/simple-2/releases/download/v1.0/Application.zip
 github.com/xmanykwim/simple-2/releases/download/v2.0/Software.zip
 github.com/xmanykwim/simple-proxytv/releases/download/v1.0/Application.zip
 github.com/xmanykwim/simple-proxytv/releases/download/v2.0/Software.zip
+github.com/xmrig/xmrig/blob/master/bin/WinRing0/WinRing0x64.sys?raw=true
 github.com/xmrig/xmrig/releases/download/v6.10.0/xmrig-6.10.0-linux-static-x64.tar.gz
 github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-static-x64.tar.gz
 github.com/xmrig/xmrig/releases/download/v6.12.2/xmrig-6.12.2-linux-x64.tar.gz
@@ -4004,7 +4010,6 @@ hlme.bet90forward.app/308b6622-28b1-4cc5-948d-b0d55ac36823
 hnhdl.hazaratbet.bet/d9a17e4a-fe85-4bf4-95de-f4827a45a73a
 hnjgdl.geps.glodon.com:8888/Services/Identification/Server/GtpToolsDownLoadHandler.ashx?filename=GTP_6_BrowserPlugin_Setup.exe
 hnzi.behtarin-site-shartbandi.com/2a563779-d2bb-492c-9164-4dd12c9dd8d0
-hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
 hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 holdpogohaul.xyz/avast_update
 holographic-projection-grid.garden/159a828e-c534-4ba8-b296-a70d4e6d7c01/google.cl
@@ -4037,6 +4042,7 @@ hrykp.varzeshlife.ir/ed787865-55f5-4cbe-975a-11133e92978b
 hseda.com/download/qt51crk.exe
 hszy.nextbahis.blog/a343d3c2-1203-42fd-829a-8dd8971476e4
 ht326ul6.hazaratbet.bet/?ublib=ebf13cc2-cdc0-4ecf-90fb-36448cb22623
+htdentshop.com/ed/ed.js
 httpbin.org/base64/MDUzOTIxNDY2MDVjMTM4NDU5NTA1OWRjYzBjMWJjZDQyNzc0ODAwZmUzZTRkOGI4MWRmYTE5OTczN2I0NTIwMA==
 hullmall-cool.xyz/avast_update
 hvao.jbgroup21.com/60861fb4-c42e-4d32-9d1e-7f445fbb4fbe
@@ -5312,6 +5318,8 @@ impur-treacheryperepelitsa.wiki/18924f17-62b7-43ce-b148-cd10bd5b180c/google.ct
 imrmd.drdavidzweiback.com/c5c47653-232a-4c2f-9191-c2ec03cc3bcf
 inasa.pdfbama.com/1a9a7ecd-1619-40f5-b710-93ab35b33e72
 indf.betawarz.com/1db7be2b-1c69-4302-b7df-8269658755b7
+indonesias.me:9998/64.exe
+indonesias.me:9998/c64.exe
 infocardphoto.info/
 infocardphoto.info/n?id=hsezigwn
 infocrabcob.xyz/avast_update
@@ -6138,7 +6146,6 @@ malaysianpastrybakery.org/crypted1.ps1
 malaysianpastrybakery.org/teamm.ps1
 male-martloss.xyz/avast_update
 malupieng.com.br/73321ALNWYY/PAYROLL/Business/
-man745va.takbetkade.com/?ublib=ac8fc556-fce9-4c44-b52f-f80d2e5ceceb
 manbipll.duckdns.org/LjEZs/arc
 manbipll.duckdns.org/LjEZs/arm
 manbipll.duckdns.org/LjEZs/arm5
@@ -6390,6 +6397,7 @@ mt-link.qdhuzf.cc/cl/rlLXIXSwv8IKS9aWzYqx.GteIY.dfPLTRPY013hMjghjIqNPZYu0.3GRfdJ
 mtvhf.socialclub112.com/432de9a7-2921-4539-8716-a5700d2d45e7
 muaklekcoop.com/ckfinder/core/js/acr-g1upd-639159296668701809.exe
 muaklekcoop.com/ckfinder/core/js/hilton.exe
+muaklekcoop.com/ckfinder/php.exe
 muaklekcoop.com/js/InstallWizard.exe
 muaklekcoop.com/js/quis.exe
 muddy-sound-e0cd.nodetectonn.workers.dev/KbXaa
@@ -6650,7 +6658,6 @@ ogiforjk.iranmotorplus.ir/02773a30-e94f-49f9-be60-9bc328ac0f94
 oh0vsizc.vipbahis.cash/?ublib=f2b3feb1-c74c-4ff8-9629-4927b454909a
 ohdvttqo.tampabayspin.com/988124bc-6865-4532-8213-99b59c138374
 ohnymfxm.btyek.cloud/3e65b427-fe87-41a8-82dd-be0223028bf9
-oim.doganltd.com.tr/ayarlar/js/tinymce/skins/lightgray/2RlUrxFRGoA5.php
 oj7f87i3.radioshartbandi.casino/?ublib=9c525f8c-b37f-4761-9e2e-24341614a7fe
 ojang.pe.kr/CALENDAR/DOWN/CALENDAR/SETUP.EXE
 ojang.pe.kr/calendar/down/calendar.exe
@@ -6659,7 +6666,6 @@ ojpqxkm.one1x.bet/d974017e-43a8-43bf-b31b-804c70fad1a3/tf.ch
 ojst23x0.site-enfejar-hotbet.com/?ublib=804cda12-7364-4208-90d7-15392b48c617
 ojvh.barcelona11.com/a79728b2-b069-4d3e-9f6d-885a7d31675e
 ojwvrerrm.derbi.promo/294a151c-18a3-4ac8-bfe5-99c24277ad91
-okhan.net/soft/UploadFile/ANQUAN/pjbingdianhuanyuan.rar
 okhan.net/soft/UploadFile/YOUXI/okhan.net-2wn.rar
 oknoplastik.sk/index_soubory/common_sector/external_area/61551354147_t4d0KY73JJyWFfGY/
 oksz.ozabet.casino/d0adcef9-17dd-4138-9a6e-85ad1f7ea521
@@ -6855,6 +6861,7 @@ pbdb.bet303.site/d24ab38e-e011-41ec-8de0-793410a35e69
 pbhwzixj.boro1.bet/4f9a7c78-781f-4987-9e83-e804fb9a98e2
 pcipjcar.fileboroo.com/
 pcue.elitesport.ir/d0f05d0e-a843-4f92-acc4-7e72d8746da0
+pcupd.com/tfsoft/xftd/v2/ctf/
 pczlsqy.hi-lo.bet/4dec5906-2994-4664-bd66-8e7bbd664415
 pd9l19qk.milliardbet.com/?ublib=7978d189-3b6b-49f4-b52d-cefe50fd20f3
 pdf-bro.lat/?DOC-PDRacess398ik30
@@ -7346,7 +7353,6 @@ qqjbcfkl.fileboroo.com/431ac1b3-f945-477e-943b-a7b331925541
 qqtldjhf.1xforward.xyz/6bee5073-bc4f-4c4a-828d-0feb2d694c58
 qqwwaa.tos-cn-hongkong.volces.com/Document.exe
 qs268cl5.radioshartbandi.bet/?ublib=e05797da-89bf-4038-a35d-ace09e9f0989
-qsnvmsy.jetbet90.ai/53421f3e-f890-42db-bc1d-1004578c5a9e
 qsry.boro3.bet/10ed95ca-baf4-4ee7-bf3d-5d5f0d660bf4
 quantumvelocitylabs.christmas/78875570-5e84-486b-a61d-0005477244e6/g.ch
 quest-hz-preds-mod.pages.dev/Hz&PredsMod_HYLODevGX.v1.0.0.exe
@@ -12928,6 +12934,7 @@ rheddh.com/Bin/ScreenConnect.ClientSetup.msi
 rhgxzyok.fotoiran.ir/490d05b8-70a7-4d4f-bbc2-681951c23280
 richoverfold.xyz/avast_update
 rideloreomit.xyz/avast_update
+riderspin.com/scarica/
 riftfacetill.xyz/avast_update
 ringmycellphone.com/images/rotate/rotate.php
 rippled.cleverpondky.com/Error84
@@ -13098,7 +13105,6 @@ s467326833rgjs.ddns.net/run.sh
 s645gfw3.bahsegel90.com/?ublib=370be8fb-9552-4144-890b-2b3b0ab12300
 s7rpvlti.bahigo.casino/?ublib=6ecf8471-34fc-4923-85f5-fddb674467c9
 s8p4n4bz.behtarin-site-shartbandi-football.bet/?ublib=c9fcf2f5-44be-4166-bf17-f2149fcc3bbf
-sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1Framework.txt
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1tronps1.txt
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1tronvbs.txt
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/imagens.txt
@@ -14039,12 +14045,12 @@ tvknglirv.jadoou.space/
 tvzo.backgammon.download/06e49b1d-1311-46bc-858e-cb29b76f5164
 tweakz-dream-launcher.lovable.app/__l5e/assets-v1/f9eec8e0-95ce-4178-b709-6136c6e6321b/V4MP-Tweakz-Launcher.exe
 twitch.tj/
+twu-hwt.org/agenzia/
 twu-hwt.org/connect/
 twyd6y14.elizabethspizzadenton.com/?ublib=19d3ce96-d829-4f78-82bd-ef47d3af9900
 txvii.hazaratbet.bet/099279dc-fd6f-4e77-817d-7f3f253dbc37
 txwd.borrender.com/5c1b4fb5-8786-4c71-ba6c-9144253c5d95
 tygnu.lokercorp.com/9b90f956-086c-443c-8e77-d45929d961fb
-tzpfztp.90bet.org/411450bc-4cb1-4d45-8459-9aa20b46be4e
 tztgw.impactpromotionsclt.com/8971a430-05a1-4072-98c9-7f006923be63
 u1n70yhl.behtarin-site-shartbandi.com/?ublib=37b2752a-c838-4363-a9c6-eca106488424
 u1uo84tz.dadyybet.com/?ublib=7a605453-d721-4bb3-ac72-8a251d1c4c87
@@ -14118,7 +14124,6 @@ union.macoms.la/jquery.min-4.0.2.js
 unitedgs.lovestoblog.com/MSI_194837.png
 unitedgs.lovestoblog.com/img_194824.png
 universalmobility.pro/Striker.png
-universami.ge/build.exe
 unix-technology.com/admin/MSI_PRO.png
 unixcheats.shop/downloads/Unix.zip
 uno-play.online/download/uno-setup-1.0.0.exe
@@ -14142,7 +14147,6 @@ uploadloop.com/bhatta.exe
 urbanpro.mycpanel.rs/Ringeklokkes.aaf
 urbanpro.mycpanel.rs/ucPNX9.bin
 us.wind0ws.net/msedge.exe
-us5fm2lg.ace90bet.bet/?ublib=fbdcd952-147c-4ec2-b81a-40fe6019ce13
 usafansweepstakes2026.us/pure/1.jpg
 userhotels.org/Adobe%20Acrobat_Reader.exe
 users.atw.hu/fvlmodell/letoltes/files/scalecalc.exe
@@ -14443,7 +14447,6 @@ weybli.com/mixnew2.exe
 wfwwdsvv.irantop.bet/e6098dd5-2d3b-455c-9de8-0f2b4f545e50
 wgbkut.bet1roulette.com/be2375af-515a-4f60-a122-938bbd3f41c8/goog.ct
 wgp8mmcl.nextbahis.app/?ublib=c020d2bc-4d6a-4e5a-8d7c-0e3b726c909d
-wgzgqfep.bingobet.pro/?ublib=b5c7d065-8854-431e-a445-905054925dea
 widexenmexico.com.mx/plugins/Cloudflare/challenge/IsHuman/ID53728/
 wielixclient.com/WielixClient-26.3.jar
 wielixclient.com/WielixClient-v2.1.0-1.21.11.jar
@@ -14471,6 +14474,7 @@ win.down.55kantu.com/winassist/login/login.7z
 wind-cragblur.xyz/avast_update
 wind.ntlsmartfull.com/k
 windomstatetheater.com/mits.zip
+windomstatetheater.com/osxs.zip
 windomstatetheater.com/rars.zip
 windowsdiagnostics.st/api/static/Office365
 windowsdiagnostics.st/api/static/exodus.asar
@@ -14625,6 +14629,7 @@ www.93-152-221-234.plesk.page/x86
 www.93-152-221-234.plesk.page/x86_64
 www.agcestksa.com/sarafina.exe
 www.amyuni.com/downloads/usbmmidd_v2.zip
+www.ardguisser.com/IUIA-qgkdtq2rfbXD7Z_LjIAENgVq-4CY/
 www.artleadsdigital.com/logs.bat
 www.artleadsdigital.com/logs.py
 www.artleadsdigital.com/payloadencrypted.bin
@@ -14856,6 +14861,7 @@ www.nishiwaki.ne.jp/uploader/uploader.cgi?mode=downld&no=864
 www.notbak.com/dersnotlari/02/sora.jpg
 www.oj44472.com/insdow92
 www.ojang.pe.kr/calendar/down/jeditor/jeditor.exe
+www.okhan.net/soft/uploadfile/anquan/pjbingdianhuanyuan.rar
 www.okhan.net/soft/uploadfile/guochang/setup_tvplayer.zip
 www.okhan.net/soft/uploadfile/youxi/okhan.net-2wn.rar
 www.oringosmod.com/oringo-26.1.2.jar
@@ -15072,7 +15078,6 @@ ywpwwxjc.ace90bet1.bet/6baa2cda-6177-4035-988f-a57fae77c8b8
 yxjzgcji.proje-negar.ir/1d615043-044f-44ef-abab-007ee0e4d252
 yxxyqkkf.jadoou.one/5f5d1b02-aca5-4491-a0ee-e53048a627c0
 yxzsj.derbi.promo/3f922363-2f4c-4493-a2a3-f57215a3f660
-yylcnvu.90jet.pro/d78f3929-f360-4e1e-8e33-f145cb7db75d
 yywem.drdavidzweiback.com/9ee0ae0a-3908-469f-b46d-56fa5c05d6cc
 yyyvzlgy.irantop.bet/bc48269c-0aba-4ad6-b8c0-bbeccdf8d6a8
 z15e6bey.nextbahis.poker/?ublib=0d17f058-35c9-4ae4-8f31-e87194c28f7e
@@ -15629,7 +15634,6 @@ zippycanyonez.pro/wife.x86
 zippycanyonez.pro/x86
 zirq.bet24.casino/e84a1534-9d81-42e9-9885-87c9ec330dcc
 ziti-multicooker-hacks.garden/f30eba81-4c5a-4080-a057-6df524e69f8c/google.ct
-zjfzifr.psd.markets/4eebd2fb-5997-4e37-844c-449889e2c8ae
 zjyozhki.jadoou.space/47db3ff9-a24b-4fcc-8a59-e2aff502acaf
 zjzffhbgt.efbetfarsi.com/6799cbdc-0585-44a3-91c5-c9f34d9f85ac/gc.key
 zkgeaxbs.nextbahis.promo/3627f39c-afa6-4f7d-89d9-de54f36d9333
