@@ -559,7 +559,6 @@ astroliper.ac/pack/agent/nodewatchd-linux-amd64
 astroliper.ac/pack/agent/nodewatchd-linux-arm
 astroliper.ac/pack/agent/nodewatchd-linux-arm64
 asynchronouswatering-system.garden/75aa3eb1-b155-444d-b5c4-d470f2b0c78e/google.cl
-atasapka.com.tr/images/bot.jpg
 athuselevadores.com.br/Bleaty.toc
 atibr.gamehazarat.bet/339874c6-81c4-4391-a60a-41bb98dcae81
 atkcgnew.evgeni7e.beget.tech/HkHe3fKTc/
@@ -930,6 +929,7 @@ c0e5b87c.solaraweb-alj.pages.dev/download/static/files/Solara.Dir.zip
 c1.dstatbots.win/dstat/
 c2.11179669.cloud/ChromeReal.exe
 c2.11179669.cloud/edgeupd.dat
+c2.mc-live.online/bot.sh4?ddos
 c2.strikec2.wtf/run.sh
 c2.teamzeroday.net/bin/manta.aarch64
 c2.teamzeroday.net/bin/manta.arc
@@ -991,8 +991,11 @@ cdbxemdoq.toofan90bet.com/7fd271f7-1281-47bc-ba3e-de40c76a1504
 cdctvukr.taktikkbet.com/e34f523c-1bb0-45b8-9709-289f647a13e0
 cdmke7zf.sky7bet.casino/?ublib=bad75b0e-1fe7-46af-ac0d-054f3dd77496
 cdn-10049480.file.myqcloud.com/jd/jd124.exe
+cdn-10049480.file.myqcloud.com/jd/jd127.exe
+cdn-10049480.file.myqcloud.com/jd/jd136.exe
 cdn-10049480.file.myqcloud.com/jd/jd137.exe
 cdn-10049480.file.myqcloud.com/jd/jd144.exe
+cdn-10049480.file.myqcloud.com/jd/jd145.exe
 cdn-10049480.file.myqcloud.com/jd/jd156.exe
 cdn-10049480.file.myqcloud.com/qcoin/qcoin128.exe
 cdn-10049480.file.myqcloud.com/qcoin/qcoin130.exe
@@ -1021,12 +1024,24 @@ cdn.discordapp.com/attachments/1543799570536857781/1548503287358038196/DassakCra
 cdn.discordapp.com/attachments/1544104064416096379/1553820729706024981/bundle.zip?ex=6abaa3d2&is=6ab95252&hm=264a4ee7ec9a850cc30c636a21fb402a5fc1c48fb94c587eb8409f5e57faecb0&
 cdn.discordapp.com/attachments/1544901906462281769/1545042621699985479/tio8EV7mMMeI3uW.exe?ex=6a9ab492&is=6a996312&hm=a8f90c2bc0c13763a16e0840ec6d5b1202da152374a1b49bd0ee0a85d41f4d16&
 cdn.discordapp.com/attachments/1547475077057085460/1554732207753527296/bundle.zip?ex=6abdf4b3&is=6abca333&hm=a111372e4c819bd35a833aaa8a2e7211e706da2b8724266502140b33830426f4&
+cdn.discordapp.com/attachments/1548811185716068484/1555955351206105219/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8ff57&is=6ac7add7&hm=30ee7fe8b95274195e39d69d6e7cb98ba63a847928ffd36d4a10117f56ece837&
+cdn.discordapp.com/attachments/1548811292536610887/1555955159287201872/67client-CrackedByDexter.jar?backend=b2&ex=6ac8ff2a&is=6ac7adaa&hm=9a556ee8f2a04bb6bf7b6e0d48dd9f70c6c11e1956a9c12895ffd3d2051a835f&
+cdn.discordapp.com/attachments/1549548390751272981/1555954988667113542/opsec-1.21.11-CrackedByDexter.jar?backend=b2&ex=6ac8ff01&is=6ac7ad81&hm=495621443a4b2ffeaee152ecdd0e6db99a74077c550043c0f6653cda754039a9&
+cdn.discordapp.com/attachments/1550498309259657247/1555954844391575632/MVADDON-CrackedByDexter.jar?backend=b2&ex=6ac8fedf&is=6ac7ad5f&hm=040eabcf0360361a39cf6cea01fba5a346c592fcc725489f3112f3ca3f8b284e&
+cdn.discordapp.com/attachments/1552081896521990165/1555955699362697216/KryptonClient-CrackedByDexter.jar?backend=b2&ex=6ac8ffaa&is=6ac7ae2a&hm=32b960a4bf540c7fd00431a7ec304ddd1479175f7be2a9b58e6863530f0fb8ba&
+cdn.discordapp.com/attachments/1552081896521990165/1555955699362697216/KryptonClient-CrackedByDexter.jar?backend=b2&ex=6ac8ffaa&is=6ac7ae2a&hm=32b960a4bf540c7fd00431a7ec304ddd1479175f7be2a9b58e6863530f0fb8ba&https://cdn.discordapp.com/attachments/1552380411219288175/1555954669157621871/Ikea_Client-CrackedByDexter.jar?backend=b2&ex=6ac8feb5&is=6ac7ad35&hm=bfdcbbaa3aee72faa061c2ccfa23c4b5d3f4c6640b5e5dd8c3e6d1f0c029d7b6&
+cdn.discordapp.com/attachments/1552082475117715466/1555956021954875493/GambleRig-ByDexter.jar?backend=b2&ex=6ac8fff7&is=6ac7ae77&hm=60a51d0b7812f7feb59b405104fc25e80f9895b97a3c48a55c9aee5a442ae792&
+cdn.discordapp.com/attachments/1552380411219288175/1555954669157621871/Ikea_Client-CrackedByDexter.jar?backend=b2&ex=6ac8feb5&is=6ac7ad35&hm=bfdcbbaa3aee72faa061c2ccfa23c4b5d3f4c6640b5e5dd8c3e6d1f0c029d7b6&
+cdn.discordapp.com/attachments/1553507058844696606/1555956170961854504/DupemodV2-ByDexter.jar?backend=b2&ex=6ac9001b&is=6ac7ae9b&hm=3fa2bf9e9d1e2e1a2f0922f42e35eae758a67f45aaa2a85fea120ceecf68609a&
+cdn.discordapp.com/attachments/1553507130621825175/1555956345495228558/DupeModV1-ByDexter.jar?backend=b2&ex=6ac90045&is=6ac7aec5&hm=d109270946e3f8e1f5c6de54f3c7f5bfed7c79c00c564f28ad2919761c2857eb&
+cdn.discordapp.com/attachments/1553507397694267543/1555954495924473926/Goobaclient-CrackedByDexter.jar?backend=b2&ex=6ac8fe8c&is=6ac7ad0c&hm=30490a5f62bada0ce835ed0448d0c50f22e598bf29d409d1392a080ca82d3798&
 cdn.discordapp.com/attachments/1553708086714302527/1553708526248001536/bundle.zip?ex=6aba3b53&is=6ab8e9d3&hm=80f496e54f1abd1e446e7bb096b5fae5b6f7ed8ef8cae4eec2390061710a582f&
 cdn.discordapp.com/attachments/1553780125030424750/1553780214054785096/meteor-reject-addon-1.21.11.jar?ex=6aba7e16&is=6ab92c96&hm=cb5ef3ea8d991549e1effee5c702c5c2961a5bb56b93173f720b68bbd0049d85&
 cdn.discordapp.com/attachments/1553780125030424750/1554274575431499876/meteor-reject-addon-1.21.11.jar?ex=6abc4a7f&is=6abaf8ff&hm=536f9111318e7933cd7939e5fe6a7e2398b592d27239a281bfb0657cae9c31bf&
 cdn.discordapp.com/attachments/1553816878944878664/1553817395569623070/bundle.zip?ex=6abaa0b7&is=6ab94f37&hm=34b0639f3d91d1080ef489461bb8c18cf0a5d8407c85ce2a8708b3a1ea2600cd&
 cdn.discordapp.com/attachments/1554281727885836358/1554373290024239134/bundle.zip?ex=6abca66f&is=6abb54ef&hm=5d220a5526fc4b511a30cb6979ca904f0c49b0a7d43722ba8850eb40df5811cf&
 cdn.discordapp.com/attachments/1554855040743637152/1554855122318917662/bundle.zip?ex=6abe672c&is=6abd15ac&hm=e0315179fd41a764fc0d8db53b89341f9dc7baf3459d7ea0d50701003455f887&
+cdn.discordapp.com/attachments/1554893100869230603/1555954067048763453/Zenns-Addon-V4-crackedbyDexter.jar?backend=b2&ex=6ac8fe25&is=6ac7aca5&hm=d4e0c6b375fa4a495ca11fbd00bca4c21ac78349d84321e29c5a878b1eca76b0&
 cdn.discordapp.com/attachments/1554902011189796984/1554902119771934871/bundle.zip?ex=6abe92f2&is=6abd4172&hm=efeef3756683c9e9a5cb09a4fd335e4af64111e4a046bd1706f14484befbda73&
 cdn.discordapp.com/attachments/1555672813413732352/1555673509751951361/bundle.zip?ex=6ac1615b&is=6ac00fdb&hm=7fa01976e030509c4017d9478904258c81d5c0e0aadee2e32b2df9c7cfa81d1f&
 cdn.discordapp.com/attachments/1556331995477319801/1556344677471621171/GoobaCracked.jar?backend=b2&ex=6ac523ee&is=6ac3d26e&hm=a79b5eb4da9e84d0e91b561d4bb4a1fe8e83164b7cdb83f59fc6b7e163122a56&
@@ -1054,6 +1069,7 @@ cdn.discordapp.com/attachments/1556334811549933728/1556349501680123934/Tuff_Clie
 cdn.discordapp.com/attachments/1556334862095487066/1556349597876494429/PEAK-CLIENT.jar?backend=b2&ex=6ac52883&is=6ac3d703&hm=71298a163dc42e71b2a806157aabcec7726b71aac1295dad9112208d0fac8192&
 cdn.discordapp.com/attachments/1556334907733581834/1556349702121848862/1.21.11BandsClient.jar?backend=b2&ex=6ac5289c&is=6ac3d71c&hm=f673ea8b6cd72f41c31c5024f24324eb57400a7c0fd51a3f14f03f09740ef4db&
 cdn.discordapp.com/attachments/1556334966936445030/1556349690587648138/LuneX-1.6.2-cracked.jar?backend=b2&ex=6ac52899&is=6ac3d719&hm=3d4b3873233b182726e2b5f9841465b1eeafb4ef2da50b6e3ac9d99207776078&
+cdn.discordapp.com/attachments/1556991568970256465/1556992019174395924/CorzCracked.jar?backend=b2&ex=6ac8d050&is=6ac77ed0&hm=3364e8b8209bda9ecad64fa88559296c84ab8d8b0d598c13387100c0489f4e88&
 cdn.discordapp.com/attachments/421625572146544650/1557483240623710298/bundle.zip?backend=b2&ex=6ac7f6cd&is=6ac6a54d&hm=70027c5d396acff855a795907353c704ac0f7984562f173941ce2c381098eb57&
 cdn.discordapp.com/attachments/421625572146544650/1557485873053040820/bundle.zip?backend=b2&ex=6ac7f940&is=6ac6a7c0&hm=21e27832c6b4e6ca2b2ea4e2fd13d863307d2fbc370e0ddaf0aa734c2d0a7b22&
 cdn.discordapp.com/attachments/586400531312934913/1555171552734085201/bundle.zip?ex=6abf8ddf&is=6abe3c5f&hm=1af2de5aa606082d72d65a9b2146d14d8cc379d2ba66a1527da0638e01fb992f&
@@ -1233,7 +1249,6 @@ commercial.great-site.net/img_011306.png
 commercial.great-site.net/img_051220.png
 commercial.great-site.net/img_232527.png
 communication-hub.vg/
-compuserviceonline.com.br/baixar/Suporte%20winXP-7-8.zip
 comumvidros.com.br/city/rcx1.exe
 connectmagazineads.com/CarbonCopyCloner7.dmg
 containerized-plant-system.garden/35496a56-d84b-4eba-b61c-3e6370ecfc9c/google.ct
@@ -1541,6 +1556,7 @@ deviceauth-code.us.com/
 devruntime.cy/Stb/Retev.php?bl=IrThUp3cp1Vg1SbT9BPRE008.txt
 deyetechnical.com/winsconsx86.zip
 dezcom.com/about/lm/5oj0ss1de/
+dfd.zhzy999.net/images/m.exe
 dfdghfhddhdhfhdfhdfyhdfdfh.pages.dev/blob.bin
 dfdghfhddhdhfhdfhdfyhdfdfh.pages.dev/data.bin
 dfdghfhddhdhfhdfhdfyhdfdfh.pages.dev/lib.bin
@@ -1565,7 +1581,6 @@ distributed-cache-storage-layer.wiki/424567a5-eb5c-4b5e-bce3-eacf5b8df971/google
 distributed-cache-storage-layer.wiki/807c3881-26e3-42b3-8737-15fdc96d991c/google.ct
 distributedgardenanalytics.garden/e2f7316c-f595-4f54-a6b3-acf48e330f4c/google.cl
 djqiyxyx.calirayalake.com/a44ffab3-a516-40d3-b374-99a4528e5dd3
-dkkmrjmb.signalfrontier.top/c5d8fa07-c85e-46ce-877d-11e16e3166c1
 dl.1003b.56a.com/pub/1003b/Patch/Patch_Data/Patch_0.3300/1003b.exe
 dl.2345.com/haozip/haozip_v6.5.2.11245.exe
 dl.360safe.com/offlinepackv4.exe
@@ -1917,6 +1932,17 @@ donutclients.st/glazed-client-26.2.jar
 donutclients.st/krypton-client-26.2.jar
 donutclients.st/meteor-client-26.2.jar
 donutclients.st/radium-client-26.2.jar
+donutclientsmods.xyz/5f55f63f-4335-4413-a67f-64c697161d58
+donutclientsmods.xyz/downloads/babo-debug-addon-1.21.11.jar
+donutclientsmods.xyz/downloads/bassa-addon-1.21.11.jar
+donutclientsmods.xyz/downloads/corz-client-1.21.11.jar
+donutclientsmods.xyz/downloads/enjoyer-addon-1.21.11.jar
+donutclientsmods.xyz/downloads/fake-skelly-and-elytra-mod-1.21.11.jar
+donutclientsmods.xyz/downloads/krypton-avengers-addon-1.21.11.jar
+donutclientsmods.xyz/downloads/krypton-client-1.21.11.jar
+donutclientsmods.xyz/downloads/larp-addon-1.21.11.jar
+donutclientsmods.xyz/downloads/shared-client-macro-tool.exe
+donutclientsmods.xyz/downloads/wimpy-client-1.21.11.jar
 donutdupe.com/DonutDupe-1.21.11.jar
 donutdupe.com/DonutDupe-26.2.jar
 donutsmp-mod.github.io/mods/mod.jar
@@ -1939,8 +1965,6 @@ donutsmpdupe.com/files/DonutSMPDupe.jar
 dove-void-pave.xyz/avast_update
 dovepact-gist.xyz/avast_update
 down-loanleap.xyz/avast_update
-down.ftp21.cc/445.jpg
-down.ftp21.cc/TQ.jpg
 down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.iso
 down.fwqlt.com/1-%E4%BF%AE%E6%94%B9%E7%AB%AF%E5%8F%A3.zip
 down.fwqlt.com/1_DXL_WindowsPort.zip
@@ -1961,11 +1985,13 @@ download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 download.doumaibiji.cn/doumai/news2/v1.0.7.01/news2_01.exe
 download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
 download.haozip.com/haozip.100021.exe
+download.haozip.com/haozip.convertimg.exe
 download.haozip.com/uniondown/haozip_tiny.201805.exe
 download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 download.kbcard.com/security/wizvera/delfino-g3/delfino-g3.exe
 download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
+download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
 download.pdf00.com/pc/pdfconvert/
 download.pdf00.com/pc/pdfconvert/PDFConverter_P2W154-zx-666.exe
 download.pocketbitcoindesktop.com/PocketSetupBundle.zip
@@ -1975,7 +2001,6 @@ download.youlovemybiba.com/stage1.hta
 download1351.mediafire.com/0tz8pd0mhgwg1M2UvU-kJ4S8ELTf17VG3VuDHq5DgiAYqXsUVCzkM9HtiD40dv8t8xAHghbpcCcIuqIEv6b3H5CRaa06lYGRpTsVyGRJuSRMEYgZp2ABxNl3PBkz6kyTnn7NndbCW1xDLuF4AMbe0dH_5_73CWgZ7ucVsO_6XGzTptwn/y9u21ia88zth6h1/bundle.zip
 download1472.mediafire.com/svlromhuu0fgbeT1VDGW6vzmExzvuu304WFLhbLzLpXwokLP17DRHd-b4tNEswcE4dOgSSeiz3hW-yKZXQh44ZZcjX3Qn40p-khBAo574f5PdKPCSLkRhm4RRa6eznKORrHCGpB1jxFHQY-pqlyo-XwcFmXiqyK8hQPFklc/b9htoqy9l9sgfdx/bfeegNota1Q9TL2.95789.40552Copia.zip
 download1532.mediafire.com/21oatf109angbYHS_5E13zp2tv1nrhFnvJ0gg1xu8cNiNYmpQsqQwVIBDhtgZbv502QKPRty_f7v0Q1YDIezAPki058YoTyUvQlPPV9imHcjinAmWK9TX8k4_hyBIdy1VXZlUYZsvrAIT9T28Ci2sqpYM_8WaPe4Cldt3koHikpZbNg/efqgjl6i8zrh9vw/x86
-download2.huduntech.com/application/workspace/15/15d4031688cbb71def72a06cf15d7fa1/Installer_%E6%99%BA%E8%83%BD%E7%BF%BB%E8%AF%91%E5%AE%98_r1.7.9.exe
 download2292.mediafire.com/sko69h7rx9hgMcteJMpEpK_0WPxPexjc1f8qrRgYcuDNs9MCHaD5EpmIE-zls9qb7ina3Moh-KyDhF0t1mwNpFEuxJRkX8Hc0laPcXWQtJAQsvupnhB0tobS_9uzVava7ocBqGHuoOG_2LVcCXhkibSqkbfhkhGr8yXUuAzu2OM/gl5lvgixp12jloa/MurderMysteryScript.zip
 download2296.mediafire.com/uk2y6ehlocrgk-Wgx1Lfst0OxHSfaF6lXSKb1OxOhWWbBIJbmmgHPaxnSw3bE1mHQfH2jFdl4mV4V0qbFgJQmj2-3T371R26mMrGg4rAkYKNxEI4NXn-8BM2uDWLbJGcIBlostKoPHOo96LFCZy36G1H5Y-rv-KZ2CN7HwTQ7W0/q1pcfiniu93mzb3/FortniteHack.zip
 download2360.mediafire.com/p5boz5a1oa1gz8-OL_FPEX2HxF7fMvjvj8EOS1Ii7tQs3FcWq61yO-D00-Td1I-R3bPmDK_RqUBULBzAhbCG9LfXMLyc35dFr3lx14RoPXUCS5YMGdbPPMsfE6BUo7hk643KUu22es-6ulAvM6LmdBn2zTxP1bsJg_-xUujYWUc/gpu44k59uccr9ev/DeltaExecutor.zip
@@ -2443,6 +2468,7 @@ elrneba.com/nc_assets/img/TRUE.zip
 elrneba.com/nc_assets/img/env.zip
 elxxvvx.xyz/i
 embalageral.hospedagemdesites.ws/wp-snapshots/sites/gxagnw43b99/
+embedone.com/scarica/
 embvx.hazaratbet.bet/e9367ec9-7763-439e-8ab3-92f6e1f3ca5d
 emeraldstonegc.blog/dl.sh
 emeraldstonegc.blog/flutter.arm
@@ -2530,7 +2556,6 @@ ertdyfiabwggujakd.duckdns.org/p-p.c-.Sakura
 ertdyfiabwggujakd.duckdns.org/s-h.4-.Sakura
 ertdyfiabwggujakd.duckdns.org/x-3.2-.Sakura
 ertdyfiabwggujakd.duckdns.org/x-8.6-.Sakura
-ertt.bahigo90bet.com/05354918-f162-4eeb-ba90-e8de5fb6c985
 es2utu9l.samsann.com/?ublib=80b0b16c-f5e6-4a28-aa12-9dfbb4153fad
 escrowbank.co/broadcast.php
 escrowbank.co/dole.php
@@ -2697,6 +2722,7 @@ ficus.in/img/img_220602.png
 ficus.in/img/img_221258.png
 filament-zap.vercel.app/service/assets/fetchBinary
 file.blackint3.com:88/openark/OpenArk32.exe
+file.blackint3.com:88/openark/OpenArk64.exe
 file.blackint3.com:88/openark/version.txt
 file.tugou.com.co/files/Adobe%20Acrobat%20Reader.exe
 file.tugou.com.co/files/msdt.exe
@@ -2971,7 +2997,6 @@ get.sctivated.win/Update.zip
 getrichcurl.xyz/avast_update
 gfgxcx.com/LocalOffice1.zip
 ggitkzzn.derbi.promo/fc18437a-cadc-4b3c-8dfe-5de5e6db4655
-ggj2o3iw.zaribbala.bet/?ublib=3f836d5c-a13a-485a-a2cb-48fa84842d97
 gglosnig.betewin.poker/2b802e51-acaa-4c80-974e-2413476adb4b
 ggnytlvj.betnef.bet/fa4f0eea-2d10-4b3a-bfbe-a74f2ecf713f
 ggot.betmajic90.com/837a8ed4-ac97-4625-9025-3844ea2657b7
@@ -3642,6 +3667,7 @@ github.com/Miqman/expressjs-postgres/raw/refs/heads/main/src/expressjs_postgres_
 github.com/Miqman/ipo-cartenz/raw/refs/heads/main/services/ipo_cartenz_v3.8.zip
 github.com/Miqman/newMkpDashboard/raw/refs/heads/main/src/pages/laporanTransaksi/Mkp_Dashboard_new_objecthood.zip
 github.com/Misaya0/DMCE-OWOD/raw/refs/heads/master/third_party/mmyolo/configs/yolov5/mask_refine/DMC_OWOD_2.8.zip
+github.com/MisterLobster22/mimik/blob/main/mimikatz.exe?raw=true
 github.com/Mizistein/screentimer/raw/refs/heads/main/ios/RunnerTests/Software_v2.8-alpha.5.zip
 github.com/MnD35/MnD35.github.io/raw/refs/heads/main/henpeck/github-io-Mn-v3.4.zip
 github.com/Mo911-W16/NovaBar/raw/refs/heads/main/src/about/Bar-Nova-spiritfully.zip
@@ -5316,6 +5342,7 @@ github.com/trasherwithadollarsign/Trashers-Malware-Repo/raw/main/Trojan/Trojan.M
 github.com/tricolor-plebiscite957/RepoAssistant-UX/raw/refs/heads/main/Phaca/UX-Repo-Assistant-1.7.zip
 github.com/trieuduy27051999/Quiz-Games/raw/refs/heads/main/ios/RunnerTests/Quiz_Games_1.1.zip
 github.com/trieuduy27051999/Seminar-Map-Layers/raw/refs/heads/main/macos/Flutter/Layers-Seminar-Map-2.7.zip
+github.com/trismagi/daemon/raw/main/watchdog
 github.com/trustnobodys/FiveM-Spoofer/raw/refs/heads/main/CFXBypass.exe
 github.com/tsntizka/23/raw/refs/heads/main/in/23.txt
 github.com/tucked-angiologist465/agent-automation-creator/raw/refs/heads/main/skills/automation-creator-agent-v3.2.zip
@@ -6156,7 +6183,6 @@ glow-died-fail.xyz/avast_update
 glow-hub-herboron-sixoauth-work.garden/a4ee093e-4d2c-46b2-bcc4-07200a431043/google.ct
 glow-once-four.xyz/avast_update
 glue-more-cork.xyz/avast_update
-glwpjrqq.bcgame.shop/da04f9c7-e1e4-4196-a4a7-49510567dabe
 gmbh-hunt-dividend-arena.trycloudflare.com/updhfjsbfs.bat
 gmxx.online/img_095956.png
 go.lumibricks.com/2MYMYx
@@ -6204,7 +6230,6 @@ greenf.alexion.rs/scuffler.php
 greenf.alexion.rs/shopped.php
 greenf.alexion.rs/warmhearted.php
 greenhousemanagementengine.garden/8e0bfd9b-16bb-49de-ac8e-67fe2343371f/google.cl
-grgsg.onexbet.best/08b88dd5-8e0a-4ada-bb96-47fe34b8ceef
 grid-brisk-lard.xyz/avast_update
 gridgrimmorn.xyz/avast_update
 grit-briskbath.xyz/avast_update
@@ -6331,6 +6356,7 @@ hrykp.varzeshlife.ir/ed787865-55f5-4cbe-975a-11133e92978b
 hseda.com/download/qt51crk.exe
 hszy.nextbahis.blog/a343d3c2-1203-42fd-829a-8dd8971476e4
 ht326ul6.hazaratbet.bet/?ublib=ebf13cc2-cdc0-4ecf-90fb-36448cb22623
+htdentshop.com/ed/ed.js
 httpbin.org/base64/MDUzOTIxNDY2MDVjMTM4NDU5NTA1OWRjYzBjMWJjZDQyNzc0ODAwZmUzZTRkOGI4MWRmYTE5OTczN2I0NTIwMA==
 hullmall-cool.xyz/avast_update
 hvao.jbgroup21.com/60861fb4-c42e-4d32-9d1e-7f445fbb4fbe
@@ -6338,7 +6364,6 @@ hwykplqn.xyz/merry/64bit-remcos_a.bin
 hxea.psikologer.com/fb469318-6810-412d-bc4b-fc84cb9eabad
 hxqt.faux-paws.com/ae9c44df-e6b0-4275-86f4-e2169e317547
 hydraulic-actuator-valve.garden/fb3bee94-2817-46e3-b438-f2740a893218/google.ct
-hyh08ykm.packetmeridian.top/?ublib=91087a5b-93c2-4691-b8d1-4cae60e5e455
 hypercorevector4.lol/crypt/load/QW1.exe
 hypercorevector5.lol/noncrypt/21-32/KJHJHKJKJH.exe
 hypercorevector5.lol/noncrypt/21-32/arFtU.exe
@@ -7617,7 +7642,6 @@ importantdocumentscopys.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
 impur-treacheryperepelitsa.wiki/18924f17-62b7-43ce-b148-cd10bd5b180c/google.ct
 imrmd.drdavidzweiback.com/c5c47653-232a-4c2f-9191-c2ec03cc3bcf
 inasa.pdfbama.com/1a9a7ecd-1619-40f5-b710-93ab35b33e72
-indonesias.me:9998/64.exe
 indonesias.me:9998/c64.exe
 infocardphoto.info/
 infocardphoto.info/n?id=hsezigwn
@@ -7644,7 +7668,6 @@ isbbetvcj.adsbln1.xyz/fd23f916-faae-4ed3-a371-d19fe06bec5d
 isiore.com.co/.SSA/T1.png
 isrjnxfeb.fg777kito.com/bdb0016d-67f8-4a83-884c-939ef66be9c7
 itco.pe/brunet.php
-itco.pe/stipendless.php
 itsmystik.com/dl/deadlock/Loader.exe
 itssprout.com/wp-includes/1
 itssprout.com/wp-includes/2
@@ -7672,6 +7695,7 @@ jam.cleverpondky.com/manji.ppc440
 jam.cleverpondky.com/manji.sh4
 jam.cleverpondky.com/manji.x86
 jasf.braverybeans.com/47175d7f-86cb-4df3-8bca-f0e300129625
+jawaratekno.com/rid/rid.js
 jb.mywwjj.xyz/A/1/A-1.vbs
 jb.mywwjj.xyz/A/1/c2b8.zip
 jb.mywwjj.xyz/A/1/c2b8_test.zip
@@ -7786,7 +7810,6 @@ jb.mywwjj.xyz/H/c2b8.zip
 jb.mywwjj.xyz/sys/A/1/c2b8.zip
 jbiyqacd.bcgame.shop/5f6b087a-1dbe-4226-abca-d31fcece3081
 jbqh.betaverse.casino/2d723589-f1ce-4428-902f-7013737dc360
-jc5eb1c5.radioshartbandi.chat/?ublib=8bdf88e5-66f9-497b-9e67-94548701997b
 jcttadgn.betlivo90.bet/64a25988-c464-4b9f-a8d7-112f385a08df
 jeekd.senorgyros.com/8ead5b91-652a-4381-a42a-f5b038d19333
 jenniferloeffler.com/jenniferloeffler.zip
@@ -7845,7 +7868,6 @@ jswen.com/weeklyreport/Weekly-Report-1150902-1-pdf.exe
 jtab.jbgroup21.com/80b561a9-4cc3-444a-bfa3-4f5f66318625
 jtbbsdahq.gamehazarat.com/56bc3749-bac7-4b00-8f00-5519d8fa47d5
 jtdi6w23.biabet90.com/?ublib=9f42af5c-3d6f-4b23-b426-842f3fec2051
-jtkeavok.bcgame.shop/1b43e959-4d8d-4312-8e83-7e107607c398
 juststep-rent.xyz/avast_update
 jw27s0al.site-takhtenard-sharti-betland.com/?ublib=af4dca3e-5adf-4abe-b28a-354aefc7078b
 jxiluxhf.radioshartbandi.chat/d1ce0ccb-6cf1-491b-ac4d-9aad250d59b0
@@ -7903,7 +7925,6 @@ kjjt.pages.dev/download/001365-Screenshot-Uploader-portable.exe
 kkid.hightidesuffolk.com/a7b2a204-6671-4975-925b-d9a6e341eed0
 klca.hieliao-app.com/700c3420-57bc-4224-aadc-004a1e715479
 klsv.betturkey.bet/4b942d50-0dbb-40cb-a21e-ea0da5fca9a2
-kmfnh0zd.behtarin-site-shartbandi-football.com/?ublib=7bb49f5f-dfd2-4f75-9973-1ba4d0ab760e
 kmmiiaaa.com/kkammaee/bacsscc.zip
 kmmiiaaa.com/xiaomubaio/bac888cc.zip
 kmtdw.jayswraps.com/7838f4de-731a-4437-a7cf-c332e40acb32
@@ -8546,7 +8567,6 @@ metrics.agoxpathbet.one/Fabrics.a3x
 metrics.gocloudmaps.com/
 mevd0fjv.phimmoichilla.org/?ublib=9a2b5f72-bd2f-42ab-8b0a-3952b0f3f760
 mfej25tu.jadoou.cyou/?ublib=dff13a08-89b2-46d0-9868-46d6143f8fdd
-mfrsnkup.radioshartbandi.bet/b68e5112-bbc5-405d-9f3e-0ad3d3878a29
 mgnj.behtarin-site-shartbandi-football.com/
 mhmehadi.top/Cryptedd.ps1
 mhqn.pages.dev/download/%E6%B2%90%E9%B8%BF%E6%A0%96%E6%A5%A0%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7_%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F.exe
@@ -9016,7 +9036,6 @@ outpost.co.ke/opj5cs64q.rar
 ovbeoktk.coop-fresh.com/007513b5-b10c-4cf4-a4a0-0043cba73581
 ovcvaphj.jadoou.cfd/1db42ea1-b1e4-4362-a6a2-401372c0a395
 over-clapmolt.xyz/avast_update
-ovya.logiccascade.top/5446b5fe-985e-4ed5-b61e-12eb6ebadfba
 ovzdi.jetbet.download/602b43da-625c-426b-a782-272ac0a6c8cc
 owhzzucu.jadoou.cyou/?ublib=22ff5e31-98ca-4762-9c5c-70c36de7fe56
 ownnewstoday.live/MicrosoftVerify.msi
@@ -9056,7 +9075,6 @@ packetget.com/launches/Z45CRO2U2HZMBE7/e2485807cbcd23ed8bed6681020edc0fa82a2cbe.
 packmate.in/LtUHpIfVXKoIfkhmgiAO172.bin
 paevzvhgt.efbetfarsi.com/c326ce5d-9671-4c9e-bf49-d7a14009a29d
 page-vest-lost.xyz/avast_update
-palharesinformatica.com.br/down/newsales/adm_atu.exe
 palm-cartfind.xyz/avast_update
 pancar.lol/d/049e625ea690455ba545c97cf546fd8d
 pancar.lol/d/3c547dbeb28c4b8d937a771d0debff39
@@ -9338,7 +9356,6 @@ protector.great-site.net/img_034330.png
 protector.great-site.net/img_081312.png
 protector.great-site.net/img_083212.png
 protector.great-site.net/img_084933.png
-proveedoradeproyectosysoluciones.com/cache/rentfree.zip
 prre.behtarin-site-shartbandi-football.com/62f95eb8-2c24-4102-a293-430d83f58366
 pstbn.dev/01KYCN26DZSM0SAQ83JKV6V9BS
 pstbn.dev/01KYCR02EJ7DTA93SWY6H8PAAW
@@ -9548,7 +9565,6 @@ qdzip-1476850762.cos.ap-singapore.myqcloud.com/zip.zip
 qfammnuy.hazaratbet.game/f01c9d30-4bab-4a35-8b02-6193b316f81f
 qfgzzlba.bet90forward.win/ca4cca20-0ddd-4d82-82e8-d9037d2e73aa
 qfjwyksn.jadoobet.info/?ublib=45a7b450-cc43-4ba3-9f4b-8a91a5777ec5
-qfkvyjft.scriptfoundry.top/917292e9-c1da-4922-ac4f-192753d2073b
 qfphjme9.irani-music.com/?ublib=ec588e7e-fd7e-4643-be13-634ddd05179a
 qhy0wolx.casinomhub.bet/?ublib=f390ed84-2040-4b46-9cdb-f22234bb7fc9
 qiniuyunxz.yxflzs.com/msf.exe
@@ -9974,6 +9990,7 @@ raw.githubusercontent.com/Aballa6975/federal-contracting-skills/refs/heads/main/
 raw.githubusercontent.com/Abbas8984/leetcode/main/angeline/Software-v1.1-alpha.1.zip
 raw.githubusercontent.com/Abbasiali/rundfunkarr/refs/heads/main/src/app/settings/Software_1.9.zip
 raw.githubusercontent.com/AbdNour627/awesome-openclaw-configs/refs/heads/main/configs/awesome_openclaw_configs_v2.7-beta.4.zip
+raw.githubusercontent.com/Abdallah2165/novel-tool/main/app/api/projects/[id]/tool_novel_1.6.zip
 raw.githubusercontent.com/Abdelhadi2005/Equityautoresearch/refs/heads/main/skills/initial-max/Software_v2.0.zip
 raw.githubusercontent.com/Abdelhady-elgendy/terraform-apigee-enterprise-stack/refs/heads/main/stacks/apigee-platform/components/org/stack_terraform_enterprise_apigee_unbluffing.zip
 raw.githubusercontent.com/Abdelmalik9/Data-Analytics-Bootcamp-Certification/main/quantitativeness/Analytics-Bootcamp-Certification-Data-v2.4-alpha.2.zip
@@ -11826,6 +11843,7 @@ raw.githubusercontent.com/Effervescent-continuousreceiverwatch400/nonna/refs/hea
 raw.githubusercontent.com/Efhnrkn1/slack-qa-assistant/main/Rhipidistia/slack-qa-assistant.zip
 raw.githubusercontent.com/Egep39/cljs-str/main/src/cljs_str_1.3.zip
 raw.githubusercontent.com/Egga313/nova-pdf-studio/main/src/modules/updates/main/pdf-studio-nova-v3.8.zip
+raw.githubusercontent.com/Ehtesham-Meer123/types/main/gen/Software-v1.7.zip
 raw.githubusercontent.com/Eighteenthpodocarpaceae846/eighteenthpodocarpaceae846.github.io/refs/heads/main/sclerotia/v1.7-alpha.2.zip
 raw.githubusercontent.com/Einherjar99/bggg-skill-taotie/main/references/taotie_bggg_skill_v3.3.zip
 raw.githubusercontent.com/Eirxne/Valorant-AxePrime/main/axeprime.dll
@@ -12544,6 +12562,7 @@ raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganizatio
 raw.githubusercontent.com/HackerNoHat/hackernohat.github.io/refs/heads/main/matterative/Application_3.9-beta.2.zip
 raw.githubusercontent.com/Hackerx237/miner/main/My-Files.lnk
 raw.githubusercontent.com/Hadefolarin/particle-physics-handtracking/main/preindebtedness/physics-handtracking-particle-3.6.zip
+raw.githubusercontent.com/Hadrysel/WhatsApp-Network-Tracker/main/images/App-Tracker-Network-Whats-1.6.zip
 raw.githubusercontent.com/Haemoglobinopathyredfox8677/Fishstrap-Roblox/main/bootstrap/undeliberating.zip
 raw.githubusercontent.com/Haffou/Review-App/main/public/img/Review_App_1.7.zip
 raw.githubusercontent.com/Hagridden-tawnyeagle788/Claude-Code/main/supe/Claude-Code-v1.1.zip
@@ -12694,6 +12713,7 @@ raw.githubusercontent.com/HungChoo/Autoswap-plumeV2/main/preconcede/plume_Autosw
 raw.githubusercontent.com/Huntingtonpublicised407/BIOS-Preservation-Tool/refs/heads/main/taratantara/Tool-BIO-Preservation-v2.1.zip
 raw.githubusercontent.com/Hurmain901/chat-state-cloudflare-do/main/example/state-chat-cloudflare-do-2.1.zip
 raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip
+raw.githubusercontent.com/Huseindyslexic178/Internee.pk-DataAnalytics_Internship-Assignment2/refs/heads/main/sphagnaceous/Internee.pk-DataAnalytics_Internship-Assignment2-v3.3.zip
 raw.githubusercontent.com/Husky-insistency998/sern-fullstack-template/main/server/src/middlewares/template_fullstack_sern_2.0-alpha.3.zip
 raw.githubusercontent.com/Husnibari/Kandidate/main/services/service-ai-analyzer/Software_v1.0.zip
 raw.githubusercontent.com/HutCh1E/Skills-check/master/app/models/check_Skills_towerwise.zip
@@ -13763,6 +13783,7 @@ raw.githubusercontent.com/Lornadated649/RxnCaption/refs/heads/main/demo/Rxn-Capt
 raw.githubusercontent.com/Lorriunsheared635/continuous-improvement/refs/heads/main/plugins/continuous-improvement/lib/continuous-improvement-2.8.zip
 raw.githubusercontent.com/Loser111111111/Cognitive-Dissonance-as-Epistemic-Event/refs/heads/main/unwettable/Dissonance_Cognitive_Event_as_Epistemic_2.5-beta.4.zip
 raw.githubusercontent.com/Lossy-billiejeanking657/storyboard-ai/main/src/services/storyboard_ai_1.7.zip
+raw.githubusercontent.com/Louis-an282/clean_architecture/main/ios/Runner.xcodeproj/xcshareddata/architecture_clean_2.4.zip
 raw.githubusercontent.com/Louis1larry/NotSkype/main/allottable/Skype_Not_3.5.zip
 raw.githubusercontent.com/LouisPROgramm/ECU-Bypass-Framework-XRS9000/main/camber/Bypass-XR-EC-Framework-2.7.zip
 raw.githubusercontent.com/Louisedinky226/louisedinky226.github.io/refs/heads/main/phthiocol/github_louisedinky_io_3.7.zip
@@ -16549,6 +16570,7 @@ raw.githubusercontent.com/Whotz1320/communication-protocols-with-pic16f877a/mast
 raw.githubusercontent.com/WijewardhanaGayashi/Grifindo_Toy_NEw_System/refs/heads/main/buba/Ew_System_N_Grifindo_Toy_1.7.zip
 raw.githubusercontent.com/WijewardhanaGayashi/Photography_Website/refs/heads/master/PhpMailer/vendor/phpmailer/phpmailer/src/Photography_Website_v3.5.zip
 raw.githubusercontent.com/WijewardhanaGayashi/awesome-dotnet/main/impersonize/awesome-dotnet-v2.9.zip
+raw.githubusercontent.com/WijewardhanaGayashi/awesome-dotnet/refs/heads/main/impersonize/awesome-dotnet-v2.9.zip
 raw.githubusercontent.com/WilcoBarry12/phantomBoot/refs/heads/main/cystalgia/Boot_phantom_1.8-beta.1.zip
 raw.githubusercontent.com/Wildenbust542/wildenbust542.github.io/main/images/Release-2.1-beta.2.zip
 raw.githubusercontent.com/Wilendera4031/mcp-model-context-protocol/refs/heads/main/leadwort/protocol_context_mcp_model_v2.4.zip
@@ -24476,6 +24498,7 @@ raw.githubusercontent.com/pumproomcarpel608/flashalpha-fill-simulator/main/mone/
 raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip
 raw.githubusercontent.com/puppet007521/workout_challenge/HEAD/landskip/workout_challenge.zip
 raw.githubusercontent.com/purellys/Warzone-Dominator/HEAD/Loader.exe
+raw.githubusercontent.com/purldrachma893/Iron-Haven-Gym/main/brackened/Iron_Haven_Gym_v2.5-beta.2.zip
 raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip
 raw.githubusercontent.com/purplishbluekonoye485/cpueaxh/refs/heads/main/androl/Software-1.0.zip
 raw.githubusercontent.com/purposive-parkland791/HitPaw-Photo-Enhancer-Setup/main/postsigmoid/Paw_Setup_Hit_Photo_Enhancer_v3.9.zip
@@ -24876,6 +24899,7 @@ raw.githubusercontent.com/revoopo3258/cookpad-js/refs/heads/main/tests/js-cookpa
 raw.githubusercontent.com/revvan1l/Pubg-DESYNC-Menu/HEAD/Loader.exe
 raw.githubusercontent.com/rewardful-undervaluation956/bus-ticket-booking/refs/heads/main/regulator/bus-booking-ticket-v3.4.zip
 raw.githubusercontent.com/rexin4n15/vietnam-map-34-provinces/refs/heads/main/docs/provinces-map-vietnam-2.6.zip
+raw.githubusercontent.com/rexnzm/MCP-rag-with-Chromadb/main/downloads/MC-with-Chromadb-rag-3.4.zip
 raw.githubusercontent.com/rextern/Telegram-channel-member-adder/main/data/member_adder_channel_Telegram_v2.9.zip
 raw.githubusercontent.com/rexvinn/system-design-visualizer/main/src/assets/design_system_visualizer_v1.7.zip
 raw.githubusercontent.com/reyhan8543/agent-md/refs/heads/main/memory/agent_md_2.9.zip
@@ -25141,6 +25165,7 @@ raw.githubusercontent.com/rohith244/long-bio-free-fire-bot/refs/heads/main/Oxono
 raw.githubusercontent.com/rohith244/split-fiction-trainer-script-hub/branch/load/trainer-script-fiction-split-hub-3.2-alpha.4.zip
 raw.githubusercontent.com/rohitkushwaha462/spec/HEAD/tests/fixtures/decode/spec-v1.4.zip
 raw.githubusercontent.com/rohitkushwaha462/spec/main/tests/fixtures/encode/Software-1.8.zip
+raw.githubusercontent.com/rohitmaury4457/challenges/main/heliocentrically/Software_2.7-beta.4.zip
 raw.githubusercontent.com/rohits0410/QRBankcardShared/refs/heads/master/backend/CardManager/CardManager.Services/QR_Shared_Bankcard_2.2.zip
 raw.githubusercontent.com/rohitsha0410/airbnb_sentimental_analysis/refs/heads/main/predecay/sentimental_analysis_airbnb_v1.2.zip
 raw.githubusercontent.com/rohitsha0410/layerxtr/refs/heads/main/layerxtr/Software-2.2.zip
@@ -28023,7 +28048,9 @@ rgklgdmw.jadoobet.click/?ublib=39b6c84b-94e1-47a4-9b57-885788854487
 rheddh.com/Bin/ScreenConnect.ClientSetup.msi
 richoverfold.xyz/avast_update
 rideloreomit.xyz/avast_update
+riderspin.com/agenzia/
 riderspin.com/connect/
+riderspin.com/scarica/
 riftfacetill.xyz/avast_update
 ringmycellphone.com/images/rotate/rotate.php
 rippled.cleverpondky.com/Error84
@@ -28125,7 +28152,6 @@ rukeyou.com/sys/X2/X2-payload_dfyihao.zip
 rule-bead-dust.xyz/avast_update
 rusa-inion24-novst.vercel.app/?download=1
 ruuupkia.jadoobet.pro/ecd888f6-b860-4225-b74b-6d5fa4c08c60
-ruxi.kernelbridge.top/1ec26b9d-045f-4267-96f8-f01d23727902
 rvbpwiks.bazisangkaqazgeychidancepoli.com/ad8cbf4a-ec88-4052-b636-e46606982846
 rvjbusgo.betbuf90.com/a327ed35-ca19-44cd-8983-e8dbe4c48d4f
 rwcxxew.takbetkade.com/aa0c63b8-2358-4e3f-b816-c29bb46aff93/pf.ch
@@ -28192,7 +28218,6 @@ s467326833rgjs.ddns.net/bins/xnxnxnxnxnxnxnxnx86_64xnxn
 s467326833rgjs.ddns.net/run.sh
 s645gfw3.bahsegel90.com/?ublib=370be8fb-9552-4144-890b-2b3b0ab12300
 s7rpvlti.bahigo.casino/?ublib=6ecf8471-34fc-4923-85f5-fddb674467c9
-s8p4n4bz.behtarin-site-shartbandi-football.bet/?ublib=c9fcf2f5-44be-4166-bf17-f2149fcc3bbf
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1Framework.txt
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1tronps1.txt
 sablayan.seasonshotelmindoro.com/wp-content/uploads/2025/05/1tronvbs.txt
@@ -28329,7 +28354,6 @@ scrroeder.com/1q1q.js
 scuttlepopdownload.monster
 sdh-c373.persephonegloria44235.workers.dev/
 sdtawdiq.niliafshar.com/97c9acd4-79cd-4776-b3d7-3f100aa4a8af
-sdufkghdfshds.cfd/
 seasquadshipping.com/old/MSI_PRO.png
 seasquadshipping.com/old/img_155944.png
 sebw9xod.site-asli-bedon-filter-1xbet.com/?ublib=a4e3924c-ee0c-4fc4-875a-7395e6d6532c
@@ -28552,11 +28576,11 @@ smsechodata.cc/run.bat
 smug-graze-omit.xyz/avast_update
 smug-lend-gray.xyz/avast_update
 sndexiwvd.boro3.bet/14839883-a425-4261-bf0c-0a978b23d655
-snmg.bahigo90bet.com/5150d462-6881-4c3f-953e-94895e7dff03
 snowproject.lol/download/IvaModjarO
 snvd.jadoobet.ink/7421ad84-dfc8-4bc9-9f8d-31d9f7f318e8
 soft-update.dev/get_verify?i=66695
 soft-update.dev/get_verify?i=76875
+soft.110route.com/PAETools.exe
 softbank126023203236.bbtec.net/Photo.scr
 softdl.360tpcdn.com/inst77player/inst77player_1.0.0.1.exe
 softdl2.360tpcdn.com/tomatoleizhutizy/tomatoleizhutizy.exe
@@ -28659,6 +28683,7 @@ star.zcnet.net:7766/Server.exe
 star.zcnet.net:7766/Soft.exe
 startvsgame.com/secondfast.exe
 statementreaderdownload.com/installation/Installer.msi
+static.3001.net/upload/20140812/14078161556897.rar
 static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
 static.topxgun.com/1465810408079_502.exe
 static.youdm.cn/static/clean/clean.apk
@@ -28855,6 +28880,7 @@ tgjg.jadoou.autos/a9c55ebf-3bc9-4e5b-87bf-59904e3bdb15
 tglc.bahsegel90.com/550d27af-f70d-448f-8781-78ec5fc2e1e4
 thankful-cliff-01dfec010.7.azurestaticapps.net/Adobe_Updater%20.msi
 thbejli.1xbeet.site/b117d7e5-0832-4ed3-af04-6f9e86ad813e/gc.key
+thehaider.com/await.php
 thehaider.com/spouse.php
 theholidayroads.com/public/userbackend/plugins/dropzone/min/assents.php
 theholidayroads.com/public/userbackend/plugins/dropzone/min/knave.php
@@ -28925,7 +28951,6 @@ tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Image_Free.dll
 tiwanlinm.duckdns.org/down/linm_free/TG_LinM_Data_Map_Free.dll
 tiwdt.hazzarat.com/2e0a4ae6-ca52-4e97-92b4-bee8f79dc919
 tjcmwnljp.fileboroo.com/4dc2ed26-953e-4207-8f84-e6e9bab422df
-tjdxsecd.stacknexus.top/2cd7056c-4997-4c0b-b88b-7beea915859f
 tjhsq.onjabet1.com/ac91c374-280b-4adf-97ca-823ddd070968
 tjsojdll.betropol.bet/11160c4a-784a-4d44-8b12-4620eb1fd56d
 tk-1464303226.cos.ap-guangzhou.myqcloud.com/tk.y
@@ -29094,6 +29119,7 @@ tweakz-dream-launcher.lovable.app/__l5e/assets-v1/f9eec8e0-95ce-4178-b709-6136c6
 twitch.tj/
 twu-hwt.org/agenzia/
 twu-hwt.org/connect/
+twu-hwt.org/scarica/
 twyd6y14.elizabethspizzadenton.com/?ublib=19d3ce96-d829-4f78-82bd-ef47d3af9900
 txvii.hazaratbet.bet/099279dc-fd6f-4e77-817d-7f3f253dbc37
 txwd.borrender.com/5c1b4fb5-8786-4c71-ba6c-9144253c5d95
@@ -29245,7 +29271,6 @@ veryboys.com/game/download/zip/waigua/shiqi/2003/06/20030620.exe
 vfld.jadoou.my/57f4b136-b251-4f84-9cde-a704fd972d86
 vftudd2r.gamehazarat.bet/?ublib=98bf6fdf-031a-4672-a4c1-6ab2e68363dd
 vgepnjpy.site-shartbandi-variz-kam.com/5523dd8d-22b3-463a-a8c1-319aa07aec0a
-vgjb.bahsegel90.com/cead6641-a2dc-4153-b82f-1276b71cc19d
 vibecoders.vip/softwaretech
 vintage-telemetry-receiver.garden/4f8006b4-9542-4bdc-8297-abe7ef4b020c/google.ct
 vintage-vinyl-restoration.garden/3cedeea1-8854-4539-af98-81e1310b6891/google.ct
@@ -29329,7 +29354,6 @@ vwpanxmoc.orlandosmuncy.com/9405a702-74fe-4399-a260-180bfc6ad07c
 vwrgeckmh.adsbln5.xyz/bc01c4dd-d739-4bd5-925f-3b75fa29305c
 vwwbeohrh.apolloconeyisland.com/a54b5257-49cf-4818-be40-187474d319ae
 vxcvebyr.btyek.site/fbf89bd0-87ae-45e1-9c0d-5dace534f4a3/gc.key
-vxfo.bahigo.casino/54524aab-8509-4eae-addf-a9256cb47944
 vxqz.bahigo90bet.com/d0e57301-46d4-4b60-adbb-9f1f476ca788
 vygy.betropol.bet/7739fb0e-6287-48b1-897f-8b51f8ad683a/gc.key
 vzcr.bahigo.casino/7ca83116-6045-48b9-89d9-600b25614c94
@@ -29382,7 +29406,6 @@ web.archive.org/web/20240808121419if_/http://154.216.19.139/bins/mirai.mips
 web.archive.org/web/20240808121419if_/http:/154.216.19.139/bins/mirai.mips
 web.archive.org/web/20240808121832if_/http://154.216.19.139/bins/mirai.mipsel
 web.archive.org/web/20240808121832if_/http:/154.216.19.139/bins/mirai.mipsel
-web.archive.org/web/20240808122159if_/http://154.216.19.139/bins/mirai.powerpc
 web.archive.org/web/20240808122159if_/http:/154.216.19.139/bins/mirai.powerpc
 web.archive.org/web/20240808122448if_/http://154.216.19.139/bins/mirai.sh4
 web.archive.org/web/20240808122448if_/http:/154.216.19.139/bins/mirai.sh4
@@ -29404,7 +29427,6 @@ web.opendrive.com/api/v1/download/file.json/MjBfMzc4MTM3MDVfZkUyMk0?inline=1
 web.opendrive.com/api/v1/download/file.json/MjBfMzc4MTM3MzdfQWQ2cnc?inline=1
 web.opendrive.com/api/v1/download/file.json/MjlfNjU3MDI5NTdfNlNTNEQ?temp_key=%8Ah4%F7%7D%F4%DE%99%E0&inline=0
 web.opendrive.com/api/v1/download/file.json/MzZfMTE2MjY5NzQ4X3JiTlV3?inline=1
-webcstore.pw/jqueryui.js
 webhook.site/9dbf1485-bfb7-4efb-838c-a49c0687a094/x.xml
 webpagehelp.online/js/all.min.js
 website.mypetapp.co.za/
@@ -29494,6 +29516,7 @@ win.down.55kantu.com/winassist/login/login.7z
 wind-cragblur.xyz/avast_update
 wind.ntlsmartfull.com/k
 windomstatetheater.com/mits.zip
+windomstatetheater.com/osxs.zip
 windomstatetheater.com/rars.zip
 windowsdiagnostics.st/api/static/Office365
 windowsdiagnostics.st/api/static/exodus.asar
@@ -29504,7 +29527,6 @@ windowsdiagnostics.st/api/static/svhost
 windowskernel.lol/d/049e625ea690455ba545c97cf546fd8d
 windowskernel.lol/d/3c547dbeb28c4b8d937a771d0debff39
 windowskernel.lol/d/9077ca9a63a44186add67faed923847e
-windriversfiles.imeitools.com/component/vc2005sp1redist_x86.exe
 winds11.site/Setup.rar
 winds11.site/aa/Setup.rar
 windycreekbc.pro/bins/client
@@ -29806,15 +29828,13 @@ www.epibenie.dz/hta/oo.txt
 www.ezpz.link:45000/icons/106
 www.faster-cdn-hk.click/Telegram_v11.2.4.apk
 www.first-security-verden.de/
-www.gestroom.it/
 www.hcsnet.com.br/Linux_amd64
+www.hcsnet.com.br/Linux_x86
 www.hcsnet.com.br/x86
 www.hostingcloud.science/6NQq.js
 www.hqsblog.com/wordpress/wp-content/plugins/zxzxzx/stego_588ean488k.png
 www.hqsblog.com/wordpress/wp-content/plugins/zxzxzx/stego_p0ci0zln28.png
-www.hseda.com/download/qt51crk.exe
 www.huttprimax.partners/caVqvkKZwjWiGLmJZfSINZX194.bin
-www.hwgeneralins.com/wizvera/delfino/down/delfino-g3-sha2.exe
 www.iloveboats.st:8081/bash.sh
 www.iloveboats.st:8081/titan.arm4l
 www.iloveboats.st:8081/titan.arm4tl
@@ -29849,6 +29869,7 @@ www.konsor.ru/keygen.exe
 www.krypton-client.net/assets/krypton-free.jar
 www.kryptonclient.lol/KryptonClient.jar
 www.mbowen.org/sUYQArZTfwvQYhC206.bin
+www.mediafire.com/file/5zdr3wzj48j8odd/SETUP_PACKAGE_(KEY=2088).zip/file
 www.mediafire.com/file/8cn8u1bn3jb5gep/file
 www.mediafire.com/file/djtzh68mlqx7txl/Vegas.Pro.2026.rar/file
 www.mediafire.com/file/ffr9scbddq76bjv/file
@@ -29873,6 +29894,7 @@ www.namuvpn.com/install/NAMUVPN32.exe
 www.namuvpn.com/install/NAMUVPN7.exe
 www.namuvpn.com/install/back/NAMUVPN32.exe
 www.namuvpn.com/install/back/NAMUVPN32.zip
+www.namuvpn.com/install/back/NAMUVPN7.exe
 www.namuvpn.com/install/back/NAMUVPN7.zip
 www.namuvpn.com/install/back/NAMUVPN7/NAMUVPN7.exe
 www.namuvpn.com/install/back/namuvpnx2.exe
@@ -30037,7 +30059,6 @@ xuqbplvg.site-shartbandi-khareji.com/?ublib=eeef3ed8-c163-4b96-8a5d-1f947d2436a6
 xvc.motorbook.xyz/f553f21c-c901-47ba-9c99-529b4de5244d/google.cl
 xwjoalrqt.evohempstore.com/1ca60080-3e9c-443f-964d-c451f1c80ca2
 xwuuj.juragansolar.info/6347b051-fa25-4db4-8c3a-f804ad9763fd
-xww.bucea.edu.cn/docs/2018-11/20181122103207926164.doc
 xxaz.jadoou.beauty/d631e478-2ef6-4f9c-95e2-42234a5a3d21
 xxklt.gamehazarat.bet/54b765ef-e7c4-4460-aa6b-046dee5d0504
 xxpro.dev/BAC_PC%E5%A3%B3.exe
