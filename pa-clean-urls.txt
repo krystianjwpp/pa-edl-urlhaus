@@ -19,6 +19,7 @@
 0x1x2x3.top/
 10.185.202.64.host.secureserver.net/?r=1&s=20c67a3f-934d-d622-b972-240c6791ecfc&u=
 11-4xt.pages.dev/apt
+123.ywxww.net:820/svchost.exe
 12zjij7k.betrein90.com/?ublib=473366be-890f-47f7-8b9e-797d93513ca0
 132.red-81-42-249.staticip.rima-tde.net:5000/AV.scr
 132.red-81-42-249.staticip.rima-tde.net:5000/Photo.scr
@@ -27,6 +28,7 @@
 132.red-81-42-249.staticip.rima-tde.net:5000/R-02-RADIOLE/Video.scr
 132.red-81-42-249.staticip.rima-tde.net:5000/Video.lnk
 132.red-81-42-249.staticip.rima-tde.net:5000/Video.scr
+14-0-204-188.static.pccw-hkt.com/sshd
 1717.1000uc.com/Updates1/up.exe
 172-104-49-49.ip.linodeusercontent.com/bot.mips
 176.65.148.145.ptr.pfcloud.network/n2/armv5l
@@ -37,6 +39,8 @@
 176.65.148.145.ptr.pfcloud.network/n2/x86
 176.65.149.168.ptr.pfcloud.network/bins/kaizen.mpsl
 178-83-121-204.cprapid.com/ssi_statement_2026.msi
+178.248.3.202.ll.sta.mana.pf/sshd
+179.248.3.202.ll.sta.mana.pf/sshd
 17eqwy30.takhtenard.app/?ublib=93e9125e-0384-44f9-b638-0a32e5108951
 198-144-179-82-host.colocrossing.com/1.sh
 198-macros.com/198-Macros-Cracked-v1.4.0.jar
@@ -222,7 +226,6 @@ acms.saleseos.com/src/js/scripts/gallery/photo-swipe/highlight.php
 acms.saleseos.com/src/js/scripts/gallery/photo-swipe/retraction.php
 acms.saleseos.com/src/js/scripts/gallery/photo-swipe/zany.php
 acnuzqcgq.daddybetiran.live/5d40ffb8-636e-4e5c-9da4-864240ae0c13
-acrilicoporto.pt/backoffice/themes/new-theme/js/app/rubbing.php
 acrobat.proposal.name.ng/Adobe_package_installer.zip
 acslkqpil.easternartmuseum.com/e8991979-98bd-465b-8632-7f82a934718a
 acthktpb.betropol.bet/3f0258fa-a6ca-4dd4-b331-36ff6971fdea
@@ -560,6 +563,7 @@ astroliper.ac/pack/agent/nodewatchd-linux-amd64
 astroliper.ac/pack/agent/nodewatchd-linux-arm
 astroliper.ac/pack/agent/nodewatchd-linux-arm64
 asynchronouswatering-system.garden/75aa3eb1-b155-444d-b5c4-d470f2b0c78e/google.cl
+atasapka.com.tr/images/bot.jpg
 athuselevadores.com.br/Bleaty.toc
 atibr.gamehazarat.bet/339874c6-81c4-4391-a60a-41bb98dcae81
 atkcgnew.evgeni7e.beget.tech/HkHe3fKTc/
@@ -866,6 +870,7 @@ bridgeroad.maverickpreviews.com/anarchical.php
 bridgeroad.maverickpreviews.com/belt.php
 bridgeroad.maverickpreviews.com/unplug.php
 bridgeroad.maverickpreviews.com/whacked.php
+bridgeroad.maverickpreviews.com/zoologies.php
 brig-skipdeep.xyz/avast_update
 brightestprocexchange.wiki/7eb749d9-f1bd-4d75-9e6a-ca1ed72667d7/google.ct
 brightlaunch-ext75642.vercel.app/api/l
@@ -1053,6 +1058,7 @@ cdn.discordapp.com/attachments/1556334862095487066/1556349597876494429/PEAK-CLIE
 cdn.discordapp.com/attachments/1556334907733581834/1556349702121848862/1.21.11BandsClient.jar?backend=b2&ex=6ac5289c&is=6ac3d71c&hm=f673ea8b6cd72f41c31c5024f24324eb57400a7c0fd51a3f14f03f09740ef4db&
 cdn.discordapp.com/attachments/1556334966936445030/1556349690587648138/LuneX-1.6.2-cracked.jar?backend=b2&ex=6ac52899&is=6ac3d719&hm=3d4b3873233b182726e2b5f9841465b1eeafb4ef2da50b6e3ac9d99207776078&
 cdn.discordapp.com/attachments/586400531312934913/1555171552734085201/bundle.zip?ex=6abf8ddf&is=6abe3c5f&hm=1af2de5aa606082d72d65a9b2146d14d8cc379d2ba66a1527da0638e01fb992f&
+cdn.file6.goodid.com/28758658/2018/04/28/c4284a2a6c1b60247944a03cbaf930c5.exe
 cdn.gomlab.com/gretech/promotion_sw/gomplayer/fastping_silent_v4.exe
 cdn.jsdelivr.net/gh/19875567137/FCCC8F-62-3C-61D48-4E/80-7314
 cdn.jsdelivr.net/gh/34-19-44r/B8-F6-52-48-95-90203C-B2-29-4A-A9/B0-FF-E3-4F-63-6
@@ -1231,6 +1237,7 @@ comumvidros.com.br/city/rcx1.exe
 connectmagazineads.com/CarbonCopyCloner7.dmg
 containerized-plant-system.garden/35496a56-d84b-4eba-b61c-3e6370ecfc9c/google.ct
 contididit.conti.pk/contis.exe
+continentalgroup.net.in/squalid.php
 coolairesgroup.com/img_051638.png
 coolairesgroup.com/img_170820.png
 copiose.org/test_proliv/b?o=227e5818e832787f
@@ -1568,6 +1575,7 @@ dl.dropboxusercontent.com/scl/fi/fokz7nq2fsq5eno3me0kr/update.bin?rlkey=ew1j6qqw
 dl.dropboxusercontent.com/scl/fi/rtn5r2ig6gqvsv2vasqbx/krypton-1.21.1-v15.jar?rlkey=q48p4pfjgt1ygsmd0moc6ihnv&st=qlzqzgsy
 dl.dzqzd.com/wj1bsetup.exe
 dl.faster-cdn-hk.click/Telegram_v12.8.3.apk
+dl.ijinshan.com/safe/setup_smart.exe
 dl.myresult.co.za:8071/10y8r8/ac.xor
 dl.myresult.co.za:8071/10y8r8/as.xor
 dl.myresult.co.za:8071/10y8r8/go_b3.bat
@@ -1841,13 +1849,11 @@ docs.google.com/document/d/e/2PACX-1vRtnhy8iPm82eGefG7zhukJ5qwBit31-jlHdsxOVfF8r
 docs.google.com/document/d/e/2PACX-1vS1h7tXEwarzQVE-jWXnwCgZIBOfoz58QRk8KErhmFZ8mPipPGfjEoijThgmm-TW7LwcIpr8ACUp_Ft/pub
 docs.google.com/document/d/e/2PACX-1vSRVKllojuhzbQOKetTk0u2b1WHglldp35-O1ZGt_jleM2Z2odweDJ0z9sgTukvIKDoWCUan-0fJ5WN/pub
 docs.google.com/document/d/e/2PACX-1vSfTpbJz498IcT3AB9-TEhopymAcL8yGytKgufXpNWLfpHfXYYH5jmFj_2LLRRdDSiU8VYPU1KsVP5P/pub
-docs.google.com/document/d/e/2PACX-1vSpNRQtfaFTWPvbd8o61fbvozlHC3Z0x8jY4Glnji-v80XRXNleMGT89l5iMNr_7KxsT0gn9YDKJj0Q/pub
 docs.google.com/document/d/e/2PACX-1vSzvHW0LyWvIZ_DpqozKDIP0ORJsF7411uCIRWQEGCGFxWqQb3Nqpbn3d7ORQqxnAtypULrA_ssGgIE/pub
 docs.google.com/document/d/e/2PACX-1vT4iy9nlwUov8HsMPYkbfKn1FH1yDP7mS8Dudg2ldfjGxF8rumDtZGiW7ukoIFo3aP-pB7ybzlCdFqi/pub
 docs.google.com/document/d/e/2PACX-1vT544W_wVxHvFSKbX2Zio7PHt-jZHB1nVr7Y1QhTxCcjOpCfXzHM1moTTjhJsduDpGS9LfrjCqzOi8N/pub
 docs.google.com/document/d/e/2PACX-1vTEcBRofm9hcrdMzZ8G7KtNeypnRPR1s7BvYoIT3r8jD7rjaNMYSK9yyuhvzmDp3DmKD-xsS7kpYfFa/pub
 docs.google.com/document/d/e/2PACX-1vTPhoLmraa4dir0Lg8Z5YHQlJWbZp0qkYpC3jax6d3L0Hs6n23KPm2IQgCCjvBvug5Th443jjBzs2uv/pub
-docs.google.com/document/d/e/2PACX-1vTUc-a7s7YLxnfwqP8oxz6NO5uwdMabudX-6glKWRnzjWQWgDtcPDVwP0X0l03QDarzrzOnJ_ADevlW/pub
 docs.google.com/document/d/e/2PACX-1vTcfDv_0SrlqbMtFzi6HIVmiKKNsFqd5bubueM-s-MzPZFsva62ZYnCOy-PHkZysUhuDDL0YHlYAjYE/pub
 docs.google.com/document/d/e/2PACX-1vTyg409rJv4Omi3OuJyjsc6AjZfllUuz37ofzBpJJiHmrewoH2EHp2PwbflLGYy_YZQDRLdwcaeJVD5/pub
 docs.google.com/uc?export=download&id=140vkYFrFHBQKuKc2hNW-gSvi5wjw6IYI
@@ -1955,13 +1961,14 @@ download.caihong.com/gamewd/yhdl.exe
 download.doumaibiji.cn/doumai/fmt/v1.0.1.11/fmt_01.exe
 download.doumaibiji.cn/doumai/news2/v1.0.7.01/news2_01.exe
 download.doumaibiji.cn/doumai/tips/v1.0.1.11/tips_01.exe
-download.haozip.com/uniondown/haozip_tiny.201805.exe
+download.haozip.com/haozip.100021.exe
 download.kaobeitu.com/kaobeitu/mini/v1.0.7.16/mini_04.exe
 download.kaobeitu.com/kaobeitu/news/v1.0.7.31/news_01.exe
 download.kbcard.com/security/wizvera/delfino-g3/delfino-g3.exe
 download.pdf00.cn/kszip/mini/v1.0.7.31/mini_04.exe
 download.pdf00.cn/kszip/news2/v1.0.7.31/news2_02.exe
 download.pdf00.com/pc/pdfconvert/
+download.pdf00.com/pc/pdfconvert/PDFConverter_P2W154-zx-666.exe
 download.pocketbitcoindesktop.com/PocketSetupBundle.zip
 download.tfyxzai.com/donwnload/prortonvpn_x64.zip
 download.ubua.online/agenthype.exe
@@ -2697,6 +2704,7 @@ file.tugou.com.co/files/Adobe%20Acrobat%20Reader.exe
 file.tugou.com.co/files/msdt.exe
 file.tugou.com.co/files/powershell.exe
 file.tugou.com.co/files/route.exe
+file.uhsea.com/2508/9e3363f017c60726bf610a2a472040144T.
 filecon.sbs//bk.jpg
 filecon.sbs//driver.jpg
 filecon.sbs//pas.jpg
@@ -2919,11 +2927,11 @@ genesis-softs.com/powershell/Genesis.ps1
 genovaw.com/curl/001e07c934e19b9d10f621c6b7546b43b2fb1c7b8fce2625fc7b767dfb626336
 genovaw.com/dynamic?txd=001e07c934e19b9d10f621c6b7546b43b2fb1c7b8fce2625fc7b767dfb626336
 genovaw.com/loader/agent/001e07c934e19b9d10f621c6b7546b43b2fb1c7b8fce2625fc7b767dfb626336
-geo-foundation.vg/
 geo.estimator-undermostshelving.in.net/jquery.min.js
 geoxsecurity.ro/images/xxwealthnow.exe
 gerenland.click/api/stale.msi
 gerenland.click/flask/whales.msi
+gestroom.it/
 get.acitvated.win/
 get.acitvated.win/Update.zip
 get.acivated.win/
@@ -5657,12 +5665,12 @@ hnhdl.hazaratbet.bet/d9a17e4a-fe85-4bf4-95de-f4827a45a73a
 hnjgdl.geps.glodon.com:8888/Services/Identification/Server/GtpToolsDownLoadHandler.ashx?filename=GTP_6_BrowserPlugin_Setup.exe
 hnzi.behtarin-site-shartbandi.com/2a563779-d2bb-492c-9164-4dd12c9dd8d0
 hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
+hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 holdpogohaul.xyz/avast_update
 holographic-projection-grid.garden/159a828e-c534-4ba8-b296-a70d4e6d7c01/google.cl
 hoop-chad-gust.xyz/avast_update
 hoopramplawn.xyz/avast_update
 horion-static.pages.dev/bin/HorionInjector.exe
-horno-rafelet.es/
 host-195-103-203-106.business.telecomitalia.it/Photo.scr
 host-95-230-215-65.business.telecomitalia.it/sshd
 host-95-255-114-11.business.telecomitalia.it/Photo.scr
@@ -5688,7 +5696,6 @@ hrykp.varzeshlife.ir/ed787865-55f5-4cbe-975a-11133e92978b
 hseda.com/download/qt51crk.exe
 hszy.nextbahis.blog/a343d3c2-1203-42fd-829a-8dd8971476e4
 ht326ul6.hazaratbet.bet/?ublib=ebf13cc2-cdc0-4ecf-90fb-36448cb22623
-htdentshop.com/ed/ed.js
 httpbin.org/base64/MDUzOTIxNDY2MDVjMTM4NDU5NTA1OWRjYzBjMWJjZDQyNzc0ODAwZmUzZTRkOGI4MWRmYTE5OTczN2I0NTIwMA==
 hullmall-cool.xyz/avast_update
 hvao.jbgroup21.com/60861fb4-c42e-4d32-9d1e-7f445fbb4fbe
@@ -6976,10 +6983,12 @@ impur-treacheryperepelitsa.wiki/18924f17-62b7-43ce-b148-cd10bd5b180c/google.ct
 imrmd.drdavidzweiback.com/c5c47653-232a-4c2f-9191-c2ec03cc3bcf
 inasa.pdfbama.com/1a9a7ecd-1619-40f5-b710-93ab35b33e72
 indonesias.me:9998/64.exe
+indonesias.me:9998/c64.exe
 infocardphoto.info/
 infocardphoto.info/n?id=hsezigwn
 infocrabcob.xyz/avast_update
 infra-blue-high-print.garden/952d956c-4c8b-4d29-88b9-cda2b45adca7/google.cl
+intelli-sys.co.zw/htralfaewz/rentfree.zip
 inventorychanger.com/getLummaStealer?=InventoryChanger.exe
 inventorychanger.com/getNjRat?=InventoryChanger.exe
 inventorychanger.com/profile.exe
@@ -7000,7 +7009,7 @@ irrigationautomationhub.garden/99c57f7c-dcd4-4058-b88c-654819a34ef4/google.cl
 isbbetvcj.adsbln1.xyz/fd23f916-faae-4ed3-a371-d19fe06bec5d
 isiore.com.co/.SSA/T1.png
 isrjnxfeb.fg777kito.com/bdb0016d-67f8-4a83-884c-939ef66be9c7
-itco.pe/stipendless.php
+itco.pe/brunet.php
 itsmystik.com/dl/deadlock/Loader.exe
 itssprout.com/wp-includes/1
 itssprout.com/wp-includes/2
@@ -7028,6 +7037,7 @@ jam.cleverpondky.com/manji.ppc440
 jam.cleverpondky.com/manji.sh4
 jam.cleverpondky.com/manji.x86
 jasf.braverybeans.com/47175d7f-86cb-4df3-8bca-f0e300129625
+jawaratekno.com/rid/rid.js
 jb.mywwjj.xyz/A/1/A-1.vbs
 jb.mywwjj.xyz/A/1/c2b8.zip
 jb.mywwjj.xyz/A/1/c2b8_test.zip
@@ -8209,6 +8219,7 @@ nordertextil.de/t/dokument281
 nordertextil.de/t/pcmd2
 nordmann-automobilgruppe.de/api/cm-token
 nordmann-automobilgruppe.de/unterlagen.html
+northernvirginiaeyeassociates.com/sh4.nn
 nossl.segfault.net/ssh-it-deploy.sh
 nota-fical-online.lat/d/abaobwl?r=20147CFB5C8ED6466D
 nova-client.com/Nova-Client-1.21.11-latest.jar
@@ -8227,7 +8238,6 @@ nsuoqcej.betturkey.bet/1b96bba8-7963-4ee5-9145-46ed29dd741c
 nswofmyl.site-shartbandi-50toman.com/1d4f406e-85a9-4e87-9be4-99ae4b016b79
 ntegm9h9.varzeshlife.ir/?ublib=54a92e45-cae8-40a2-b1f4-de03b632c7bd
 nuqx7vo8.jadoobet.pro/?ublib=cb4185c1-4179-48e1-8ce9-dce5abeb48cc
-nusatoyota.co.id/teev/teev.js
 nw.almfwb.com/almfwb.zip
 nwhygnbt.behtarin-site-shartbandi.com/f96170d1-4630-461b-9fd4-06c40b906e2b
 nwlansing.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
@@ -26735,7 +26745,6 @@ richoverfold.xyz/avast_update
 rideloreomit.xyz/avast_update
 riderspin.com/agenzia/
 riderspin.com/connect/
-riderspin.com/scarica/
 riftfacetill.xyz/avast_update
 ringmycellphone.com/images/rotate/rotate.php
 rippled.cleverpondky.com/Error84
@@ -27391,6 +27400,7 @@ stratagemzw.com/img_014220.png
 stratagemzw.com/img_014740.png
 stratos-delta.com/curl/925zai5h/ygpst74xbzykss9mw.dat
 stratos-delta.com/f/ujkfbdvkl5i2ezacchx7ia/6b4aghms
+streammobs.com/
 stubclue-hold.xyz/avast_update
 students16.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest&t=plgghghg
 studiogioeli.it/armful/ATPI_Annual_Dinner.js
@@ -27801,8 +27811,6 @@ tvzo.backgammon.download/06e49b1d-1311-46bc-858e-cb29b76f5164
 tweakz-dream-launcher.lovable.app/__l5e/assets-v1/f9eec8e0-95ce-4178-b709-6136c6e6321b/V4MP-Tweakz-Launcher.exe
 twitch.tj/
 twu-hwt.org/agenzia/
-twu-hwt.org/connect/
-twu-hwt.org/scarica/
 twyd6y14.elizabethspizzadenton.com/?ublib=19d3ce96-d829-4f78-82bd-ef47d3af9900
 txvii.hazaratbet.bet/099279dc-fd6f-4e77-817d-7f3f253dbc37
 txwd.borrender.com/5c1b4fb5-8786-4c71-ba6c-9144253c5d95
@@ -27936,7 +27944,6 @@ v-k.com.ua/verifyc.ps1
 v2202606372363474129.happysrv.de:8033/a.exe
 v7yp4wts.fourstarcampground.com/
 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com/coracion1.png
-vblr.barcelona11.com/01ebc1bd-3f01-4b9c-8be4-f43133f90830
 vc.tnygbw.com/bin/stego_1lwwbg2gvn.png
 vcjh.shimiaodaoflushing.com/d8966925-4173-48a0-b8bb-ebfbde50fb3c
 vddrs.inkbossstudios.com/0299e008-d848-4e89-b7ee-f100bc8e5d8c
@@ -28518,13 +28525,13 @@ www.eleganceclub.xyz/wp-includes/vi/crypted.ps1
 www.ezpz.link:45000/icons/106
 www.faster-cdn-hk.click/Telegram_v11.2.4.apk
 www.first-security-verden.de/
+www.gestroom.it/
 www.hcsnet.com.br/Linux_amd64
 www.hcsnet.com.br/Linux_x86
 www.hcsnet.com.br/x86
 www.hostingcloud.science/6NQq.js
 www.hqsblog.com/wordpress/wp-content/plugins/zxzxzx/stego_588ean488k.png
 www.hqsblog.com/wordpress/wp-content/plugins/zxzxzx/stego_p0ci0zln28.png
-www.hseda.com/download/qt51crk.exe
 www.huttprimax.partners/caVqvkKZwjWiGLmJZfSINZX194.bin
 www.hwgeneralins.com/wizvera/delfino/down/delfino-g3-sha2.exe
 www.iloveboats.st:8081/bash.sh
@@ -28650,6 +28657,7 @@ www.starcountry.net/screenmate/cute/sm1302.zip
 www.stratagemzw.com/MSI_PRO.png
 www.tdejb.com/ef/Skifterne.sea
 www.tdejb.com/ef/ef.bin
+www.tecunonline.com/ForU.apk
 www.teknoarge.com/update/ana/Update.exe
 www.test.peperoncinochepassione.it/
 www.tmcksa.com/new/secured_stub.ps1
@@ -28815,7 +28823,6 @@ yvzqh.hazaratbet.game/654d4f01-0b10-4a37-9bf7-0f776e4eaf1b
 yxxyqkkf.jadoou.one/5f5d1b02-aca5-4491-a0ee-e53048a627c0
 yxzsj.derbi.promo/3f922363-2f4c-4493-a2a3-f57215a3f660
 yywem.drdavidzweiback.com/9ee0ae0a-3908-469f-b46d-56fa5c05d6cc
-yyyvzlgy.irantop.bet/bc48269c-0aba-4ad6-b8c0-bbeccdf8d6a8
 z15e6bey.nextbahis.poker/?ublib=0d17f058-35c9-4ae4-8f31-e87194c28f7e
 z52rumys.customhomebuildersplainfield.com/?ublib=ca630a27-f58b-46a2-b197-40f67d2893f7
 zaflv.senorgyros.com/aafdf4f7-6a58-4791-81c6-3509d0b01cea
