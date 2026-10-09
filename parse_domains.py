@@ -1,3 +1,4 @@
+import re
 import requests
 
 # Add standard browser headers to bypass bot mitigation securely
@@ -19,15 +20,11 @@ for line in lines:
     if not line or line.startswith('#'):
         continue
         
-    # 2. Strip transport protocol prefixes (case-insensitive)
-    if line.lower().startswith('http://'):
-        line = line[7:]
-    elif line.lower().startswith('https://'):
-        line = line[8:]
-    elif line.lower().startswith('ftp://'):
-        line = line[6:]
+    # 2. Hard-strip any protocol prefix (e.g., http://, https://, ftp://, sftp://)
+    # ^[a-zA-Z]+:// looks for any alphabetical protocol name at the start of the line
+    line = re.sub(r'^[a-zA-Z]+://', '', line)
         
-    # 3. Add to set (This preserves the full paths, ports, and IPs, minus the protocol)
+    # 3. Add the completely stripped path to the set
     if line:
         clean_urls.add(line)
 
