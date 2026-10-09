@@ -1,13 +1,13 @@
 import re
 import requests
 
-# Add standard browser headers to bypass bot mitigation securely
+# Standard browser headers to bypass bot mitigation securely
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
 # Fetch the raw URLhaus text list
-source_url = "https://abuse.ch"
+source_url = "https://urlhaus.abuse.ch/downloads/text/"
 response = requests.get(source_url, headers=headers)
 lines = response.text.splitlines()
 
@@ -20,13 +20,12 @@ for line in lines:
     if not line or line.startswith('#'):
         continue
         
-    # 2. Hard-strip any protocol prefix (e.g., http://, https://, ftp://, sftp://)
-    # ^[a-zA-Z]+:// looks for any alphabetical protocol name at the start of the line
-    line = re.sub(r'^[a-zA-Z]+://', '', line)
+    # 2. Hard-strip any protocol prefix (http, https, ftp) at the absolute beginning of the line
+    processed_line = re.sub(r'^[a-zA-Z]+://', '', line)
         
-    # 3. Add the completely stripped path to the set
-    if line:
-        clean_urls.add(line)
+    # 3. Add the completely cleaned line to the set to push into the file
+    if processed_line:
+        clean_urls.add(processed_line)
 
 # Save the sorted, clean URLs to the flat file
 with open("pa-clean-urls.txt", "w") as f:
