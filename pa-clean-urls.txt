@@ -171,6 +171,7 @@
 101.21.20.154:59328/i
 101.23.121.201:59456/bin.sh
 101.23.121.201:59456/i
+101.23.127.18:59328/bin.sh
 101.23.127.18:59328/i
 101.23.127.47:39961/bin.sh
 101.23.127.47:39961/i
@@ -475,8 +476,8 @@
 103.163.119.220/Aqua.arm5
 103.163.119.220/Aqua.arm7
 103.163.119.220/Aqua.dbg
+103.163.119.220/Aqua.m68k
 103.163.119.220/Aqua.sh4
-103.163.119.220/Aqua.x86
 103.163.119.220/Aqua.x86_64
 103.164.117.74:42924/i
 103.164.128.184:47430/bin.sh
@@ -682,11 +683,9 @@
 103.238.235.250:9999/wj0s.x86_64
 103.240.211.121/AV.lnk
 103.240.211.121/AV.scr
-103.240.211.121/Photo.lnk
 103.240.211.121/Video.lnk
 103.240.211.121/info.zip
 103.245.10.51:56156/.i
-103.245.10.51:56156/Mozi.m
 103.245.10.51:56156/i
 103.245.237.10/d/akido.arm
 103.245.237.10/d/akido.arm5
@@ -931,6 +930,7 @@
 103.89.37.70:53361/i
 103.90.161.224:8080/iot
 103.90.206.87:4419/.i
+103.90.206.87:4419/i
 103.90.207.234:55903/.i
 103.90.207.234:55903/Mozi.m
 103.90.207.234:55903/i
@@ -983,7 +983,6 @@
 104.168.4.206/kkk.arm7k
 104.168.4.206/mass
 104.168.4.206/sshd
-104.168.70.168/60/goodthingsareavailableforhtebsestbthignsforneway.hta
 104.168.70.168/img/im/MSI_PRO.png
 104.168.70.168/img/img_102209.png
 104.168.70.171/55/gdprocess.hta
@@ -1084,8 +1083,6 @@
 105.184.121.239:34739/bin.sh
 105.184.121.239:34739/i
 105.184.121.27:53153/i
-105.184.124.53:37383/bin.sh
-105.184.124.53:37383/i
 105.184.126.95:37601/bin.sh
 105.184.13.132:52355/bin.sh
 105.184.13.132:52355/i
@@ -1771,16 +1768,10 @@
 107.172.238.16/8/ssn.exe
 107.172.238.17/23/ecv/sccsq.hta
 107.172.238.17/23/uks.exe
-107.172.247.123/226/eccr/vcc.exe
-107.172.247.123/226/weneedbestthingswithbestversionsneed.hta
 107.172.247.123/227/ecs/givemesomethingsgood.hta
 107.172.247.123/227/vmc.exe
-107.172.247.123/36/weneedbestthingscomingfromthegod.hta
-107.172.247.123/45/renewcrypterforresults.hta
-107.173.143.36/33/wehavingbestsolutionsforbetterplacescomingfor.hta
 107.173.143.36/img/1.jpg
 107.173.143.44/60/Aakdhfi.txt
-107.173.143.52/145/img_012558.png
 107.173.143.56/xampp/MSI_PRO.png
 107.173.227.116/2.jpg
 107.173.227.124/60/goodthings.hta
@@ -1796,21 +1787,16 @@
 107.173.227.83/225/ecv/wegivingsomethingbiggerthingswithmebetterforme.hta
 107.173.227.98/2012/AkIrpdm.txt
 107.173.227.98/img/1.jpg
-107.173.227.99/225/img_171115.png
-107.173.227.99/225/wegivenbestthingsforeverybodytogive.hta
 107.173.227.99/400/kissedbyprincesssheisbeatufifyl.hta
 107.173.227.99/img/1.jpg
 107.173.47.10/27/blackmagicprotectiononthisfilewhathaving.hta
 107.173.47.10/img/img_180754.png
-107.173.47.146/22/goodthingsarebestofrbetterwayscomingformetogive.hta
-107.173.47.146/22/img_175356.png
 107.173.47.72/22/goodthingsforbestfutureforme.hta
 107.173.47.72/22/img_172149.png
 107.173.62.98/12345/crypted.ps1
 107.173.9.104/img/2.jpg
 107.173.9.105/70/goodthingsfromtheheartformebestfeelsgivingforme.hta
 107.173.9.105/70/img_231911.png
-107.174.146.3/emqXijr191.bin
 107.174.251.112/img/3.jpg
 107.174.33.14/63Tie25f
 107.174.33.14/70/img_003449.png
@@ -1822,8 +1808,6 @@
 107.175.148.115/img/2.jpg
 107.175.148.124/45/picture.jpg.hta
 107.175.148.124/45/sevenring.vbe
-107.175.202.168/44/givenbestnetworkingskillforbetterofrme.vbe
-107.175.202.168/44/unv/givemebestthingswithbestprocssionthigns.hta
 107.175.202.168/shell/secured_stub.ps1
 107.175.202.253/60/verygoodepeoplesaroundonemylifeforme.vbe
 107.175.202.253/95/uun/goodthingsarecomingfromtheheartforu.hta
@@ -1906,6 +1890,7 @@
 109.108.36.153:36127/i
 109.108.56.174:46725/bin.sh
 109.108.56.174:46725/i
+109.108.84.121:28531/.i
 109.108.84.121:28531/Mozi.m
 109.108.84.121:28531/i
 109.122.18.73/2026/oke.js
@@ -2607,7 +2592,6 @@
 110.38.201.196:56049/i
 110.38.201.196:57604/bin.sh
 110.38.201.196:57604/i
-110.38.207.151:46188/bin.sh
 110.38.207.151:52550/i
 110.38.207.66:48927/bin.sh
 110.38.207.66:48927/i
@@ -3356,7 +3340,6 @@
 112.248.110.76:56451/i
 112.248.111.26:51657/bin.sh
 112.248.111.26:51657/i
-112.248.113.115:34830/i
 112.248.113.211:39187/bin.sh
 112.248.113.211:39187/i
 112.248.113.232:40583/bin.sh
@@ -3903,7 +3886,6 @@
 113.231.9.63:39328/i
 113.232.254.209:49853/bin.sh
 113.232.254.209:49853/i
-113.232.7.187:38276/i
 113.233.12.188:52841/bin.sh
 113.233.12.188:52841/i
 113.233.13.192:52841/i
@@ -4528,7 +4510,6 @@
 115.48.160.122:59930/i
 115.48.160.16:39786/bin.sh
 115.48.160.227:39646/bin.sh
-115.48.160.227:39646/i
 115.48.160.237:33370/bin.sh
 115.48.160.237:33370/i
 115.48.160.255:52757/bin.sh
@@ -6157,7 +6138,6 @@
 115.57.81.140:43219/i
 115.57.81.202:57526/bin.sh
 115.57.81.202:57526/i
-115.57.82.151:36930/i
 115.57.82.47:57033/bin.sh
 115.57.82.47:57033/i
 115.57.83.161:42022/bin.sh
@@ -6806,6 +6786,7 @@
 116.139.106.9:42583/i
 116.139.126.104:44390/i
 116.139.143.144:37047/i
+116.139.172.245:54006/i
 116.139.178.77:56620/i
 116.139.178.90:48866/bin.sh
 116.139.178.90:48866/i
@@ -6942,7 +6923,6 @@
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/statistic/unusual/service/info.zip
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/checksetting/dao/info.zip
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/checksetting/info.zip
-116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/checksetting/service/info.zip
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/checksetting/web/info.zip
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/info.zip
 116.171.106.3:3435/tomcat8/webapps/bfxt/WEB-INF/classes/com/vkl/ckts/rgsy/system/nvrsetting/dao/info.zip
@@ -7382,7 +7362,6 @@
 117.26.208.21:52448/i
 117.26.225.128:40109/bin.sh
 117.26.225.128:40109/i
-117.26.225.169:40468/bin.sh
 117.26.225.169:40468/i
 117.26.225.197:36974/i
 117.26.225.62:56779/bin.sh
@@ -8189,6 +8168,7 @@
 120.28.166.185:48483/i
 120.28.167.203:34938/bin.sh
 120.28.167.203:34938/i
+120.28.167.203:41366/i
 120.28.167.203:50009/bin.sh
 120.28.167.203:50009/i
 120.28.167.203:51577/bin.sh
@@ -8289,7 +8269,6 @@
 120.28.196.74:46596/i
 120.28.196.74:60042/bin.sh
 120.28.196.74:60042/i
-120.28.197.118:47227/bin.sh
 120.28.197.69:36816/Mozi.a
 120.28.197.69:53898/bin.sh
 120.28.197.69:53898/i
@@ -8817,6 +8796,7 @@
 123.10.156.96:46973/bin.sh
 123.10.156.96:46973/i
 123.10.203.156:35020/i
+123.10.203.32:43613/i
 123.10.203.39:53311/bin.sh
 123.10.203.39:53311/i
 123.10.224.231:49757/i
@@ -8900,6 +8880,7 @@
 123.11.12.76:60695/i
 123.11.12.92:36844/bin.sh
 123.11.12.92:36844/i
+123.11.121.151:40677/bin.sh
 123.11.121.151:40677/i
 123.11.125.96:40919/bin.sh
 123.11.125.96:40919/i
@@ -9341,6 +9322,7 @@
 123.13.81.30:37010/i
 123.13.82.251:58053/bin.sh
 123.13.82.251:58053/i
+123.13.83.188:40560/i
 123.13.83.90:41636/bin.sh
 123.13.83.90:41636/i
 123.13.85.107:44397/bin.sh
@@ -9381,6 +9363,7 @@
 123.132.167.175:50794/i
 123.132.175.6:34454/bin.sh
 123.132.175.6:34454/i
+123.132.181.11:43546/i
 123.132.182.114:59660/bin.sh
 123.132.182.114:59660/i
 123.132.182.115:56384/bin.sh
@@ -13522,6 +13505,7 @@
 157.66.146.183:44843/bin.sh
 157.66.146.183:44843/i
 157.66.146.183:51346/i
+157.66.146.183:57014/i
 158.101.170.110:8080/pty10
 158.101.170.110:8080/pty3
 158.101.170.110:8080/pty4
@@ -14192,6 +14176,7 @@
 167.250.158.32:40802/bin.sh
 167.250.158.32:40802/i
 167.250.158.32:43493/bin.sh
+167.250.158.32:43493/i
 167.250.158.32:44021/bin.sh
 167.250.158.32:44021/i
 167.250.158.32:46664/i
@@ -14731,6 +14716,8 @@
 175.146.240.50:51514/bin.sh
 175.146.240.50:51514/i
 175.146.241.62:38131/i
+175.146.242.218:54547/bin.sh
+175.146.242.218:54547/i
 175.146.243.119:38059/bin.sh
 175.146.243.119:38059/i
 175.146.244.227:57019/bin.sh
@@ -15007,8 +14994,6 @@
 175.151.74.60:46830/i
 175.151.82.88:52513/bin.sh
 175.151.82.88:52513/i
-175.151.83.136:52513/bin.sh
-175.151.83.136:52513/i
 175.151.83.137:53442/bin.sh
 175.151.83.137:53442/i
 175.153.135.75:53709/bin.sh
@@ -15327,6 +15312,7 @@
 175.174.15.183:53135/bin.sh
 175.174.15.183:53135/i
 175.174.3.231:42620/i
+175.174.40.98:55253/i
 175.174.41.135:59524/bin.sh
 175.174.41.135:59524/i
 175.174.44.196:60468/bin.sh
@@ -16434,6 +16420,7 @@
 176.65.139.160/aarch64.pre-persist
 176.65.139.160/aarch64.pre-variant
 176.65.139.160/arm
+176.65.139.160/arm5
 176.65.139.160/armv5l
 176.65.139.160/armv6l
 176.65.139.160/armv7l
@@ -16868,6 +16855,7 @@
 176.65.139.209/bins/arm5
 176.65.139.209/bins/arm6
 176.65.139.209/bins/arm7
+176.65.139.209/bins/i686
 176.65.139.209/bins/m68k
 176.65.139.209/bins/mips
 176.65.139.209/bins/mipsel
@@ -17624,8 +17612,14 @@
 176.65.139.41/lol.sh
 176.65.139.41/mips
 176.65.139.41/mpsl
+176.65.139.41/skid.arm
+176.65.139.41/skid.arm5
+176.65.139.41/skid.arm7
+176.65.139.41/skid.mips
+176.65.139.41/skid.mpsl
 176.65.139.41/x64s
 176.65.139.41/x64s-l7
+176.65.139.41/x86
 176.65.139.72/KKveTTgaAAsecNNaaaa.arm
 176.65.139.72/KKveTTgaAAsecNNaaaa.arm7
 176.65.139.72/KKveTTgaAAsecNNaaaa.i486
@@ -18529,6 +18523,7 @@
 180.76.137.37:60135/linux
 180.76.153.78:9001/info.zip
 180.76.52.207:6334/linux
+180.92.225.138:22966/i
 180.93.111.142/00101010101001/morte.aarch64
 180.93.111.142/00101010101001/morte.arc
 180.93.111.142/00101010101001/morte.arm
@@ -18823,6 +18818,7 @@
 182.113.222.145:54243/i
 182.113.223.72:49170/i
 182.113.224.62:58009/i
+182.113.225.172:55594/i
 182.113.227.205:41880/bin.sh
 182.113.227.205:41880/i
 182.113.232.150:44550/bin.sh
@@ -18837,6 +18833,7 @@
 182.113.248.129:40563/i
 182.113.25.122:50144/bin.sh
 182.113.25.122:50144/i
+182.113.25.83:46080/i
 182.113.250.40:55617/i
 182.113.251.227:43434/bin.sh
 182.113.251.227:43434/i
@@ -19019,6 +19016,7 @@
 182.114.34.162:50206/bin.sh
 182.114.34.162:50206/i
 182.114.35.16:57934/i
+182.114.35.23:43016/i
 182.114.48.35:56580/bin.sh
 182.114.48.35:56580/i
 182.114.49.31:47819/bin.sh
@@ -19539,7 +19537,6 @@
 182.119.13.119:44968/i
 182.119.14.41:37659/bin.sh
 182.119.14.41:37659/i
-182.119.15.130:40264/i
 182.119.15.73:52944/bin.sh
 182.119.15.73:52944/i
 182.119.160.167:51257/i
@@ -20832,7 +20829,6 @@
 182.246.159.52:51415/i
 182.253.115.155:59323/.i
 182.253.115.155:59323/Mozi.m
-182.253.115.155:59323/i
 182.253.115.156:59323/.i
 182.253.115.156:59323/Mozi.m
 182.253.115.156:59323/i
@@ -21422,7 +21418,6 @@
 188.147.175.138:5002/sshd
 188.16.85.54:34815/bin.sh
 188.16.85.54:34815/i
-188.162.88.253/sshd
 188.17.67.167:36252/bin.sh
 188.17.67.167:36252/i
 188.170.32.148:84//sshd
@@ -21444,7 +21439,6 @@
 188.246.178.42:62425/i
 188.254.255.246:11862/.i
 188.254.255.246:11862/Mozi.m
-188.254.255.246:11862/i
 188.38.158.163:35918/i
 188.38.158.163:40685/bin.sh
 188.38.158.163:56786/i
@@ -21697,20 +21691,14 @@
 192.162.199.78/public_files/wdsos.jpg
 192.176.50.190:59653/bin.sh
 192.176.50.190:59653/i
-192.210.186.206/40/wellmaintinaedthingsarebestofroprofessional.hta
 192.210.186.206/img/2.jpg
 192.227.210.190/dred
 192.236.217.110/83/goodthings.hta
 192.236.217.110/83/img_215522.png
 192.236.217.110/Qf1VjDIZ
 192.236.217.68/65/exa/wegivenbestthingsaroundthecglogablforengaaged.hta
-192.236.217.68/85/ecc/cxx.hta
-192.236.217.68/85/seethebestthings.js
-192.236.217.77/86/ecv/cxc.hta
-192.236.217.77/86/uneedbestthingsfrobetterplacescomingforme.js
 192.236.217.77/87/nj/weneedbestsolutionsforme.hta
 192.236.217.77/87/waitingforadgoodthingstocomeforthis.js
-192.236.217.81/124/givingbestthingswithbetterplaceonhere.hta
 192.236.217.81/160/southwestbestthinkingforcinggood.hta
 192.236.217.81/img/2.jpg
 192.252.178.228/update1.zip
@@ -21963,7 +21951,6 @@
 194.102.105.70/8jdjZhdf7/Plugins/cred64.dll
 194.102.105.70/soru.exe
 194.110.87.216:18080/bins/x86_64.bin
-194.116.236.163/35/img_180337.png
 194.116.236.163/35/img_180337.png/
 194.116.236.163/35/weneedbestthingsforeverywheretounderstand.hta/
 194.116.236.163/37/newkingisbackgorbesttreatmentsneedforallthismethodsforfind.hta
@@ -21990,7 +21977,6 @@
 194.163.178.71:8081/enroll.sh
 194.163.178.71:8081/nezha-agent
 194.164.29.150/arm7
-194.183.186.164:50835/.i
 194.238.57.124:889/dp.sh
 194.238.57.124:889/gg11
 194.238.57.124:889/pito.arm4
@@ -22755,11 +22741,8 @@
 198.23.144.123/img/img_194225.png
 198.23.144.125/40/verygoodpersonwithbestenergycandlekingsformebest.vbe
 198.23.144.125/wed/crypted.ps1
-198.23.144.23/129/goodthingsforgreatnessgoodfor.vbe
-198.23.144.23/129/oo/bissbetnetorkingmarketthingscomingfor.hta
 198.23.144.23/130/euv/givemebestthignswithgreatoptionsforme.hta
 198.23.144.23/130/goodthingsarecomingformylifenotyoursitscomig.vbe
-198.23.144.23/shell/secured_stub.ps1
 198.23.177.220/img/1.jpg
 198.251.85.84:8080/bot_aarch64
 198.251.85.84:8080/bot_arm
@@ -23690,7 +23673,6 @@
 202.148.18.220:30944/Mozi.m
 202.148.18.220:30944/i
 202.148.18.221:30944/i
-202.148.20.138:24291/
 202.148.20.138:24291/.i
 202.148.20.138:24291/Mozi.m
 202.148.20.138:24291/i
@@ -23924,8 +23906,6 @@
 204.44.93.119/98/img_060108.png
 204.44.93.119/98/wegoodthingscomebro.hta
 204.44.93.123/102/ceco.hta
-204.44.93.68/20/gooddressingskillgoofforme.hta
-204.44.93.68/img/img_013554.png
 204.44.93.77/128/img_032911.png
 204.44.93.77/86RbddL0
 204.44.93.85/20/wcz/goodthingsforbestnetworkingskill.hta
@@ -24051,7 +24031,6 @@
 209.173.174.28:51451/i
 209.250.2.244/
 209.38.75.180/pty3
-209.54.101.152/50/greatdaycomingformylifetogetmegood.hta
 209.54.101.188/144/cve/goodwayforbestattendingthingsforme.hta
 209.54.101.188/144/everydaynightiamworkingforbestthingstocome.js
 209.54.101.188/145/goodness.js
@@ -24506,6 +24485,7 @@
 212.50.57.143:39109/Mozi.m
 212.54.86.171:51213/bin.sh
 212.69.61.19:44444/i
+212.73.75.82:33920/i
 212.73.75.84:60761/.i
 212.73.75.84:60761/Mozi.m
 212.83.160.70/t/cmd.txt
@@ -24660,8 +24640,6 @@
 216.249.4.20:44977/i
 216.249.4.20:46827/bin.sh
 216.249.4.20:46827/i
-216.249.4.20:48369/bin.sh
-216.249.4.20:48369/i
 216.249.4.20:51077/bin.sh
 216.249.4.20:51077/i
 216.249.4.20:51801/i
@@ -24734,9 +24712,7 @@
 217.154.188.255/60/goodthingsarebestformehappeninggood.vbe
 217.154.7.237/876trdfg67898iujhnmsad/crypted.ps1
 217.154.79.223:5402/payload.bin
-217.160.121.177/34/secured_stub.ps1
 217.168.128.146:41013/.i
-217.168.128.146:41013/i
 217.217.233.97/go.sh
 217.217.233.97:8080/run.sh
 217.217.233.97:8081/run.sh
@@ -25286,7 +25262,6 @@
 219.155.194.71:35019/i
 219.155.195.159:54905/bin.sh
 219.155.195.159:54905/i
-219.155.195.215:53450/i
 219.155.195.226:55894/bin.sh
 219.155.195.226:55894/i
 219.155.2.177:42906/bin.sh
@@ -25529,6 +25504,7 @@
 219.157.11.85:45654/i
 219.157.13.139:58480/i
 219.157.132.215:48123/i
+219.157.133.197:42036/i
 219.157.133.197:42186/bin.sh
 219.157.133.197:42186/i
 219.157.134.110:56057/bin.sh
@@ -25795,7 +25771,6 @@
 220.184.173.163:49388/bin.sh
 220.184.231.120:51207/bin.sh
 220.184.231.120:51207/i
-220.184.3.184:37223/i
 220.184.35.74:55334/i
 220.184.45.196:57228/bin.sh
 220.184.45.196:57228/i
@@ -26637,7 +26612,6 @@
 222.136.52.188:32973/i
 222.137.0.101:51078/bin.sh
 222.137.0.101:51078/i
-222.137.0.237:49157/bin.sh
 222.137.0.237:49157/i
 222.137.105.190:55766/i
 222.137.105.216:51325/bin.sh
@@ -26689,6 +26663,8 @@
 222.137.153.148:44514/bin.sh
 222.137.153.148:44514/i
 222.137.153.54:53457/i
+222.137.154.63:48972/bin.sh
+222.137.154.63:48972/i
 222.137.158.220:48972/bin.sh
 222.137.158.220:48972/i
 222.137.158.38:53457/bin.sh
@@ -26906,8 +26882,6 @@
 222.138.78.37:56888/i
 222.138.79.136:34684/bin.sh
 222.138.79.136:34684/i
-222.138.79.158:39801/bin.sh
-222.138.79.158:39801/i
 222.138.79.68:40887/bin.sh
 222.138.79.68:40887/i
 222.139.101.75:43968/i
@@ -27239,6 +27213,7 @@
 222.142.203.126:37092/i
 222.142.203.165:33633/bin.sh
 222.142.203.165:33633/i
+222.142.204.162:37228/i
 222.142.204.52:37092/bin.sh
 222.142.204.52:37092/i
 222.142.207.133:33633/bin.sh
@@ -28246,6 +28221,8 @@
 27.215.181.9:49913/i
 27.215.182.105:50867/bin.sh
 27.215.182.105:50867/i
+27.215.182.164:33733/bin.sh
+27.215.182.164:33733/i
 27.215.182.212:42285/i
 27.215.183.207:40430/i
 27.215.208.135:40785/bin.sh
@@ -28352,8 +28329,6 @@
 27.215.86.118:50148/i
 27.215.86.140:41217/bin.sh
 27.215.86.140:41217/i
-27.215.89.121:43736/bin.sh
-27.215.89.121:43736/i
 27.215.89.229:49916/bin.sh
 27.215.89.229:49916/i
 27.215.89.229:55829/bin.sh
@@ -29338,7 +29313,6 @@
 36.65.52.119:56141/i
 36.66.139.36:53736/.i
 36.66.139.36:53736/Mozi.m
-36.66.139.36:53736/i
 36.66.151.7:59841/.i
 36.66.151.7:59841/Mozi.m
 36.66.151.7:59841/i
@@ -29348,7 +29322,7 @@
 36.67.66.178:23987/Aqua.arm4
 36.67.66.178:23987/Mozi.a
 36.67.66.178:23987/Mozi.m
-36.67.66.178:23987/i
+36.67.66.178:23987/bin.sh
 36.67.66.178:23987/o
 36.68.93.208:57750/i
 36.69.64.213:55540/bin.sh
@@ -29547,7 +29521,6 @@
 36.89.252.178:58729/bin.sh
 36.89.252.178:58729/i
 36.89.62.19:63814/.i
-36.89.62.19:63814/i
 36.92.110.187:8089/sshd
 36.92.68.241:27066/.i
 36.92.68.241:27066/Mozi.m
@@ -29568,6 +29541,7 @@
 37.142.77.163:8024/sshd
 37.142.77.163:8026/sshd
 37.143.133.215:46668/
+37.143.133.215:46668/.i
 37.143.133.215:46668/Mozi.m
 37.143.133.215:46668/i
 37.156.8.131:31179/.i
@@ -30517,6 +30491,7 @@
 42.224.101.5:38974/bin.sh
 42.224.101.5:38974/i
 42.224.101.5:47999/i
+42.224.102.154:41233/i
 42.224.102.171:36007/i
 42.224.102.236:47807/bin.sh
 42.224.102.236:47807/i
@@ -30565,6 +30540,7 @@
 42.224.13.254:55917/i
 42.224.13.6:40505/i
 42.224.14.94:37078/i
+42.224.140.102:43933/i
 42.224.144.176:49868/bin.sh
 42.224.144.194:36143/bin.sh
 42.224.144.194:36143/i
@@ -31012,8 +30988,6 @@
 42.227.207.180:58373/i
 42.227.207.208:55036/bin.sh
 42.227.207.208:55036/i
-42.227.236.130:42069/bin.sh
-42.227.236.130:42069/i
 42.227.236.188:56408/bin.sh
 42.227.236.188:56408/i
 42.227.236.65:39345/i
@@ -31663,6 +31637,7 @@
 42.234.163.149:48020/bin.sh
 42.234.163.19:43965/bin.sh
 42.234.163.19:43965/i
+42.234.165.238:39954/i
 42.234.166.234:40751/bin.sh
 42.234.166.234:40751/i
 42.234.178.85:49165/bin.sh
@@ -31758,6 +31733,8 @@
 42.235.177.79:59093/i
 42.235.178.97:55591/i
 42.235.183.167:47451/i
+42.235.183.249:58564/bin.sh
+42.235.183.249:58564/i
 42.235.235.102:60059/bin.sh
 42.235.235.102:60059/i
 42.235.36.124:52809/bin.sh
@@ -32195,8 +32172,6 @@
 42.239.254.29:45947/i
 42.239.255.151:32965/i
 42.239.255.6:34597/i
-42.239.255.84:36392/bin.sh
-42.239.255.84:36392/i
 42.239.75.112:58966/bin.sh
 42.239.75.112:58966/i
 42.239.76.28:33921/bin.sh
@@ -32512,7 +32487,6 @@
 42.56.207.219:48363/i
 42.56.212.192:55031/bin.sh
 42.56.212.192:55031/i
-42.56.232.66:55589/bin.sh
 42.56.3.241:39536/i
 42.56.35.155:55769/bin.sh
 42.56.35.155:55769/i
@@ -32916,6 +32890,7 @@
 44.251.73.166/pty3
 44.251.73.166/pty4
 45.112.126.123:1600/i
+45.115.254.68:19981/i
 45.115.254.91:32515/i
 45.118.79.103:8892/tftp
 45.123.9.197:39104/i
@@ -33007,6 +32982,7 @@
 45.135.194.116/armv7l
 45.135.194.116/i686
 45.135.194.116/m68k
+45.135.194.116/mips
 45.135.194.116/mipsel
 45.135.194.116/powerpc
 45.135.194.116/x86_64
@@ -33167,7 +33143,9 @@
 45.135.194.95/bin/support.client.exe
 45.135.194.96/bins/arm
 45.135.194.96/bins/arm5
+45.135.194.96/bins/arm6
 45.135.194.96/bins/arm7
+45.135.194.96/bins/i686
 45.135.194.96/bins/m68k
 45.135.194.96/bins/mips
 45.135.194.96/bins/mpsl
@@ -33485,18 +33463,13 @@
 45.207.196.86/huhu/titanjr
 45.207.196.86/huhu/titanjr.arc
 45.207.196.86/huhu/titanjr.arm
-45.207.196.86/huhu/titanjr.arm5
-45.207.196.86/huhu/titanjr.arm6
-45.207.196.86/huhu/titanjr.arm7
 45.207.196.86/huhu/titanjr.i486
 45.207.196.86/huhu/titanjr.i686
-45.207.196.86/huhu/titanjr.m68k
 45.207.196.86/huhu/titanjr.mips
 45.207.196.86/huhu/titanjr.mipsl
 45.207.196.86/huhu/titanjr.ppc
 45.207.196.86/huhu/titanjr.ppc440
 45.207.196.86/huhu/titanjr.sh4
-45.207.196.86/huhu/titanjr.spc
 45.207.196.86/huhu/titanjr.x86_32
 45.207.196.86/huhu/titanjr.x86_64
 45.207.196.86/iran.aarch64
@@ -33970,8 +33943,6 @@
 46.16.150.139:51622/bin.sh
 46.16.150.139:51622/i
 46.175.139.20:11074/i
-46.183.223.88/57/img_021550.png
-46.183.223.88/57/nimiddlemaninthisindutrytogetbackgoodforme.hta
 46.183.25.232:45000/icons/1
 46.183.25.232:45000/icons/106
 46.183.25.232:45000/icons/300
@@ -34199,7 +34170,6 @@
 49.204.232.47/Video.lnk
 49.204.232.47/Video.scr
 49.204.232.47/info.zip
-49.205.173.192/Video.scr
 49.232.126.36:9000/Photo.scr
 49.235.101.101:60147/linux
 49.64.157.52:54375/bin.sh
@@ -35529,6 +35499,7 @@
 5.206.227.37:60144/linux
 5.230.201.18/Bin/ScreenConnect.ClientSetup.exe
 5.230.201.18/bin/support.client.exe
+5.250.157.166:45994/i
 5.252.177.210:8090/test.bat
 5.253.59.16/k/bplplatatenera.dat
 5.253.59.16/k/jjscotttbpl.dat
@@ -35758,7 +35729,6 @@
 59.103.116.68:42561/bin.sh
 59.103.116.68:42561/i
 59.103.116.68:53661/bin.sh
-59.103.116.68:53661/i
 59.103.116.68:54471/bin.sh
 59.103.116.68:54471/i
 59.103.116.68:54641/bin.sh
@@ -36083,8 +36053,6 @@
 59.96.143.168:53299/bin.sh
 59.96.143.168:53299/i
 59.96.143.187:43269/Mozi.m
-59.96.143.187:58897/bin.sh
-59.96.143.187:58897/i
 59.96.143.190:39217/bin.sh
 59.96.143.190:39217/i
 59.96.143.192:44908/bin.sh
@@ -36308,6 +36276,7 @@
 60.18.16.151:54382/bin.sh
 60.18.16.151:54382/i
 60.18.198.199:36440/i
+60.18.212.26:42790/i
 60.18.214.19:38553/bin.sh
 60.18.214.19:38553/i
 60.18.25.174:34688/bin.sh
@@ -36542,6 +36511,7 @@
 60.23.232.134:40004/bin.sh
 60.23.232.175:55374/bin.sh
 60.23.232.175:55374/i
+60.23.232.179:33471/i
 60.23.232.191:39905/bin.sh
 60.23.232.191:39905/i
 60.23.232.20:51644/i
@@ -37169,6 +37139,7 @@
 61.53.135.159:46456/bin.sh
 61.53.135.159:46456/i
 61.53.135.168:33597/i
+61.53.135.191:48339/i
 61.53.135.208:46338/bin.sh
 61.53.135.208:46338/i
 61.53.135.222:43860/bin.sh
@@ -37355,8 +37326,6 @@
 61.53.98.213:33122/i
 61.53.99.119:36871/bin.sh
 61.53.99.119:36871/i
-61.53.99.119:51675/bin.sh
-61.53.99.119:51675/i
 61.53.99.227:39335/bin.sh
 61.53.99.227:39335/i
 61.54.167.178:52114/bin.sh
@@ -37588,6 +37557,7 @@
 62.84.172.106/sys64.x86_64
 63.142.250.72/pty10
 63.245.153.41:33709/i
+63.245.153.41:37905/i
 63.245.153.71:46253/i
 64.112.84.195:443/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 64.118.132.61/aarch64
@@ -37712,9 +37682,12 @@
 64.89.163.215/bins/ntb.x86
 64.89.163.215/bins/putita.mipsrouter
 64.89.163.215/ipmiv2.xml
+64.89.163.22/1.exe
+64.89.163.22/8.exe
 64.89.163.22/9c.elf
 64.89.163.22/auto.sh
 64.89.163.22/check3.sh
+64.89.163.22/softwaretech
 64.89.163.22/test.elf
 64.89.163.22/test.sh
 64.89.163.22/w3.sh
@@ -38579,6 +38552,7 @@
 81.16.247.83:54069/.i
 81.16.247.83:54069/Mozi.m
 81.16.247.83:54069/i
+81.16.249.96:46703/
 81.16.249.96:46703/.i
 81.16.249.96:46703/Mozi.m
 81.16.249.96:46703/i
@@ -39071,8 +39045,6 @@
 86.89.95.77:8999/sshd
 86.98.154.146:19091/i
 87.106.233.9/f/tF5AqDuH
-87.106.48.217/113/verygoodbirthdaycomingforeerytimefwithbestthigns.vbe
-87.106.48.217/113/wce/privatethignsareverygoodformaitiasentriethinsgs.hta
 87.120.104.147/d/build_x64
 87.120.104.147:8080/d/ibrowser
 87.120.104.147:8080/d/installer-4
@@ -39106,6 +39078,7 @@
 87.239.243.55:52617/Mozi.a
 87.240.18.228:54109/i
 87.247.202.34:30750/.i
+87.247.202.34:30750/i
 87.249.142.126:60800/Photo.scr
 87.249.142.126:60800/Video.scr
 87.249.142.126:60800/info.zip
@@ -39156,6 +39129,7 @@
 88.116.62.226:52714/.i
 88.116.62.226:52714/Mozi.m
 88.116.62.226:52714/i
+88.135.26.83:32710/
 88.135.26.83:32710/.i
 88.135.26.83:32710/Mozi.m
 88.135.26.83:32710/i
@@ -39332,6 +39306,7 @@
 91.137.217.64:55199/bin.sh
 91.137.217.64:55199/i
 91.143.172.196:57666/i
+91.147.91.21:23459/
 91.147.91.21:23459/i
 91.153.133.160:48556/i
 91.157.243.235:47252/bin.sh
@@ -40349,7 +40324,6 @@
 93.114.194.171/mips2
 93.114.194.171/t
 93.116.56.78:3976/i
-93.118.112.68:58915/Mozi.m
 93.118.112.68:58915/i
 93.126.1.30:42136/i
 93.152.221.186/Bin/ScreenConnect.ClientSetup.exe
@@ -42577,6 +42551,7 @@
 94.67.152.120:49503/i
 94.76.156.101:280/AV.lnk
 94.76.156.101:280/Photo.lnk
+94.76.156.101:280/Photo.scr
 94.76.156.101:280/Video.lnk
 95.106.219.144:10368/i
 95.106.223.168:60471/i
@@ -42686,7 +42661,6 @@
 95.155.201.65:38304/i
 95.155.243.196:55793/bin.sh
 95.155.243.196:55793/i
-95.158.175.214:23270/.i
 95.158.175.214:23270/Mozi.m
 95.164.53.193:5001/actami.exe
 95.164.53.193:5001/adas.exe
@@ -42858,6 +42832,7 @@
 96.66.24.241:39432/bin.sh
 96.8.112.30/53/image_00949405995.jpg.hta
 96.8.112.30/53/verynice.vbe
+98.103.171.36:19021/.i
 98.103.171.36:19021/Mozi.m
 98.103.171.36:19021/i
 98.197.230.147:88/
@@ -43235,7 +43210,6 @@ astroliper.ac/pack/agent/nodewatchd-linux-mipsle
 astroliper.ac/pack/agent/nodewatchd-linux-ppc64le
 astroliper.ac/pack/agent/nodewatchd-linux-riscv64
 asynchronouswatering-system.garden/75aa3eb1-b155-444d-b5c4-d470f2b0c78e/google.cl
-atasapka.com.tr/images/bot.jpg
 athuselevadores.com.br/Bleaty.toc
 atibr.gamehazarat.bet/339874c6-81c4-4391-a60a-41bb98dcae81
 atkcgnew.evgeni7e.beget.tech/HkHe3fKTc/
@@ -43452,7 +43426,6 @@ best.obs.cn-sz1.ctyun.cn/cn/sysnew.spc
 best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86
 best.obs.cn-sz1.ctyun.cn/cn/sysnew.x86_64
 best10cdn.blob.core.windows.net/recipes/staging/a-89fb7017-7780-4b72-950d-c2db1146a34a.exe
-bfpu.rayeganmarket.com/3a83cb4d-11c1-4e91-887f-099e97bc5f77
 bgtnaqoc.fileboroo.com/8d0ecdf8-756a-421f-ba9b-d9bb001ac817
 bgzdrdniv.venus90bet.com/14c82ad9-595b-40af-982c-09f642d03a5b
 bhcivpxh.derbi.football/5978b0a2-3018-4bc8-9a77-e6f8309068f3
@@ -43590,7 +43563,6 @@ burp-flung-pilot.xyz/avast_update
 businesseconomics.in/uploads/sp.png
 bvaco.com/images/optimized_MSI.png
 bvxbg.buildableconcepts.com/f7ffb915-a6a6-43c6-9b70-ad371e3e171f
-bwimlqru.jetbet.download/6de085cd-42d2-4a0c-9be2-1a10c489b076
 bwwxd.polarstartire.com/da06a1dd-f060-4741-b34b-5a47c7ed63c3
 bxto.site-shartbandi-variz-kam.com/21715b8f-fe63-4c01-89dc-d43f65a42ada
 byqxztkz.bethazarat.app/71ca224e-a059-4690-b154-657b53f4ea6e
@@ -43662,6 +43634,7 @@ cdaonline.com.ar/wp-admin/sites/ci6p05ScnuoNqsLQmeHm/
 cdbxemdoq.toofan90bet.com/7fd271f7-1281-47bc-ba3e-de40c76a1504
 cdctvukr.taktikkbet.com/e34f523c-1bb0-45b8-9709-289f647a13e0
 cdmke7zf.sky7bet.casino/?ublib=bad75b0e-1fe7-46af-ac0d-054f3dd77496
+cdn-10049480.file.myqcloud.com/jd/jd124.exe
 cdn-10049480.file.myqcloud.com/jd/jd127.exe
 cdn-10049480.file.myqcloud.com/jd/jd136.exe
 cdn-10049480.file.myqcloud.com/jd/jd144.exe
@@ -44187,7 +44160,6 @@ data.yhydl.com:20006/file/YHY_Setup.exe
 datastream-hub.christmas/c3c0cbce-a3e6-4612-bbf5-63accda14d8c/tk.dll
 dautw.playantwatch.com/c089d360-c5c9-47de-b629-0f7db08afa87
 davestrap.xyz/installer.exe
-dawn-mud-d34f.phzinhoooo.workers.dev/FTM0-40PO-AO28-G98E/img_yh7kna.png
 dbeasxyp.derbi.football/
 dbomd.famscargo.com/487a34f2-6b4a-4626-b276-2fc3116ed4b8
 dcfpp.com/_wildcard_.coqtarwars.vu/64.js
@@ -45146,7 +45118,6 @@ ecl80.cfd:8080/volar.mipsel
 eclipsebible.com/eclipse.x86_64
 eclipsebible.com/loader.sh
 ecourwue.takhtenard-online.com/af1a49fa-5a49-42a3-af4f-5a01d82317b8
-ecyz.plinko-1xbet.games/1427ff78-0347-4582-a70a-0b42a371875e
 edge-network-on-hub.garden/f3c6c3f5-169c-4097-a716-caab93df632d/google.cl
 edge-processing-network.wiki/c850bf60-243d-4cbb-b6ab-80f4def598ab/google.ct
 edhabqne.taktikkbet.com/53d38096-d3a3-4bbb-b872-723d7ae93876
@@ -46146,7 +46117,6 @@ github.com/JEFF2807/GithubAIPy/releases/download/v2.0/Software.zip
 github.com/Jack-Mash/navisor-debug/raw/refs/heads/main/android/app/src/main/res/mipmap-mdpi/navisor_debug_2.6.zip
 github.com/JackFalan/WAS/raw/refs/heads/master/augurship/Software-v1.3-beta.2.zip
 github.com/JackFalan/happyview/raw/refs/heads/master/yow/Software_v2.0-beta.1.zip
-github.com/Jackson2323/MoHRadiant/blob/master/updt.exe?raw=true
 github.com/Jacksonsmg/SoftwareTesting-Cunit/raw/refs/heads/main/atheistically/Software-Testing-Cunit-v2.9.zip
 github.com/Jaden1387/cpa-clean/raw/refs/heads/master/.vscode/clean_cpa_1.5.zip
 github.com/JallinskyLuca/EntregaFinal/raw/refs/heads/main/css/Final-Entrega-3.0.zip
@@ -46210,6 +46180,7 @@ github.com/JustJZero/ahh/raw/refs/heads/main/Cloudy.exe
 github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v1.0/Application.zip
 github.com/Jxx1234567890jxx/DataTransformationChecker/releases/download/v2.0/Software.zip
 github.com/K-mohameduuu/DeckBuilderRoguelikeEngine/raw/refs/heads/main/cistern/Builder-Deck-Roguelike-Engine-v1.8.zip
+github.com/KANKERTJE2/Anti-Shannon/raw/refs/heads/main/src/wukong/Anti_Shannon_v2.9.zip
 github.com/KDot227/Somalifuscator/archive/refs/heads/main.zip
 github.com/Kabot/mig-logcleaner-resurrected.git
 github.com/KageOutlook/Jieqi-Match-Tools/raw/refs/heads/main/nonstress/Match_Jieqi_Tools_1.5.zip
@@ -49063,12 +49034,12 @@ hll912-1484535448.cos.ap-hongkong.myqcloud.com/ToDesk_Installer.zip
 hnhdl.hazaratbet.bet/d9a17e4a-fe85-4bf4-95de-f4827a45a73a
 hnjgdl.geps.glodon.com:8888/Services/Identification/Server/GtpToolsDownLoadHandler.ashx?filename=GTP_6_BrowserPlugin_Setup.exe
 hobobot.net/%EB%A7%AC%EC%9B%A8%EC%96%B4.hta
+hobobot.net/%EB%B9%8C%EC%96%B4%20%EB%A8%B9%EC%9D%84.hta
 holdpogohaul.xyz/avast_update
 holographic-projection-grid.garden/159a828e-c534-4ba8-b296-a70d4e6d7c01/google.cl
 hoop-chad-gust.xyz/avast_update
 hoopramplawn.xyz/avast_update
 horion-static.pages.dev/bin/HorionInjector.exe
-horno-rafelet.es/
 host-195-103-203-106.business.telecomitalia.it/Photo.scr
 host-95-230-215-65.business.telecomitalia.it/sshd
 host-95-255-114-11.business.telecomitalia.it/Photo.scr
@@ -49099,7 +49070,6 @@ httpbin.org/base64/MDUzOTIxNDY2MDVjMTM4NDU5NTA1OWRjYzBjMWJjZDQyNzc0ODAwZmUzZTRkO
 hullmall-cool.xyz/avast_update
 hvao.jbgroup21.com/60861fb4-c42e-4d32-9d1e-7f445fbb4fbe
 hwykplqn.xyz/merry/64bit-remcos_a.bin
-hxea.psikologer.com/fb469318-6810-412d-bc4b-fc84cb9eabad
 hxqt.faux-paws.com/ae9c44df-e6b0-4275-86f4-e2169e317547
 hydraulic-actuator-valve.garden/fb3bee94-2817-46e3-b438-f2740a893218/google.ct
 hylrukrxwfwbooknmtyx.supabase.co/storage/v1/object/sign/Krypton%20Client%201.21x/Krypton%20Client%201.21x.jar?token=eyJraWQiOiIzODI0ZTg5NS04MjY5LTRmZGEtYWNlZC02M2NhYjY5YWM1MDAiLCJhbGciOiJIUzUxMiJ9.eyJ1cmwiOiJLcnlwdG9uIENsaWVudCAxLjIxeC9LcnlwdG9uIENsaWVudCAxLjIxeC5qYXIiLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzkxNTkyOTkyLCJleHAiOjE4MjMxMjg5OTJ9.7WTbEWdrQ0KLBQ_UMhaHarlOky5CmOTWPQeSGG8J110mPcGm_9PXZeSeoBUdxV99h1ydJeq7cP-nA1QL4vmbTQ
@@ -49143,7 +49113,6 @@ ifeanyioluwatobi.wuaze.com/img_022151.png
 ifmpb.frizzhairforecast.com/917bc27c-d4ab-4e3e-b4a6-f248f671d0e0
 ifunayaikechukwu.kesug.com/core_030038.iso
 ignetwork.us/wp-content/plugins/z-downloads/
-igowjhcd.madgal.life/58bee191-59f8-4a0f-a2f0-12d0f036f489
 igra123.com/files/install.exe
 igra123.com/files/update.exe
 igsx.closedfistllc.com/127c3bcd-412d-442c-bb65-395afc1c8977
@@ -50711,7 +50680,6 @@ let-dyed-crow.xyz/avast_update
 letsgobok.com/Tejkpnj.exe
 letsupconfig.sbs/0921.exe
 lfumk.winston.bet/c4ac8e20-09e1-4c6a-a631-91eacc6edb7d
-lgmkszyl.site-shartbandi-farsi.com/21922487-a5a8-4607-864d-316e18529e77
 lhozmsokb.nextbahis.coupons/e8c2bba0-5bd1-43e4-93be-564b396e1fd1
 lickinchmail.xyz/avast_update
 lifeisabouthavingfun448.duckdns.org//arm4
@@ -51553,7 +51521,6 @@ obearo.com/img_163520.png
 obele.rf.gd/img_015012.png
 obeylandchap.xyz/avast_update
 obeyyellwool.xyz/avast_update
-obsudfch.site-shartbandi-enfejar.bet/4ed9d899-1b76-4912-a54c-12b1e0d060d4
 ocgziav.test-ranandegi.com/6ab79bdc-73bc-4443-a287-1ed4408d3d34/gc.key
 od.lk/d/MzJfNDU3NDEwNzJf/DVgiHou177.bin
 od.lk/d/NDdfMTEzODkyODAzX2g3anRu/img_212403.png
@@ -52166,7 +52133,6 @@ qkvgzbcv.nextbahis.promo/b1ce8309-dab4-48dc-af11-ff88ced5c6ca
 ql1aii3f.jadoobet.pro/?ublib=6aca2c21-88a2-4fa8-9d67-8685ec0ca7fc
 qlzqh.sultankito.net/a0d42674-b115-4180-9d65-ad4c3eaabc4e
 qmrmfxcme.jadoou.space/
-qnu58lbv.varzeshlife.ir/?ublib=4d46975c-40a9-4757-b9c1-88917f25d18e
 qorvi.pro/fdab9755.exe
 qpduk.hazaratbet.bet/e4d856d9-c0c8-476b-8cbd-2e4a75bd22cb
 qpwot.cfd/mrprince/secured_stub.ps1
@@ -70626,7 +70592,6 @@ richoverfold.xyz/avast_update
 rideloreomit.xyz/avast_update
 riderspin.com/agenzia/
 riderspin.com/connect/
-riderspin.com/scarica/
 riftfacetill.xyz/avast_update
 rippled.cleverpondky.com/Error84
 rippled.cleverpondky.com/auto
@@ -70893,7 +70858,6 @@ scrroeder.com/1q1q.js
 scuttlepopdownload.monster
 sdh-c373.persephonegloria44235.workers.dev/
 sdtawdiq.niliafshar.com/97c9acd4-79cd-4776-b3d7-3f100aa4a8af
-sdufkghdfshds.cfd/
 seasquadshipping.com/old/MSI_PRO.png
 seasquadshipping.com/old/img_155944.png
 sebw9xod.site-asli-bedon-filter-1xbet.com/?ublib=a4e3924c-ee0c-4fc4-875a-7395e6d6532c
@@ -71143,7 +71107,6 @@ soonmuff-cob.xyz/avast_update
 sp.negrrwe.info/pnct/ddnmame.txt
 spa-com.com/postback
 spamgym.asia/7a28b2c1-d858-4730-a6c5-efb8b85d586d/ton.ch/
-specsaversllc.online/mrkelly13/qk3FhjayJfgjjLonmTMtgt9pw6hrKmMImzjw2eqKGsHqMovE.js
 speddebug.com/download
 spgint.com/rum/optimized_MSI.png
 spitandmalachite.com/rqs
@@ -71637,7 +71600,6 @@ tutpaste.com/raw/Q88luv
 tvknglirv.jadoou.space/
 tweakz-dream-launcher.lovable.app/__l5e/assets-v1/f9eec8e0-95ce-4178-b709-6136c6e6321b/V4MP-Tweakz-Launcher.exe
 twitch.tj/
-twu-hwt.org/scarica/
 twyd6y14.elizabethspizzadenton.com/?ublib=19d3ce96-d829-4f78-82bd-ef47d3af9900
 txvii.hazaratbet.bet/099279dc-fd6f-4e77-817d-7f3f253dbc37
 txwd.borrender.com/5c1b4fb5-8786-4c71-ba6c-9144253c5d95
@@ -71753,7 +71715,6 @@ uu.v2raynapps.com.cn/UU_aNCcWz7.zip
 uvxzsajar.lion1bet.com/50e0e0ee-0f02-40e1-a6c3-8e1fc242c721
 uvzbxwuc.gamehazarat.com/af4be38d-c3ae-4330-8476-4a5eb4a9488c
 uwaho.midiowagrowth.com/04b09226-f2ec-4073-a208-59182282aef3
-uwkx2xdq.zaribbala.bet/?ublib=5f21ecb1-6984-4066-b901-ea0e59c65fca
 uxddr.goatedcollection.com/58cc9737-eba2-488f-9da5-a376de675397
 uxlcj.fontanayoga.com/9fa7664b-265f-486c-a97a-7efa4dd35161
 uz1hqtn3.phtaxiservices.com/?ublib=035f06f2-ff38-4267-af2e-60cfe7e37122
@@ -71863,7 +71824,6 @@ vwpanxmoc.orlandosmuncy.com/9405a702-74fe-4399-a260-180bfc6ad07c
 vwrgeckmh.adsbln5.xyz/bc01c4dd-d739-4bd5-925f-3b75fa29305c
 vwwbeohrh.apolloconeyisland.com/a54b5257-49cf-4818-be40-187474d319ae
 vxcvebyr.btyek.site/fbf89bd0-87ae-45e1-9c0d-5dace534f4a3/gc.key
-vxqz.bahigo90bet.com/d0e57301-46d4-4b60-adbb-9f1f476ca788
 vygy.betropol.bet/7739fb0e-6287-48b1-897f-8b51f8ad683a/gc.key
 vzsagfrw.derbi.football/a02b928d-c48d-4e91-a56e-b2f83f3a22a2
 w.zhzy999.net/images/m.exe
@@ -72014,6 +71974,7 @@ win.down.55kantu.com/winassist/login/login.7z
 wind-cragblur.xyz/avast_update
 wind.ntlsmartfull.com/k
 windomstatetheater.com/mits.zip
+windomstatetheater.com/osxs.zip
 windomstatetheater.com/rars.zip
 windowsdiagnostics.st/api/static/Office365
 windowsdiagnostics.st/api/static/exodus.asar
@@ -72369,7 +72330,6 @@ www.knockknock.top/fxrgbtj/gxcjtky/zkeibpn/stego_4ehpd80tsq.png
 www.konsor.ru/keygen.exe
 www.krypton-client.net/assets/krypton-free.jar
 www.kryptonclient.lol/KryptonClient.jar
-www.mbowen.org/sUYQArZTfwvQYhC206.bin
 www.mediafire.com/file/5zdr3wzj48j8odd/SETUP_PACKAGE_(KEY=2088).zip/file
 www.mediafire.com/file/8cn8u1bn3jb5gep/file
 www.mediafire.com/file/djtzh68mlqx7txl/Vegas.Pro.2026.rar/file
@@ -72544,12 +72504,10 @@ xnshgwgf.bingobet.bingo/5b7a85e7-8610-4074-84a2-d4a225ee00f8
 xnuleibw.site-shartbandi-khareji.com/187ddf12-7c5a-4355-88f2-fb8c196cf198
 xolep1.tos-cn-beijing.volces.com/Project-rd.exe
 xomsymkut.derbi.football/
-xprba39f.jadoou.space/?ublib=84b3e683-bb20-42cf-aa2a-f727e70a5ad3
 xpzjxywai.funxbet.casino/6850f23a-b8e1-411b-b415-169fab976492
 xquxoceqj.radioshartbandi.bet/1e0e9053-8281-428b-8a5c-90a8269ad0f1
 xshop.com.tr/image/cache/data/AKSESUARLAR/PATCH-YAMA-ARMA/skid-row-500x500.JPG
 xss.gumminessheap.in.net/jquery.uo.js
-xt19c0ua.casinomhub.bet/?ublib=c534ce2e-bc8c-454c-a10f-e2bf582d8260
 xtocpnhiv.jadoou.space/ee7bb359-de00-4b97-b261-da752965124b
 xunyyymdfv.oss-cn-hongkong.aliyuncs.com/uuyc.4.1.0.zip
 xvc.motorbook.xyz/f553f21c-c901-47ba-9c99-529b4de5244d/google.cl
