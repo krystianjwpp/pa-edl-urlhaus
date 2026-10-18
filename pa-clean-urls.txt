@@ -352,7 +352,6 @@
 103.125.163.10:7080/
 103.125.163.10:7080/.i
 103.125.163.10:7080/Hajime
-103.125.163.10:7080/i
 103.125.174.116:33940/i
 103.125.174.116:53120/i
 103.125.31.101:37202/i
@@ -482,6 +481,7 @@
 103.163.119.220/Aqua.mips
 103.163.119.220/Aqua.mpsl
 103.163.119.220/Aqua.sh4
+103.163.119.220/Aqua.x86
 103.163.119.220/Aqua.x86_64
 103.164.117.74:42924/
 103.164.117.74:42924/i
@@ -669,6 +669,7 @@
 103.226.249.227:86/info.zip
 103.226.250.88/onie.sh
 103.226.250.88/onie_sh4
+103.227.118.45:56789/.i
 103.227.118.45:56789/i
 103.229.53.84:8443/bin
 103.229.53.84:8443/chromelevator_x64.exe
@@ -956,8 +957,8 @@
 103.89.37.70:53361/bin.sh
 103.89.37.70:53361/i
 103.90.161.224:8080/iot
+103.90.206.87:4419/.i
 103.90.206.87:4419/i
-103.90.207.13:25925/i
 103.99.196.0:49309/Mozi.m
 104.129.11.86/payloads/Ciabins.sh
 104.161.46.87/grace/Outsplen.pfb
@@ -1733,7 +1734,6 @@
 106.54.223.106/phpmyadmin/setup/lib/888.sh
 106.54.223.106/phpmyadmin/setup/lib/syscon
 106.57.6.155:56421/bin.sh
-106.57.6.155:56421/i
 106.57.6.80:53331/bin.sh
 106.57.6.80:53331/i
 106.57.7.26:53331/bin.sh
@@ -1944,12 +1944,12 @@
 109.123.243.121/x86_64
 109.126.197.13:38688/bin.sh
 109.126.197.13:38688/i
+109.160.87.2:31378/Mozi.m
 109.160.87.2:31378/i
 109.165.53.128:41927/bin.sh
 109.165.53.128:41927/i
 109.165.9.140:59419/i
 109.166.211.222:6201/sshd
-109.166.211.222:6202/sshd
 109.171.67.100:11548/bin.sh
 109.171.67.100:11548/i
 109.171.67.100:18713/bin.sh
@@ -2837,6 +2837,7 @@
 111.59.254.165:8084/20250725/Video.scr
 111.59.254.165:8084/20250726/AV.lnk
 111.59.254.165:8084/20250726/AV.scr
+111.59.254.165:8084/20250726/Photo.lnk
 111.59.254.165:8084/20250726/Photo.scr
 111.59.254.165:8084/20250726/Video.lnk
 111.59.254.165:8084/20250726/Video.scr
@@ -3798,6 +3799,7 @@
 113.231.84.91:50140/i
 113.231.9.63:39328/bin.sh
 113.231.9.63:39328/i
+113.232.204.218:37636/i
 113.232.254.209:49853/bin.sh
 113.232.254.209:49853/i
 113.233.12.188:52841/bin.sh
@@ -3916,7 +3918,6 @@
 113.237.59.65:48770/i
 113.237.61.172:43891/bin.sh
 113.237.61.172:43891/i
-113.237.61.7:49506/bin.sh
 113.237.63.22:56535/bin.sh
 113.237.63.22:56535/i
 113.237.71.75:38677/bin.sh
@@ -4815,6 +4816,7 @@
 115.50.216.143:39292/i
 115.50.217.205:60757/bin.sh
 115.50.217.205:60757/i
+115.50.217.75:47190/i
 115.50.217.82:54037/bin.sh
 115.50.217.82:54037/i
 115.50.218.143:58288/bin.sh
@@ -6091,6 +6093,7 @@
 115.57.84.137:46458/i
 115.57.84.167:36341/bin.sh
 115.57.84.167:36341/i
+115.57.85.102:48743/bin.sh
 115.57.85.102:48743/i
 115.57.85.217:50997/bin.sh
 115.57.85.217:50997/i
@@ -6193,6 +6196,7 @@
 115.58.85.124:51426/i
 115.58.85.188:55703/i
 115.58.85.77:53220/bin.sh
+115.58.85.77:53220/i
 115.58.86.149:58598/bin.sh
 115.58.86.149:58598/i
 115.58.86.52:34597/bin.sh
@@ -6730,6 +6734,8 @@
 116.138.235.185:37309/bin.sh
 116.138.235.185:37309/i
 116.138.241.167:51937/bin.sh
+116.138.242.95:35793/bin.sh
+116.138.242.95:35793/i
 116.138.244.139:33781/bin.sh
 116.138.244.139:33781/i
 116.138.244.27:55282/bin.sh
@@ -7524,10 +7530,8 @@
 118.69.157.212:9114/sshd
 118.69.157.212:9127/sshd
 118.69.157.212:9219/sshd
-118.70.244.17:28411/i
 118.71.250.6:28411/.i
 118.71.250.6:28411/Mozi.m
-118.71.250.6:28411/i
 118.96.39.119:42293/bin.sh
 118.96.39.119:42293/i
 118.96.45.141:41464/bin.sh
@@ -7862,6 +7866,7 @@
 119.179.238.227:50903/i
 119.179.238.67:49003/bin.sh
 119.179.238.67:49003/i
+119.179.239.112:54832/bin.sh
 119.179.239.112:54832/i
 119.179.239.29:45461/bin.sh
 119.179.239.29:45461/i
@@ -8791,6 +8796,7 @@
 123.10.128.96:44362/i
 123.10.129.12:34325/i
 123.10.131.161:43807/i
+123.10.134.125:47200/i
 123.10.137.238:32895/i
 123.10.143.179:51663/i
 123.10.145.33:33546/bin.sh
@@ -8872,6 +8878,7 @@
 123.11.10.208:37180/i
 123.11.10.210:60891/bin.sh
 123.11.10.210:60891/i
+123.11.10.25:51674/i
 123.11.10.27:32993/bin.sh
 123.11.10.27:32993/i
 123.11.10.63:44952/bin.sh
@@ -8979,7 +8986,6 @@
 123.11.3.170:47475/i
 123.11.32.45:60965/bin.sh
 123.11.32.45:60965/i
-123.11.35.54:60685/i
 123.11.36.82:53208/bin.sh
 123.11.36.82:53208/i
 123.11.37.175:53385/bin.sh
@@ -9105,6 +9111,7 @@
 123.12.225.54:49444/i
 123.12.226.4:57201/bin.sh
 123.12.226.4:57201/i
+123.12.226.84:57201/i
 123.12.227.0:39181/bin.sh
 123.12.227.0:39181/i
 123.12.227.243:60537/bin.sh
@@ -12438,7 +12445,6 @@
 130.12.209.166:33401/bin.sh
 130.12.209.166:33401/i
 130.12.46.45:8234/s1.armv7l
-130.185.193.208:8080/AV.lnk
 130.185.193.208:8080/Photo.lnk
 130.185.193.208:8080/Photo.scr
 130.185.193.208:8080/Video.lnk
@@ -12922,6 +12928,7 @@
 147.45.69.128/mirai.x86_64
 148.113.205.94/
 149.106.141.136:22236/.i
+149.241.40.177:25590/.i
 149.241.40.177:25590/i
 149.50.154.101:8000/bot_arm
 149.50.154.101:8000/bot_arm7
@@ -13035,6 +13042,7 @@
 150.251.113.186/bins/dlr.mpsl
 150.251.113.186/bins/dlr.ppc
 150.251.113.186/bins/dlr.spc
+150.255.20.100:50985/i
 150.255.244.107:45989/i
 150.255.33.157:56929/i
 150.40.127.145/aws
@@ -13110,7 +13118,9 @@
 151.236.247.230:19193/i
 151.237.28.235:18623/i
 151.237.4.20:46151/
+151.237.4.20:46151/.i
 151.237.4.20:46151/Mozi.m
+151.237.4.20:46151/i
 151.240.151.223/app/3af981719677/FileInspectorX.msi
 151.240.151.7/bins.sh
 151.240.151.7/bins/bins.sh
@@ -15057,8 +15067,6 @@
 175.165.197.57:46174/i
 175.165.199.119:58677/i
 175.165.199.185:51509/i
-175.165.212.187:59176/bin.sh
-175.165.212.187:59176/i
 175.165.23.170:32996/i
 175.165.236.61:47227/i
 175.165.237.83:34866/i
@@ -18198,7 +18206,6 @@
 178.16.55.154/Bin/ScreenConnect.ClientSetup.exe
 178.16.55.154/bin/support.client.exe
 178.16.55.240/a
-178.16.55.240/corp/a
 178.16.55.240/corp_/a
 178.16.55.240/nm/a
 178.16.55.240/nmm/a
@@ -18296,6 +18303,7 @@
 179.154.80.249:53339/bin.sh
 179.154.80.249:53339/i
 179.189.254.54:19253/.i
+179.189.254.54:19253/i
 179.198.124.213/alpha-payload.zip
 179.198.124.213/cloud-setup.ps1
 179.214.0.18/AV.lnk
@@ -18320,7 +18328,6 @@
 179.49.213.85:58757/bin.sh
 179.49.213.85:58757/i
 179.49.213.85:58769/i
-179.60.216.19:65020/i
 179.61.221.162/1.sh
 179.61.221.162/2.sh
 179.61.221.162/3.sh
@@ -18618,6 +18625,7 @@
 180.245.62.121:48408/i
 180.245.62.133:35562/bin.sh
 180.245.62.133:35562/i
+180.250.160.26:37143/Mozi.m
 180.250.160.26:37143/i
 180.252.133.128:35737/bin.sh
 180.252.133.128:35737/i
@@ -18712,7 +18720,6 @@
 180.93.116.41/spc
 180.93.116.41/x86
 180.93.116.41/x86_64
-181.129.177.162:26290/.i
 181.129.177.162:26290/i
 181.129.182.138:50370/
 181.129.182.138:50370/i
@@ -18731,6 +18738,7 @@
 181.174.231.21:59799/i
 181.197.146.98:55755/bin.sh
 181.197.146.98:55755/i
+181.211.252.34:1808/i
 181.214.136.12/1.sh
 181.214.136.12/hiddenbin/Mystic.arc
 181.214.136.12/hiddenbin/Mystic.arm
@@ -20068,6 +20076,8 @@
 182.121.250.165:60904/i
 182.121.250.74:60904/bin.sh
 182.121.250.74:60904/i
+182.121.253.222:37832/bin.sh
+182.121.253.222:37832/i
 182.121.253.48:55721/i
 182.121.41.150:35231/i
 182.121.41.234:52522/i
@@ -20955,6 +20965,7 @@
 182.253.115.155:59323/.i
 182.253.115.155:59323/Mozi.m
 182.253.115.155:59323/i
+182.253.115.156:59323/.i
 182.253.115.156:59323/Mozi.m
 182.253.115.156:59323/i
 182.34.56.255:59959/bin.sh
@@ -20994,6 +21005,7 @@
 182.90.70.196:42037/i
 182.92.99.95/kaijiorder/cert/2a.hta
 182.92.99.95/kaijiorder/cert/41a1111.hta
+182.93.83.124:11028/.i
 182.93.83.124:11028/i
 183.11.226.207:7125/linux
 183.12.166.29:44417/i
@@ -21387,8 +21399,6 @@
 185.248.15.35:50460/bin.sh
 185.248.15.35:50460/i
 185.248.15.35:55955/i
-185.253.75.188:81/a.sh
-185.253.75.188:81/auto.jpg
 185.29.10.11/AFrlKy223.bin
 185.29.10.11/Menneskevrdige.csv
 185.29.10.11/Supersensitizing.hhk
@@ -21531,7 +21541,6 @@
 186.149.204.12:55751/bin.sh
 186.149.204.12:55751/i
 186.154.93.81:8125/.i
-186.154.93.81:8125/Mozi.m
 186.154.93.81:8125/i
 186.159.15.2:36386/i
 186.208.12.230:54283/bin.sh
@@ -21547,6 +21556,7 @@
 186.235.86.129/Video.lnk
 186.235.86.129/Video.scr
 186.235.86.129/info.zip
+186.87.82.140:31414/i
 187.110.223.227:52319/bin.sh
 187.110.223.227:52319/i
 187.110.223.227:55610/i
@@ -21587,7 +21597,6 @@
 188.147.175.138:5002/sshd
 188.16.85.54:34815/bin.sh
 188.16.85.54:34815/i
-188.162.88.253/sshd
 188.17.67.167:36252/bin.sh
 188.17.67.167:36252/i
 188.170.32.148:84//sshd
@@ -21597,7 +21606,6 @@
 188.19.103.145:45649/bin.sh
 188.19.103.145:45649/i
 188.19.145.228:54084/i
-188.212.158.75/5556.rar
 188.225.2.32:46748/bin.sh
 188.225.2.32:46748/i
 188.233.55.80:60312/i
@@ -21613,7 +21621,6 @@
 188.38.158.163:35918/i
 188.38.158.163:40685/bin.sh
 188.38.158.163:56786/i
-188.44.110.215:60566/.i
 188.44.110.215:60566/i
 188.56.204.166:46431/i
 188.58.194.2:13685/bin.sh
@@ -21701,7 +21708,6 @@
 190.113.124.155:64726/Mozi.m
 190.113.124.155:64726/i
 190.115.80.35:49166/Mozi.m
-190.12.99.194:28516/
 190.12.99.194:28516/.i
 190.123.46.208/Okami.arm4
 190.123.46.208/Okami.arm5
@@ -21726,6 +21732,7 @@
 190.185.119.13:53572/Mozi.m
 190.185.119.13:53572/i
 190.186.28.36:62930/.i
+190.186.28.36:62930/i
 190.196.253.104:10891/Mozi.a
 190.196.253.2:10167/Mozi.m
 190.196.253.39:10150/Mozi.m
@@ -21956,7 +21963,6 @@
 193.163.187.75:50459/bin.sh
 193.163.187.75:50459/i
 193.165.245.46:8000/
-193.169.146.186:61643/i
 193.178.158.107/1.exe
 193.178.158.107/2.8.exe
 193.178.158.107/2.exe
@@ -22700,6 +22706,7 @@
 196.190.11.194:47920/bin.sh
 196.190.11.194:48645/bin.sh
 196.190.11.194:48645/i
+196.190.11.194:57512/i
 196.190.133.180:34930/bin.sh
 196.190.133.180:34930/i
 196.190.133.180:37291/i
@@ -22742,6 +22749,7 @@
 196.190.229.115:49979/i
 196.190.69.149:35451/i
 196.190.69.149:36947/i
+196.190.69.149:37027/i
 196.190.69.149:38766/i
 196.190.69.149:39184/i
 196.190.69.149:39915/i
@@ -22917,9 +22925,7 @@
 198.166.72.242/armv7l
 198.166.72.242/armv7l/kthreadRM
 198.166.72.242/armv7l/rls
-198.166.72.242/x86_64
 198.166.72.242/x86_64/kthreadRM
-198.166.72.242/x86_64/rld
 198.166.72.242/x86_64/rls
 198.20.153.28/run2
 198.211.109.187/Bin/ScreenConnect.ClientSetup.exe
@@ -23187,6 +23193,7 @@
 200.115.102.246:33509/bin.sh
 200.115.102.246:33509/i
 200.115.102.246:36653/i
+200.115.102.246:36757/i
 200.115.102.246:39362/bin.sh
 200.115.102.246:39362/i
 200.115.102.246:39943/i
@@ -23213,6 +23220,7 @@
 200.115.102.2:57794/i
 200.118.103.42:26816/.i
 200.118.103.42:26816/i
+200.122.211.138:31644/02.08.2022.exe
 200.122.211.138:31644/i
 200.14.250.72/BLJYSVHW/IMG001.exe
 200.14.250.72/BLJYSVHW/info.zip
@@ -23739,6 +23747,7 @@
 200.61.163.235:27538/.i
 200.61.163.235:27538/Mozi.m
 200.61.163.235:27538/i
+200.69.219.25:6584/.i
 200.69.219.25:6584/Mozi.m
 200.69.219.25:6584/i
 201.110.101.29:38216/i
@@ -23757,6 +23766,7 @@
 201.110.21.150:38216/i
 201.110.61.47:38216/bin.sh
 201.110.61.47:38216/i
+201.110.99.103:38216/i
 201.159.91.2:41978/Mozi.m
 201.159.91.2:41978/bin.sh
 201.159.91.2:41978/i
@@ -23857,13 +23867,11 @@
 202.111.130.33:55998/i
 202.129.16.172/chinese.txt
 202.131.244.202:30068/.i
-202.131.244.202:30068/Mozi.m
 202.131.244.202:30068/i
 202.133.5.186:8000/
 202.139.20.12:1125/sshd
 202.148.18.218:30944/.i
 202.148.18.218:30944/Mozi.m
-202.148.18.218:30944/i
 202.148.18.220:30944/.i
 202.148.18.220:30944/Mozi.m
 202.148.18.220:30944/i
@@ -24588,6 +24596,7 @@
 210.8.142.189:51232/i
 210.91.88.90/AV.scr
 210.95.98.66:8012/linux
+210.97.100.192:32860/i
 210.97.100.192:33082/i
 210.97.100.192:46766/i
 210.97.100.192:49181/i
@@ -24608,6 +24617,7 @@
 211.158.220.45:58929/bin.sh
 211.158.220.45:58929/i
 211.186.82.229:13753/.i
+211.186.82.229:13753/i
 211.194.20.7:11550/i
 211.219.49.173:4089/Mozi.m
 211.219.49.173:4089/i
@@ -24723,12 +24733,13 @@
 213.33.204.186:1292/i
 213.47.243.57:48784/i
 213.5.19.99:13681/i
+213.5.194.56:43416/.i
 213.5.194.56:43416/i
 213.6.196.230:27629/.i
-213.6.196.230:27629/i
 213.6.74.138:39286/.i
 213.6.74.138:39286/Mozi.m
 213.6.74.138:39286/i
+213.64.230.238:4726/i
 213.66.220.87:50871/bin.sh
 213.66.220.87:50871/i
 213.66.64.21:51943/bin.sh
@@ -24771,6 +24782,7 @@
 216.126.86.64:38919/i
 216.126.86.68:40753/bin.sh
 216.126.86.68:40753/i
+216.126.86.6:48683/i
 216.126.86.6:57863/bin.sh
 216.126.86.6:57863/i
 216.126.86.75:39675/bin.sh
@@ -24802,6 +24814,7 @@
 216.225.206.31/55/wegivingbestthignswiththemforme.hta
 216.225.206.31/56/goodthingswforbestfeelingsfromtheheartsesion.hta
 216.225.206.31/56/nn/bestgood.vbe
+216.247.213.147:3287/bin.sh
 216.249.4.20:32899/i
 216.249.4.20:35937/i
 216.249.4.20:36657/bin.sh
@@ -24882,6 +24895,7 @@
 217.154.7.237/876trdfg67898iujhnmsad/crypted.ps1
 217.154.79.223:5402/payload.bin
 217.168.128.146:41013/.i
+217.168.128.146:41013/i
 217.217.233.97/go.sh
 217.217.233.97:8080/run.sh
 217.217.233.97:8081/run.sh
@@ -24902,7 +24916,6 @@
 217.217.97.53/bin/support.client.exe
 217.217.97.96/imgruninc/secured_stub.ps1
 217.218.235.202:17134/Mozi.m
-217.218.235.202:17134/i
 217.25.229.189:54559/i
 217.60.102.12/ntb.armv4
 217.60.102.12/ntb.armv5
@@ -25553,6 +25566,7 @@
 219.156.105.15:56982/i
 219.156.105.185:60344/bin.sh
 219.156.105.185:60344/i
+219.156.109.19:39973/i
 219.156.112.101:58252/i
 219.156.112.14:60974/bin.sh
 219.156.112.14:60974/i
@@ -25751,7 +25765,6 @@
 219.157.23.252:47875/bin.sh
 219.157.23.252:47875/i
 219.157.233.184:51727/bin.sh
-219.157.233.184:51727/i
 219.157.237.251:52792/bin.sh
 219.157.237.251:52792/i
 219.157.238.6:35642/bin.sh
@@ -26743,7 +26756,6 @@
 222.134.164.39:49784/i
 222.134.167.0:42213/bin.sh
 222.134.167.0:42213/i
-222.134.168.54:47179/i
 222.134.172.157:35193/bin.sh
 222.134.172.157:35193/i
 222.134.172.251:54395/i
@@ -28890,6 +28902,7 @@
 31.180.174.148:54401/i
 31.184.194.114/404
 31.186.54.111:54583/Mozi.m
+31.186.54.111:54583/i
 31.220.3.140/c.sh
 31.220.3.140/dlink
 31.220.3.140/gpon
@@ -29625,6 +29638,7 @@
 36.66.168.49:4656/i
 36.67.66.178:23987/Aqua.arm6
 36.67.66.178:23987/Mozi.a
+36.67.66.178:23987/Mozi.m
 36.67.66.178:23987/bin.sh
 36.67.66.178:23987/i
 36.67.66.178:23987/o
@@ -30240,6 +30254,7 @@
 39.71.13.220:39751/i
 39.71.177.225:57662/bin.sh
 39.71.177.225:57662/i
+39.71.180.174:38476/bin.sh
 39.71.180.174:38476/i
 39.71.201.170:33249/i
 39.71.202.105:54578/bin.sh
@@ -30379,7 +30394,6 @@
 39.81.110.234:45926/bin.sh
 39.81.179.181:41855/bin.sh
 39.81.179.181:41855/i
-39.81.19.153:33185/i
 39.81.218.190:60892/bin.sh
 39.81.218.190:60892/i
 39.81.219.246:58526/bin.sh
@@ -30617,6 +30631,7 @@
 42.177.102.201:45262/i
 42.177.103.199:46495/bin.sh
 42.177.103.199:46495/i
+42.177.105.196:59284/bin.sh
 42.177.111.4:48477/bin.sh
 42.177.122.244:34345/bin.sh
 42.177.122.244:34345/i
@@ -31125,6 +31140,8 @@
 42.226.206.74:44992/i
 42.226.209.82:46014/bin.sh
 42.226.209.82:46014/i
+42.226.210.87:44184/bin.sh
+42.226.210.87:44184/i
 42.226.211.193:43686/bin.sh
 42.226.211.193:43686/i
 42.226.212.217:38509/i
@@ -31881,6 +31898,7 @@
 42.233.104.159:60243/bin.sh
 42.233.104.208:40542/bin.sh
 42.233.104.208:40542/i
+42.233.104.209:39496/i
 42.233.104.85:36775/bin.sh
 42.233.104.85:36775/i
 42.233.105.187:60243/bin.sh
@@ -32068,6 +32086,7 @@
 42.235.183.167:47451/i
 42.235.183.249:58564/bin.sh
 42.235.183.249:58564/i
+42.235.230.253:36424/bin.sh
 42.235.230.253:36424/i
 42.235.235.102:60059/bin.sh
 42.235.235.102:60059/i
@@ -32451,6 +32470,7 @@
 42.239.226.189:50511/i
 42.239.226.213:55619/bin.sh
 42.239.226.213:55619/i
+42.239.226.49:42402/i
 42.239.227.108:60344/bin.sh
 42.239.228.53:46459/bin.sh
 42.239.228.53:46459/i
@@ -32508,6 +32528,7 @@
 42.239.252.93:34307/i
 42.239.254.29:45947/bin.sh
 42.239.254.29:45947/i
+42.239.254.3:48124/bin.sh
 42.239.254.3:48124/i
 42.239.255.151:32965/i
 42.239.255.6:34597/i
@@ -32854,6 +32875,7 @@
 42.56.41.233:56405/i
 42.57.164.151:60901/i
 42.57.180.68:33329/i
+42.57.181.170:39987/i
 42.57.183.42:35048/bin.sh
 42.57.183.42:35048/i
 42.57.184.123:51793/bin.sh
@@ -33218,7 +33240,6 @@
 43.228.157.73/client.exe
 43.228.157.73/deploy.sh
 43.228.157.73/softwaretech
-43.229.20.42:2874/i
 43.230.44.36/AV.lnk
 43.230.44.36/AV.scr
 43.230.44.36/Photo.lnk
@@ -34624,7 +34645,6 @@
 5.165.8.124:9822/bin.sh
 5.165.8.124:9822/i
 5.165.98.181:52976/i
-5.166.107.132:44061/i
 5.166.114.0:44061/bin.sh
 5.166.114.0:44061/i
 5.166.39.19:27250/i
@@ -36029,6 +36049,7 @@
 57.129.23.24/8089/crypted.ps1
 57.129.23.24/sike/crypted.ps1
 58.145.168.170:25222/.i
+58.145.168.170:25222/Mozi.m
 58.145.168.170:25222/i
 58.168.224.103:36739/bin.sh
 58.168.224.103:36739/i
@@ -36544,8 +36565,6 @@
 59.97.248.204:58738/bin.sh
 59.97.248.204:58738/i
 59.97.248.235:33108/i
-59.97.248.23:53076/bin.sh
-59.97.248.23:53076/i
 59.97.248.45:33243/bin.sh
 59.97.248.45:33243/i
 59.97.248.47:54790/i
@@ -38415,7 +38434,6 @@
 69.33.213.199/nerv.x86_64
 69.46.43.35/pty1
 69.46.43.35/pty10
-69.46.43.35/pty2
 69.46.43.35/pty3
 69.46.43.35/pty4
 69.46.43.35/pty5
@@ -38597,7 +38615,6 @@
 77.172.14.72/Video.scr
 77.172.14.72/info.zip
 77.211.28.150/Photo.lnk
-77.211.28.150/Video.lnk
 77.211.28.150/Video.scr
 77.211.28.150/info.zip
 77.221.153.100/d2503d96a3?force=1
@@ -39068,7 +39085,6 @@
 81.16.242.236:28115/.i
 81.16.242.236:28115/Mozi.m
 81.16.242.236:28115/i
-81.16.247.81:17403/.i
 81.16.247.81:17403/Mozi.m
 81.16.247.81:17403/i
 81.16.251.131:36612/.i
@@ -39096,10 +39112,10 @@
 81.236.234.16:40372/bin.sh
 81.236.234.16:40372/i
 81.236.234.16:59159/bin.sh
-81.236.234.16:59159/i
 81.26.83.155:44019/bin.sh
 81.26.83.155:44019/i
 81.26.83.155:58389/i
+81.4.156.50:63841/i
 81.42.247.62:8082//sshd
 81.42.247.62:8082/sshd
 81.42.247.62:8083//sshd
@@ -39141,6 +39157,7 @@
 82.114.181.233:33360/i
 82.114.200.50:48416/
 82.114.200.50:48416/.i
+82.114.200.50:48416/i
 82.139.95.202:2000/
 82.144.86.37:47425/bin.sh
 82.144.86.37:47425/i
@@ -39517,6 +39534,7 @@
 85.215.45.36:8080/bot
 85.215.45.36:8080/bot.x86
 85.215.45.36:8080/i.sh
+85.215.45.36:8080/mirai.x64
 85.219.201.2:42660/bin.sh
 85.219.201.2:42660/i
 85.219.201.2:47305/bin.sh
@@ -39596,6 +39614,7 @@
 87.249.142.126:60800/AV.scr
 87.249.142.126:60800/Photo.scr
 87.249.142.126:60800/Video.scr
+87.249.142.126:60800/info.zip
 87.5.64.246:38286/i
 87.58.201.21/arm4
 87.58.201.21/arm6
@@ -39761,7 +39780,6 @@
 89.23.107.5/k/ofelia.dat
 89.23.107.5/m/jscotbpl.dat
 89.231.14.137:2282/
-89.231.14.137:2282/.i
 89.231.14.137:2282/Mozi.m
 89.231.14.137:2282/i
 89.34.90.130/kxunkw4z-u2qv2kxd-qd76zt3x-kmcbgxy3/package.msi
@@ -39776,7 +39794,6 @@
 89.35.233.220:8082/sshd
 89.35.233.220:8083/sshd
 89.43.223.227:37974/i
-8g7kgrp5.frisbeeburgerllc.com/?ublib=7abd318e-a9b7-46f2-b43f-1debb37a97db
 8iuwoa4l.of-tencent.com/?ublib=e1be6bd6-929b-4b85-8d42-7515c0ede2c9
 90.153.177.144:40805/i
 90.153.190.250:60375/i
@@ -39815,6 +39832,7 @@
 91.137.217.64:55199/bin.sh
 91.137.217.64:55199/i
 91.143.172.196:57666/i
+91.147.91.21:23459/
 91.147.91.21:23459/i
 91.153.133.160:48556/i
 91.157.243.235:47252/bin.sh
@@ -40852,7 +40870,6 @@
 94.136.82.70:59973/bin.sh
 94.136.82.70:59973/i
 94.137.54.143:3344/i
-94.142.63.8:24860/i
 94.154.32.130/1stcoco/secured_stub.ps1
 94.154.32.130/b7823990/secured_stub.ps1
 94.154.32.173/Bin/ScreenConnect.ClientSetup.exe
@@ -42847,6 +42864,7 @@
 94.249.188.204/bins/x86_64
 94.249.230.216/rondo
 94.249.230.216/rondo.jbt
+94.251.5.51:31559/.i
 94.251.5.51:31559/Mozi.m
 94.251.5.51:31559/i
 94.26.106.206/c.sh
@@ -42915,7 +42933,6 @@
 94.76.156.101:280/Photo.lnk
 94.76.156.101:280/Photo.scr
 94.76.156.101:280/Video.lnk
-94.76.156.101:280/Video.scr
 95.106.219.144:10368/i
 95.106.223.168:60471/i
 95.106.249.19:11817/bin.sh
@@ -43063,6 +43080,7 @@
 95.170.116.28:21086/.i
 95.170.116.28:21086/Mozi.m
 95.170.116.28:21086/i
+95.170.119.100:1863/i
 95.179.224.131:8080/pty10
 95.179.224.131:8080/pty3
 95.179.224.131:8080/pty4
@@ -43741,7 +43759,6 @@ bauble.cleverpondky.com/static/js/sdfjgnjsdf.x86
 bauble.cleverpondky.com/static/js/sdfjgnjsdf.x86_64
 bcmej6hr.goodlifelakerentals.com/?ublib=dd862fbe-b81b-419b-88fc-1a48c1b496d5
 beacon.ltdglobal.co.uk/dl/xmrig.tgz
-beak.in/au/au.js
 beamtechmacros.com/beamtech-1.1.8-mc26.1.2.jar
 beamtechmacros.com/beamtech-1.1.8-mc26.2.jar
 becof.org/
@@ -44327,7 +44344,6 @@ cosmical2049.com/lom3/0ad7a0bdad0aa13d
 counterscale.jean-r-mi-larcelet-prost.workers.dev/
 cozysigh-nick.xyz/avast_update
 cpc188.day/apps/cpc188.apk
-cpofficial.com/kusaka.php?call=av
 cqintzfep6rw6jc9.public.blob.vercel-storage.com/2.bat
 cqylt.net/?e=v
 crackedclients.com/krypton-client.jar
@@ -44524,7 +44540,6 @@ davestrap.xyz/installer.exe
 db-connectify.vercel.app/server/v2
 db-connectors.vercel.app/server/v2
 db.foodbook.pk/download/21.0.2/rdp_officex_manager.exe
-dbomd.famscargo.com/487a34f2-6b4a-4626-b276-2fc3116ed4b8
 dcfpp.com/_wildcard_.coqtarwars.vu/64.js
 dcrun.co.uk/chin/Ifjjmktge.mp3
 dcwblida.dz/images/stories/guides/Guide2018.exe
@@ -45156,14 +45171,12 @@ drive.google.com/uc?export=download&id=1MLcCIZOl0n0eDJSymxElUd4BoNCxSW5U
 drive.google.com/uc?export=download&id=1MUFtth-5lsCDi3OvD5VN7sjkeiT2h9k1
 drive.google.com/uc?export=download&id=1N8_s6gIjereArczwh74BlKYgOdIg64eO
 drive.google.com/uc?export=download&id=1NQFkpFufupWakv5t5BlwnirI3TmrKoPw
-drive.google.com/uc?export=download&id=1NW1GmZG6LwTuhs0TTE969xcFpP9_dc5q
 drive.google.com/uc?export=download&id=1NuRs33pJXEZqHl9cIafOpya6u7I1vPKV
 drive.google.com/uc?export=download&id=1O3Zw7SOdJi4Uk954KNGkDYsHyL37GOzq
 drive.google.com/uc?export=download&id=1O9jG3OQYEWNcoPTigwsCdbTfMvtfQyGJ
 drive.google.com/uc?export=download&id=1OSqXHD1NCdYo-hhAvraDWBM9_Itb2P49
 drive.google.com/uc?export=download&id=1OUs4s8axg1VrXLEGkjjz9EB-4mCpnM0F
 drive.google.com/uc?export=download&id=1OVlUq0BDU-cYs5xvYogyJd5qIDQB1pER
-drive.google.com/uc?export=download&id=1ObSjRfAxe5D8je8uZDmkgk9kUs-nsQXs
 drive.google.com/uc?export=download&id=1Oe1iXppk9TdxFMaIrSjHsacDGh2lItAG
 drive.google.com/uc?export=download&id=1OkqDyR_KghaNl7h_I1MWmlMzfesw_gX0
 drive.google.com/uc?export=download&id=1Oo1oHLsSgVvBPvq252fG2VaJgxMckmPj
@@ -45407,7 +45420,7 @@ dstats.qzz.io/sh4
 dstats.qzz.io/x64s
 dstats.qzz.io/x86
 dttjjkkllzbvesjzndtp.vercel.app/?download=1
-dtzu.patxisdublin.com/68d31695-2977-40ec-b1f9-693c507242b6
+dubapkg.cmcmcdn.com/c/186def/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90.exe
 duck-fondmoan.xyz/avast_update
 duct-master.com/00/newMSI_PRO.png
 duel-gulp-luck.xyz/avast_update
@@ -45440,7 +45453,6 @@ eclipsebible.com/eclipse.x86_64
 eclipsebible.com/loader.sh
 edisonmanotas.free.nf/img_083253.png
 edisonmanotas.free.nf/img_095914.png
-edtbi.jetbet.download/b442ea02-b255-4ea4-ba1c-bd62b55f54b4
 effectively32.infinityfree.me/img_072806.png
 eldertechsupport.com
 electri.billregulator.com/aTu.lim
@@ -45650,6 +45662,7 @@ ficus.in/img/img_220602.png
 ficus.in/img/img_221258.png
 fil.immortales.life/Divine.zip
 file.blackint3.com:88/openark/OpenArk32.exe
+file.blackint3.com:88/openark/OpenArk64.exe
 file.blackint3.com:88/openark/version.txt
 file.tugou.com.co/files/Adobe%20Acrobat%20Reader.exe
 file.tugou.com.co/files/msdt.exe
@@ -48450,6 +48463,7 @@ github.com/yoniespaa/family-crush-unlocked-edition/raw/refs/heads/branch/noncast
 github.com/youkatalo123-star/ComfyUI_RH_VoxCPM/raw/refs/heads/main/nodes/CPM_Comfy_U_R_Vox_v1.1.zip
 github.com/youngwolf2077-a11y/gmail-postmaster-tools-mcp/raw/refs/heads/main/server/mcp_gmail_postmaster_tools_v1.0.zip
 github.com/ytgaisarik-glitch/ggwprarrarrartkaaa/releases/download/GTech/GTech.exe
+github.com/yumYumdonuts/Free-YouTube-To-MP3-Converter-Free/releases/download/1.1.2/FreeYouTubeToMP3ConverterFree-1.1.2.zip
 github.com/yustosl1525/Cober-Windows-Bar/raw/refs/heads/main/src/providers/Cober_Windows_Bar_v2.7-beta.3.zip
 github.com/yutthanaiam/line-bot-sdk-php/raw/refs/heads/master/line-bot-sdk-tiny/bot-php-line-sdk-3.5.zip
 github.com/yutthanaiam/nongmod/raw/refs/heads/master/vendor/composer/Software-2.6.zip
@@ -49290,7 +49304,6 @@ hponline.run.place/ccaattss/Crypted.ps1
 hponline.run.place/ccaattss/caty/6DerwjXowhdyTfqgNm73w23CbvRhwQ38d.js
 hrykp.varzeshlife.ir/ed787865-55f5-4cbe-975a-11133e92978b
 hseda.com/download/qt51crk.exe
-htdentshop.com/ed/ed.js
 httpbin.org/base64/MDUzOTIxNDY2MDVjMTM4NDU5NTA1OWRjYzBjMWJjZDQyNzc0ODAwZmUzZTRkOGI4MWRmYTE5OTczN2I0NTIwMA==
 hullmall-cool.xyz/avast_update
 hvao.jbgroup21.com/60861fb4-c42e-4d32-9d1e-7f445fbb4fbe
@@ -49333,7 +49346,6 @@ ihmmkvkaiwnilneauhfn.supabase.co/storage/v1/object/public/hold/image.jpg
 ihmmkvkaiwnilneauhfn.supabase.co/storage/v1/object/public/hold/image.jpg?12711343
 ihmmkvkaiwnilneauhfn.supabase.co/storage/v1/object/public/hold/image.jpg?12711343h
 ijexgroup.com.br//wp-admin/images/ScreenConnect.ClientSetup.msi
-ijm1e9p4.chrisbrownstlouis.com/?ublib=db190de9-fde1-4c33-97d6-43b213133a44
 ik.imagekit.io/k1gn1jh9t/dIhimbS.txt
 ikechux.publicvm.com/chiefprince/secured_stub.ps1
 ikechux.publicvm.com/mrprinnce28/secured_stub.ps1
@@ -50525,7 +50537,6 @@ impectorinternational.com/harder/binikuku.dat
 impectorinternational.com/kaka/stego_jwfhjrnszg.png
 implantdentistrytx.com/curl/b54cc90c9143f757e0ac59356414f14447d5f9cbbae0b0e61cf6b4e8ced28f42
 importantdocumentscopys.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
-imrmd.drdavidzweiback.com/c5c47653-232a-4c2f-9191-c2ec03cc3bcf
 infocardphoto.info/
 infocardphoto.info/n?id=hsezigwn
 infocrabcob.xyz/avast_update
@@ -50971,7 +50982,6 @@ lp.afonsonobreadv.com.br/wp-includes/cryptted.ps1
 luckfort-grim.xyz/avast_update
 luizmatoso.com.br/scr/omgo/Approval3546.msi
 lull-islebrew.xyz/avast_update
-lumacrea.com/me/me.js
 luminexclient.com/luminex-client-1.21.4-beta.jar
 luminexclient.net/luminex-client-26.2.jar
 luminouspower.com.pk/zoom.exe
@@ -51239,7 +51249,6 @@ manbipll.duckdns.org/bins/sh4
 manbipll.duckdns.org/bins/x86
 manbipll.duckdns.org/bins/x86_64
 manbipll.duckdns.org/bins/x86_64nosl
-mandarin.net.au/htaaa.hta
 manita.lol/d/049e625ea690455ba545c97cf546fd8d
 manita.lol/d/3c547dbeb28c4b8d937a771d0debff39
 manita.lol/d/9077ca9a63a44186add67faed923847e
@@ -51412,7 +51421,6 @@ mon-xxx-02.cfd/FirertjuDispatcher.exe
 moneylord.org/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 moniquejhingon.com/Chrome.exe
 moniquejhingon.com/google.exe
-moszp.jetbet.download/4d255a6d-38c8-4990-bd2c-d4eff5640c24
 mothwellkeep.xyz/avast_update
 mottl-dirtnine.xyz/avast_update
 move-dram-film.xyz/avast_update
@@ -51441,6 +51449,7 @@ muddy-sound-e0cd.nodetectonn.workers.dev/pufcw
 muddy-sound-e0cd.nodetectonn.workers.dev/xBEiV
 mukabar.co.mz/css/images/stego_oo8nser2q2.png
 muledo.com/donkey.php
+muledo.com/investigative.php
 muledo.com/semitrailer.php
 multiculturalbridge.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe?e=Access&y=Guest
 multiplay.at/game-copier/downloads/Game-Copier.zip
@@ -51594,7 +51603,6 @@ ns.devmicro7.workers.dev/zips/e8bb3088f6c55fa6.zip
 ns.devmicro7.workers.dev/zips/f2d0984b93e808eb.zip
 nsci.space/mmmasabikkk/secured_stub.ps1
 nsci.space/mrmasabik/secured_stub.ps1
-nusatoyota.co.id/teev/teev.js
 nw.almfwb.com/almfwb.zip
 nwlansing.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 nze.work.gd/nzee/secured_stub.ps1
@@ -51943,7 +51951,6 @@ power.belyxhost.in/bins/x86
 power.belyxhost.in/bins/x86_64
 power.belyxhost.in/payload.sh
 practisingcertificateprotection.com/Installer_91473f.msi
-preciosasjoyitas.com.mx/pdf/pdf/ScreenConnect.ClientSetup.msi
 prepstarcenter.com/app/linux.bin
 prestige-client.live/downloads/PrestigeSetup_pw1337.zip
 prestige-client.org/PrestigeLoader-26.2.jar
@@ -71136,6 +71143,7 @@ revengegrompegroups.pl/cgi-webpage/aoncontentspagesviewscontentsfilesevelopmentv
 richoverfold.xyz/avast_update
 rideloreomit.xyz/avast_update
 riderspin.com/agenzia/
+riderspin.com/connect/
 riderspin.com/scarica/
 riftfacetill.xyz/avast_update
 rippled.cleverpondky.com/Error84
@@ -71703,6 +71711,7 @@ stat.bestcompliance.net/p
 stat.bestcompliance.net/s
 statementreaderdownload.com/installation/Installer.msi
 static.3001.net/upload/20140812/14078161556897.rar
+static.ilclock.com/gcld/updates_tw/gcmgr_tw.exe
 static.topxgun.com/1465810408079_502.exe
 static.youdm.cn/static/clean/clean.apk
 static.zongheng.com/app/filesrc/android/apk/2023/zonghengXSAndroid_7.5.6.63_zh-zhh5.apk
@@ -71878,7 +71887,6 @@ test.peperoncinochepassione.it/
 tetris-supdate.xyz/d/unix58962202
 tgbft.countertops-dfw.com/fbc720fb-1dca-49ce-83bf-4b62ae663821
 thankful-cliff-01dfec010.7.azurestaticapps.net/Adobe_Updater%20.msi
-thehaider.com/await.php
 theholidayroads.com/public/userbackend/plugins/dropzone/min/assents.php
 theholidayroads.com/public/userbackend/plugins/dropzone/min/knave.php
 theholidayroads.com/public/userbackend/plugins/dropzone/min/stare.php
@@ -72899,9 +72907,7 @@ www2.0zz0.com//2025/07/19/15/683192372.png
 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com/Tan.jpg
 wwwiiisss.oss-ap-northeast-1.aliyuncs.com/SogouExplorer21_windows.zip
-wxfwe0h3.chrisbrowndetroit.com/?ublib=16ce54de-7a0c-44c6-9dc2-f42f276c5ecf
 wylkpznq.xyz/hukl/cp/bin.exe
-wz43qign.houseofhakka.com/?ublib=bd12a875-8182-4a0e-894a-957ceb8fd078
 x9v2mq4t.bossbey.store/?ublib=6b1e0c2a-2f4d-4c9e-8a7b-3d5f1e9c0b21
 xaerosminimap.com/xaerosminimap-fabric-1.21.11.jar
 xaerosminimap.com/xaerosminimap-fabric-1.21.4.jar
@@ -73021,6 +73027,7 @@ zcalton.com/UTODYIBG.msi
 zcalton.com/b2.txt
 zenithclient.com/download
 zetaval.metcalfphoto.com/update.sh
+zhigao5191.com/usr/uploads/file/202002/20200210195059_78353.rar
 zhimaly.com/d/5oxCDyJx838lvhTTZd-0WpkvWW_ooOKg
 zhimaly.com/d/7kPf1J6ZbKN4czQ1599Yj4dvd5l94_JN
 zhimaly.com/d/UMPkg-ABKtBymeUzSih8ge0x3YFxXXcL
@@ -73035,6 +73042,5 @@ zoredaye.com/stego_yzybqoy6im.png
 zpbn.comptonanimalrescue.com/73544089-4bf3-4db8-a557-12f35080b488
 zunimar.cl/img/img_212234.png
 zvni.frizzhairforecast.com/7f060f0b-6e40-4eb1-be20-206f57a08efd
-zwhun.hazaratbet.bet/3e81d644-b985-4494-b806-e2741b0d5681
 zycdjz.com/editor%E6%B1%89%E5%8C%96%E7%89%88.rar
 zztz.jetourmexico.com/d9e8d962-38f8-400f-ae35-703f4b691ef8
